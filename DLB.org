@@ -160,230 +160,261 @@ Bücher: Meditation / Esoterik: Astrologie allgemein
 >> Mehr von diesem Verkäufer in dieser Sparte
 >> Alle Sparten dieses Verkäufers
 
-***** A translation in english - online
+***** translationa in english - online 
+      :PROPERTIES:
+      :DATE:     <2020-12-07 Mon 15:19>
+      :END:
 
-https://penelope.uchicago.edu/misctracts/plutarchE.html
+****** uchicago - Browne's Miscellany Tract
+
+ https://penelope.uchicago.edu/misctracts/plutarchE.html
+
+ #+begin_quote
+
+ ON THE 'E'* AT DELPHI
+ Browne's Miscellany Tract On Oracles
+
+ (In the Pronaos of the temple at Delphi the visitor was confronted by certain inscriptions (γράμματα): 'Know thyself' — 'Nothing too much' — 'Go bail and woe is at hand' — all exhortations to wisdom or prudence (Plato, Charmides, 163-4). To these is to be added, on the sole authority of Plutarch's Dialogue,** the letter E, pronounced EI.)
+
+ THE SPEAKERS
+
+ AMMONIUS, the Platonist philosopher, Plutarch's teacher.
+ LAMPRIAS, Plutarch's brother.
+ PLUTARCH.
+ THEON, a literary friend.
+ EUSTROPHUS, an Athenian.
+ NICANDER, a priest of the temple.
+
+ I. A day or two ago, dear Serapion, I met with some rather good lines, addressed, Dicaearchus thinks, to Archelaus by Euripides:3
+
+     No gifts, my wealthy friend, from humble me;
+     You'll think me fool, or think I did but beg. 
+
+ He who out of his narrow store offers trifles to men of great possessions, confers no favour; no one believes that he gives something for nothing, and he gets credit for a jealous and ungenerous temper. Now surely as money presents fall far below those of literature and learning, so there is beauty in giving these, and beauty in claiming a return in kind. At any rate, I am sending to you, and so to my friends down there, some of our Pythian Dialogues, as a sort of first-fruits; and in doing so, confess that I expect others from you, and more and better ones, since you enjoy a great city4 and abundant leisure, with many books and discussions of every sort. Well, then, our kind Apollo, in the oracles which he gives his consultants, seems to solve the problems of life and to find a remedy, while problems of the intellect he actually suggests and propounds to the born love of wisdom in the soul, thus implanting an appetite which leads to truth. Among other instances, this is made clear as to the consecration of the letter 'E'. We may well guess that it was not by chance, or by lot, that, along among the letters, it received pre-eminence in the God's house, and took rank as a sacred offering and a show object. No, the officials of the God in early times, when they came to speculate, either saw in it a special and extraordinary virtue, or found it a symbol for something else of serious importance, and so adopted it. I had often myself avoided the question and quietly declined it when raised in the school. However, I was lately surprised by my sons in earnest discussion with certain strangers, who were just starting from Delphi; it was not decent to put them off with excuses, they were so anxious to receive some account. We sat down near the temple, and I began to raise questions with myself, and to put others to them; and the place, and what they said, reminded me of a discussion which we heard a long time ago from Ammonius and others, at the time of Nero's visit, when the same problem had been stated in the same way.
+
+ II. That the God is no less philosopher than he is prophet appeared to all to come out directly from the exposition which Ammonius gives us of each of his names. He is 'Pythian' (The Inquirer) to those who are beginning to learn and to inquire; 'Delian' (The Clear One) and 'Phanaean' to those who are already getting something clear and a glimmering of the truth; 'Ismenian' (The Knowing) to those who possess the knowledge; 'Leschenorian' (God of Discourse) when they are in active enjoyment of dialectical and philosophic intercourse. 'Now since,' he continued, 'Philosophy embraces inquiry, wonder, and doubt, it seems natural that most of the things relating to the God should have been hidden away in riddles, and should require some account of their purpose, and an explanation of the cause. For instance, in the case of the undying fire, why the only woods used here are pine for burning and laurel for fumigation;5 again, why two Fates are here installed, whereas their number is everywhere else taken as three; why no woman is allowed to approach the place of the oracles; questions about the tripod, and the rest. These problems when suggested to persons not altogether wanting in reason and soul, lure them on, and challenge them to inquire, to listen, and to discuss. Look again at those inscriptions, KNOW THYSELF and NOTHING TOO MUCH; how many philosophic inquiries have they provoked! What a multitude of arguments has sprung up out of each, as from a seed! Not one of them I think is more fruitful in this way than the subject of our present inquiry.'
+
+ III. When Ammonius had said this, my brother Lamprias spoke: 'After all, the account which we have heard of the matter is simple enough and quite short. They say that the famous Wise Men, also called by some "Sophists", were properly only five, Chilon, Thales, Solon, Bias, and Pittacus. But Cleobulus, tyrant of Lindos, and, later on, Periander of Corinth, men with no wisdom or virtue in them, but forcing public opinion by influence, friends, and favours, thrust themselves into the list of the wise, and disseminated through Greece maxims and sayings resembling the utterances of the five. Then the five were vexed, but did not choose to expose the imposture, or to have an open quarrel on the matter of title, and to fight it out with such powerful persons. They met here by themselves; and after discussing the matter, dedicated the letter which is fifth in the alphabet, and also as a number signifies five, thus making their own protest before the God, that they were five, discarding and rejecting the seventh and the sixth, as having no part or lot with themselves.6 That this account is not beside the mark may be recognized by any one who has heard the officials of the temple naming the golden "E" as that of Livia the wife of Cæsar, the brazen one as that of the Athenians, whereas the original and oldest letter, which is of wood, is to this day called that "Of the Wise Men", as having been offered of all in common, not of any one of them.'
+
+ IV. Ammonius gave a quiet smile; he had a suspicion that Lamprias had been giving us a view of his own, making up history and legend at discretion. Some one else said that it was like the nonsense which they had heard from the Chaldæan stranger a day or so before; that there were seven letters which were vowels, seven stars that have an independent motion and are unattached to the heavens; moreover that 'E' is the second vowel from the beginning, and the sun the second planet, after the moon, and that all Greeks, or nearly all, identify Apollo with the sun.
+
+ 'But all that', he said, 'is pernicious nonsense. Lamprias, however, has, probably without knowing it, made a move7 which stirs up all who have to do with the temple against his view. What he told us was unknown to any of the Delphians; they used to give the regular guides' account, that neither the appearance nor the sound of the letter has any significance, but only the name.'
+
+ V. 'No, the Delphic Officials', said Nicander the priest, speaking for them, 'believe that it is a vehicle, a form assumed by the petition addressed to the God; it has a leading place in the questions of those who consult him, and inquire,8 If they shall conquer; If they shall marry; If it is advisable to sail; If to farm; If to travel. The God in his wisdom would bow out the dialecticians9 when they think that nothing practical comes of the "If" part with its clause attached; he admits as practical, in his sense of the word, all questions so attached. Then, since it is our personal concern to question him as prophet, but a general concern to pray to him as God, they hold that the letter embraces the virtue of prayer no less than that of inquiry; "O, If I might!" says every one who prays, as Archiolochus,10
+
+     If it might be mine, prevailing, Neobule's hand to touch! 
+
+ When If-so-be11 is used, the latter part is dragged in (compare Sophron's "Bereaved of children, I trow"12, or Homer's "As I will break thy might, I trow"13). But If gives the sense of prayer sufficiently.'
+
+ VI. When Nicander had finished, our friend Theon, whom I am sure you know, asked Ammonius whether Dialectic might speak freely, after the insulting remarks to which she had been treated. Ammonius told him to speak out on her behalf. 'That the God is a master of Dialectic,' Theon said, 'is shown clearly by most of his oracles; for you will grant that the solution of puzzles belongs to the same person as their invention. Again, as Plato used to say, when a response was given that the altar at Delos should be doubled,14 a matter requiring the most advanced geometry, the God was not merely enjoining this, but was also putting his strong command upon the Greeks to practice geometry. Just so, when the God puts out ambiguous oracles, he is exalting and establishing Dialectic, as essential to the right understanding of himself. You will grant again, that in Dialectic this conjunctive particle has great force, because it formulates the most logical of all sentences. This is certainly the "conjunctive", seeing that the other animals know the existence of things, but man alone has been gifted by nature with the power of observing and discerning their sequence. That "it is day" and "it is light" we may take it that wolves and dogs and birds perceive. But "if it is day it is light", is intelligible only to man; he alone can apprehend antecedent and consequent, the enunciation of each and their connexion, their mutual relation and difference, and it is in these that all demonstration has its first and governing principle. Since then Philosophy is concerned with truth, and the light of truth is demonstration, and the principle of demonstration is the conjunctive proposition, the faculty which includes and produces this was rightly consecrated by the wise men to that God who is above all things a lover of truth. Also, the God is a prophet, and prophetic art deals with that future which is to come out of things present or things past. Nothing comes into being without a cause, nothing is known beforehand without a reason. Things which come into being follow things which have been, things which are to be follow things which now are coming into being, all bound in one continuous chain of evolution. Therefore he who knows how to link causes together into one, and combine them into a natural process, can also declare beforehand things15
+
+     Which are, which shall be, and which were of old. 
+
+ Homer did well in putting the present first, the future next, and the past last. Inference starts with the present, and works by the force of the conjunction: "If this is, that was its antecedent", "If this is, that will be". As we have said, the technical and logical requirement is knowledge of consequence; sense supplies the minor premiss. Hence, though it may perhaps seem a petty thing to say, I will not shrink from it; the real tripod of truth is the logical process which assumes the relation of consequent to antecedent, then introduces the fact, and so establishes the conclusion. If the Pythian God really finds pleasure in music, and in the voices of swans, and the tones of the lyre, what wonder is it that as a friend to Dialectic, he should welcome and love that part of speech which he sees philosophers use more, and more often, than any other. So Hercules, when he had not yet loosed Prometheus, nor yet conversed with the sophists Chiron and Atlas, but was young and just a Boeotian, first abolished Dialectic, made a mock at the "If the first then the second",16 and bethought him to remove the tripod by force, and to try conclusions with the God for his art. At any rate, as time went on, he also appears to have become a great prophet and a great dialectician.'
+
+ VII. When Theon had done, I think it was Eustrophus of Athens who addressed us: 'Do you see with what a will Theon backs Dialectic? He has only to put on the lion's skin! Now then for you who put down under number all things in one mass, all natures and principles divine as well as human, and take it to be leader and lord in all that is beautiful and honourable! It is n time for you to keep quiet; offer to the god a first-fruits of your dear Mathematics, if you think that "E" rises above the other letters, not in its own right by power or shape, or by its meaning as a word, but as the honoured symbol of an absolutely great and sovereign number, the "Pempad", from which the Wise Men took their verb "to count".17 Eustrophus was not jesting when he said this to us; he said it because I was at the time passionately devoted to Mathematics, though soon to find the value of the maxim, 'NOTHING TOO MUCH', having joined the Academy.
+
+ VIII. So I said that Eustrophus' solution of the problem by number was excellent. 'For since,' I continued, 'when all number is divided into even and odd, unity alone is in its effect common to both, and therefore, if added to an odd number makes it even, and vice versa;18 and since even numbers start with two, odd numbers with three, and five is produced by combination of these, it has rightly received honour as the product of first principles, and it has further been called "Marriage", because even resembles the female, odd the male. For when we divide the several numbers into equal segments, the even parts asunder perfectly, and leaves inside a sort of recipient principle or space; if the odd is treated the same way, a middle part is always left over, which is generative. Hence the odd is the more generative, and when brought into combination invariably prevails; in no combination does it give an even result, but in all cases an odd.19 Moreover, when each is applied to itself and added, the difference is shown. Even with even never gives odd, or passes out of its proper nature; it wants the strength to produce anything different. Odd numbers with odd yield even numbers in plenty because of their unfailing fertility. The other powers of numbers and their distinctions cannot be now pursued in detail. However, the Pythagoreans called five "Marriage", as produced by the union of the first male number and the first female. From another point of view it has been called "Nature", because when multiplied into itself it ends at last in itself. For as Nature takes a grain of wheat, and in the intermediate stages of growth gives forms and shapes in abundance, through which she brings her work to perfection, and, after them all, shows us again a grain of wheat, thus restoring the beginning in the end of the whole process, so it is with numbers. When other numbers are multiplied into themselves they end in different numbers after being squared; only those formed of five or six recover and preserve themselves every time. Thus six times six gives thirty-six, five times five twenty-five. And again, a number formed of six does this only once, in the single case of being squared. Five has the same property in multiplication, and also a special property of its own when added to itself; it produces alternately itself or ten, and that to infinity. For this number mimics the principle which orders all things. As Heraclitus tells us that Nature successively produces the universe out of herself and herself out of the universe, bartering "fire for things and things for fire, as goods for gold and gold for goods", even so it is with the Pempad. In union with itself, it does not by its nature produce anything imperfect or foreign. All its changes are defined; it either produces itself or the Decad, either the homogeneous or the perfect.
+
+ IX. 'Then if any one ask "What is all this to Apollo?"20 Much, we will answer, not to Apollo only but also to Dionysus, who has no less to do with Delphi than has Apollo. Now we hear theologians saying or singing, in poems or in plain prose, that the God subsists indestructible and eternal, and that, by force of some appointed plan and method, he passes through changes of his person; at one time he sets fire to Nature and so makes all like unto all, at another passes through all phases of difference — shapes, sufferings, powers — at the present time, for instance, he becomes "Cosmos", and that is his most familiar name. The wiser people disguise from the vulgar the change into fire, and call him "Apollo" from his isolation,21 "Phoebus" from his undefiled purity. As for his passage and distribution into waves and water, and earth, and stars, and nascent plants and animals, they hint at the actual change undergone as a rending and dismemberment, but name the God himself Dionysus or Zagreus or Nyctelius or Isodaites. Deaths too and vanishings do they construct, passages out of life and new births, all riddles and tales to match the changes mentioned. So they sing to Dionysus dithyrambic strains, charged with sufferings and a change wherein are wanderings and dismemberment. For Aeschylus says:22
+
+     In mingled cries the dithyramb should ring,
+     With Dionysus revelling, its King. 
+
+ 'But Apollo has the Pæan, a set and sober music. Apollo is ever ageless and young; Dionysus has many forms and many shapes as represented in paintings and sculpture, which attribute to Apollo smoothness and order and a gravity with no admixture, to Dionysus a blend of sport and sauciness with seriousness and frenzy:
+
+     God that sett'st maiden's blood
+     Dancing in frenzied mood,
+     Blooming with pageantry!
+     Evoe! we cry 
+
+ 'So do they summon him, rightly catching the character of either change. But since the periods of change are not equal, that called "satiety" being longer, that of "stint" shorter, they here preserve a proportion, and use the Pæan with their sacrifice for the rest of the year, but at the beginning of winter revive the dithyramb, and stop the Pæan, and invoke this God instead of the other, supposing that this ratio of three to one is that of the "Arrangement" to the "Conflagration".23
+
+ X. 'But perhaps this has been drawn out at too great length for the present opportunity. This much is clear, that they do associate the pempad with the God, as it now produces its own self like fire, and again produces the Decad out of itself like the universe. Now take music, which the God favours so highly: are we not to suppose that this number has its share here?
+
+ 'Most of the science of harmonies, to put it in a word, is concerned with consonances. That these are five and no more is proved by reason, as against the man who is all for strings and holes, and wants to explore these points irrationally by the senses: they all have their origin in numerical ratios. The ratio of the fourth is four to three, of the fifth three to two, of the octave two to one, of the octave and fifth three to one, of the double octave four to one. The additional consonance which writers of harmony introduce under the name of octave and fourth, does not merit admission, being extra-metrical; to admit it would be to indulge the irrational side of our sense of hearing, and to violate reason, or law. Passing by then five arrangements of tetrachords, and the first five "tones", or "tropes", or "harmonies", whichever name is right, by variations of which, made higher or lower, the remaining scales, high and low, are produced, is it not true that, though intervals are many, indeed infinite, the principles of melody are five only, quarter tone, half tone, tone, tone and a half, double tone? In sounds no other interval of high and low, be it smaller or greater, can be used for melody.
+
+ XI. 'Passing over many similar points, I will', I said, 'adduce Plato,24 who, in discussing the question of a single universe, says that if there are others besides ours, and it is not alone, then the whole number of them is five and no more; not but that, if ours is the only universe in being, as Aristotle25 also thinks, even this one is in a fashion composite and formed out of five; one of earth, one of water, a third of fire, and a fourth of air, while the fifth is called heaven or light or air, or by others "fifth essence"26 to which alone of all bodies circular motion is natural, not due to force or other accidental cause. Therefore it is that Plato, observing the five perfect figures of Nature — Pyramid, Cube, Octahedron, Eicosahedron, and Dodecahedron — assigned them to the elements, each to each.
+
+ XII. 'There are some who appropriate to the same elements our own senses, also five in number. Touch, as they see, is resistent and earthy. Taste takes in properties by moisture in the things tasted. Air when struck becomes audible voice or sound. There remain two: smell, the object of our olfactory sense, is an exhalation engendered by heat, and so resembles a fire; sight is akin to air and light, which give it a luminous passage, so there is a commixture of both which is sympathetic. Besides these, the animal has no other sense, and the universe no other substance, which is simple and not blended. A marvellous apportionment of the five to the five!'
+
+ Here, I think, I paused, and after an interval I went on: 'What has happened to us, Eustrophus? We have almost forgotten Homer,27 as if he had not been the first to divide the universe into five parts, assigning the three in the middle to the extremes, Olympus and earth, one the limit of what is below, the other of what is above. "We must cry back", as Euripides says.28 Now those who exalt the number four29 as the basis of the genesis of every body, make out a fairly good case. For every solid body possesses length, breadth, and depth; but length presupposes a point as an unit; the line is called length without breadth, and is length; the movement of a line in breadth produces a plane surface, and that is three; add depth, and we get to a solid with four factors. Any one can see that the number four carries Nature up to this point, that is, to the formation of a complete body, which may be touched, weighed, or struck; there it has left her, wanting in what is greatest. For that which has no soul is, in plain terms, orphaned and incomplete and fit for nothing, unless it be employed by soul. But the movement or disposition which sets soul therein — a change introducing a fifth factor — restores to Nature her completeness, its rational basis is as much more commanding than that of the Tetrad as the animal is above the inanimate. Further, the symmetry and potency of the whole five prevails, so as not to allow the animate to form classes without limit, but gives five types for all living things. There are Gods, we know, and dæmons, and heroes, and after these, fourth in all, the race of men: fifth, and last, the irrational order of brutes. Again, if you make a natural division of the soul itself, the first and least distinct principle is that of growth; second is that of sense, then comes appetite, then the spirited part; when it has reached the power of reasoning and perfected its nature, it stays at rest in the fifth stage as its upper limit.
+
+ XIV. 'Now as this number five has powers so many and so great, its origin is also noble: not the process already described, out of the numbers two and three, but that given by the combination of the first principle of number with the first square. The first principle is unity, the first square is four; from these as from idea and limited substance, comes five. Or, if it be really correct, as some hold, to reckon unity as a square, being a power of itself and working out to itself, then the Pempad is formed out of the first two squares, and so has not missed noble birth and that the highest.
+
+ XV. 'My most important point', I went on, 'may, I fear, bear hardly on Plato, just as he said that Anaxagoras "was hardly used by the name of Selene", when he had wished to appropriate the theory of her illumination, really a very old one. Are not these Plato's words, in the Cratylus?'30 'They certainly are', said Eustrophus, 'but I fail to see the resemblance.' 'Very well then; you know, I suppose, that in the Sophist he proves that the supreme principles are five:31 being, identity, difference, and after these, as fourth and fifth, movement and position. But in the Philebus he divides on a different plan.32 He distinguishes the unlimited and the limited, from whose combination comes the origin of all being. The cause of combination he takes to be a fourth. The fifth, whereby things so mingled are again parted and distinguished, he has left us to guess. I conjecture that those on the one list are figures of those on the other; to being corresponds that which becomes, to motion the unlimited; to position the limited, to identity the combining principle, to difference that which distinguishes. But if the two sets are different, yet, on one view as on the other, there would be five classes, and five modes of difference. Some early inquirer, it will surely be said, saw into this before Plato, and consecrated two "E's" to the God, as a manifestation and symbol of the number of all things. But further, having perceived that the good also takes shape under five heads, firstly moderation, secondly symmetry, thirdly mind, fourthly the sciences and arts and true opinions which relate to soul, fifthly every pleasure which is pure and unmingled with what causes pain, he there leaves off, merely suggesting the Orphic verse,
+
+     In the sixth order let the strain be stayed! 
+
+ XVI. 'Having said so much', I went on, to you all, I will sing one short stave to Nicander and "his cunning men".
+
+ 'On the sixth day of the new moon, when the Pythia is introduced into Prytaneum by one person, the first of your three castings of lot is a single one, namely the five: the three against the two.'33 'It is so,' said Nicander, 'but the reason may not be disclosed to others.' 'Then', I answered with a smile, 'until such time as we become priests, and the God allows us to know the truth, this much and no more shall be added to what we have to say about the Pempad.'34 Such, so far as I remember, was the end of the arithmetical or mathematical reasons for extolling the letter 'E'.
+
+ XVII. Ammonius, as one who himself gave Mathematics no mean place in Philosophy, was pleased at the course the conversation was taking, and said: 'It is not worth our while to answer our young friends with too absolute accuracy on these points; I will only observe that any one of the numbers will provide not a few points for those who choose to sing its praises. Why speak about the others? Apollo's holy "Seven" will take up all one day before we have exhausted its powers. Are we then to show the Seven Wise Men at odds with common usage, and "the time which runs",35 and to suppose that they ousted the "Seven" from its pre-eminence before the God, and consecrated the "Five" as perhaps more appropriate?
+
+ 'My own view is that the letter signifies neither number, nor order, nor conjunction, nor any other omitted part of speech; it is a complete and self-operating mode of addressing the God; the word once spoken brings the speaker into apprehension of his power. The God, as it were, addresses each of us, as he enters, with his "KNOW THYSELF", which is at least as good as "Hail". We answer the God back with "EI" (Thou Art),36 rendering to him the designation which is true and has no lie in it, and alone belongs to him, and to no other, that of BEING.
+
+ XVIII. 'For we have, really, no part in real being; all mortal nature is in a middle state between becoming and perishing, and presents but an appearance, a faint unstable image, of itself. If you strain the intellect, and wish to grasp this, it is as with water; compress it too much and force it violently into one space as it tries to flow through, and you destroy the enveloping substance; even so when the reason tries to follow out too closely the clear truth about each particular thing in a world of phase and change, it is foiled, and rests either on the becoming of that thing or on its perishing; it cannot apprehend anything which abides or really is. "It is impossible to go into the same river twice", said Heraclitus;37 no more can you grasp mortal being twice, so as to hold it. So sharp and so swift its change; it scatters and brings together again, nay not again, no nor afterwards; even while it is being formed it fails, it approaches, and it its gone. Hence becoming never ends in being, for the process never leaves off, or is stayed. From seed it produces, in its constant changes, an embryo, then an infant, then a child; in due order a boy, a young man; then a man, an elderly man, an old man; it undoes the former becomings and the age which has been, to make those which come after. yet we fear (how absurdly!) a single death, we who have died so many deaths, and yet are dying. For it is not only that, as Heraclitus38 would say, "death of fire is birth of air", and "death of air is birth of water"; the thing is much clearer in our own selves. The man in his strength is destroyed when the old man comes into being, the young man was destroyed for the man in his strength to be, so the boy for the young man, the babe for the boy. He of yesterday has died unto him of to-day; he of to-day is dying unto him of to-morrow. No one abides, no one is; we that come into being are many, while matter is driven around, and then glides away, about some one appearance and a common mould. Else how is it, if we remain the same, that the things in which we find pleasure now are different from those of a former time; that we love, hate, admire, and censure different things; that our words are different and our feelings; that our look, our bodily form, our intellect are not the same now as then? If a man does not change, these various conditions are unnatural; if he does change, he is not the same man. But if he is not the same man, he is not at all; his so-called being is simply change and new birth of man out of man. In our ignorance of what being is, sense falsely tells us that what appears is.
+
+ XIX. 'What then really is? That which is eternal, was never brought into being, is never destroyed, to which no time ever brings change. Time is a thing which moves and takes the fashion of moving matter, which ever flows or is a sort of leaky vessel which holds destruction and becoming. Of time we use the words "afterwards", "before", "shall be", and "has been", each on its face an avowal of not being. For, in this question of being, to say of a thing which has not yet come into being, or which has already ceased from being, that "it is", is silly and absurd. When we strain to the uttermost our apprehension of time, and say "it is at hand", "it is here", or "now", a rational development of the argument brings it all to nothing. "Now" is squeezed out into the future or into the past, as though we should try to see a point, which of necessity passes away to right or left. But if the case be the same with Nature, which is measured, as with time which measures, nothing in it abides or really is. All things are coming into being, or being destroyed, even while we measure them by time. Hence it is not permissible, even in speaking of that which is, to say that "it was", or "it shall be"; these all are inclinations, transitions, passages, for of permanent being there is none in Nature.
+
+ XX. 'But the God IS, we are bound to assert, he is, with reference to no time but to that age wherein is no movement, or time, or duration; to which nothing is prior or subsequent; no future, no past, no elder, no younger, which by one long "now" has made the "always" perfect. Only with reference tot his that which really is, is; it has not come into being, it is not yet to be, it did not begin, it will not cease. Thus then we ought to hail him in worship, and thus to address him as "Thou Art", aye, or in the very words of some of the old people, "Ei Hen", "Thou art one thing".39 For the Divine is not many things, in the sense in which each one of us is made up of ten thousand different and successive states, a scrap-heap of units, a mob of individuals. No, that which is must be one, as that is which is one is. Variety, any difference in being, passes to one side to produce that which is not. Therefore the first of the names of the God, and the second, and the third. "Apollo" (Not-many) denies plurality and excludes multitude. Ἴητος means one and one only;40 Phoebus, we know, is a word by which the ancients expressed that which is clean and pure, even as to this day the Thessalians, when their priests pass their solemn days in strict seclusion outside the temple, apply to them a verb formed from Phoebus. Now The One is transparent and pure, pollution comes by commixture of this with that, just as Homer,41 you remember, says of ivory dyed red that it is stained, and dyers say of mingled pigments that they are destroyed, and call the process "destruction". Therefore it is the property of that which is indestructible and pure to be one and without admixture.
+
+ XXI. 'There are those who think that Apollo and the sun are the same; we hail them and love them for the fair name they give, and it is fitting to do so; for they associate their idea of the God with that which they honour and desire more than all other things which they know. But now that we see them dreaming of the God in the fairest of nightly visions, let us rise and encourage them to mount yet higher, to contemplate him in a dream of the day, and to see his own being. Let them pay honour also to the image of him and worship the principle of increase which is about it; so far as what is of sense can lead to what is of mind, a moving body to that which abides, it allows presentments and appearances of his kind and blessed self to shine through after a fashion. But as to transitions and changes in himself, that he now discharges fire, and so is drawn up, as they put it, or again presses down and strains himself into earth and sea, winds and animals, and all the strange passages into animals and also plants, piety forbids us so much as to hear them. Otherwise the God will be a greater trifler than the boy in Homer,42 for ever playing with the universe the game which the boy plays with a pile of sand, which is heaped together and sucked away under his hand; moulding the universe when there is none, and again destroying it when it has come into being. The opposite principle which we find in the universe, whatever its origin, is that which binds beings together and prevails over the corporeal weakness tending to destruction. To my thinking the word "EI" is confronted with this false view, and testifies to the God that THOU ART, meaning that no shift or change has place in him, but that such things belong to some other God, or rather to some Spirit set over Nature in its perishing and becoming, whether to effect either process or to undergo it. This appears from the names, in themselves opposite and contradictory. He is called Apollo, another is called Pluto; he is Delius (apparent), the other Aidoneus (invisible); he is Phoebus (bright), the other Skotios (full of darkness); by his side are the Muses, and Memory, with the other are Oblivion and Silence; he is Theorius and Phanæus, the other is "King of dim Night and ineffectual Sleep."43 The other is
+
+     Of all the Gods to men the direst foe.44 
+
+ Whereas of him Pindar45 has pleasantly said:
+
+     Well tried and mildest found, to men who live and die. 
+
+ so Euripides46 was right:
+
+     Draughts to the dead out-poured,
+     Songs which our bright-haired lord
+     Apollo hath abhorred. 
+
+ And still earlier Stesichorus:47
+
+     Jest and song Apollo owns,
+     Let Hades keep his woes and groans. 
+
+ Sophocles again,48 in his actual assignment of instruments to each, is quite clear, thus:
+
+     Nor harp nor lyre to wailing strains is dear, 
+
+ for it was quite late, indeed only the other day, that the flute ventured to let itself speak "on themes of joy"; in early times it trailed along in mourning, nor was its service therein much esteemed or very cheerful; then there came a general confusion. It was specially by mingling things which were of Gods with those which were of dæmons that the distinction of the instruments was lost. Anyhow, the phrase "KNOW THYSELF" seems to stand in a sort of antithesis to the letter "E", and yet, again, to accord with it. The letter is an appeal, a cry raised in awe and worship to the God, as being throughout all eternity; the phrase is a reminder to mortal man of his own nature and of his weakness.'
+
+ NOTES
+
+ 1. The Greek ΤΟΥ ΕΙ. This online edition is the translation of A.O. Prickard (Oxford: The Clarendon Press, 1918) with a few minor changes and some additional notes taken from the translation of C.W. King (London: George Bell and Sons, 1889). Local links of the form plutarchE.html#394a, #394b, etc., will take you (approximately) to the standard divisions of the work (which covers 384D to 394C).
+
+ 2. There are ancient coins showing an "E" — not the "EI" of Plutarch — floating near the temple; King mentions amulets, below, note 6; his edition includes the woodcut of a Roman-era amulet reproduced below.
+
+ 3. Fr. 960.
+
+ 4. Serapion lived at Athens, as can be gathered from the essay "On the Pythian Responses".
+
+ 5. This is Prickard's quirky translation; usually "incense".
+
+ 6. King notes "This explanation, as all the rest, is founded on nothing but fancy, as a single consideration proves. The symbol, which is preserved to us by amulets, was indeed similar in shape to the lunar ϵ but then that character was unknown before Imperial times. In all probability it was an Indian cast mark; and imported like the Swastika or Fylfot, and many other Indian symbols, in prehistoric times."
+
+ E amulet
+
+ 7. Prickard notes "i.e., at draughts, with a play on words". ἐκ πίνακος καῖ πυλαίας = "pernicious nonsense", another joke.
+
+ 8. That is, εἴ, "if" or "whether", the standard opening to questions asked of the oracle.
+
+ 9. That is, would send them about their business.
+
+ 10. Fr. 71.
+
+ 11. εἴ. "Dragged in", as an expletive or strengthener of the "if" (cf. the English "If then" and "If indeed", as forms rather than in meaning).
+
+ 12. Ἄμα τέκνων ϑῆν δυσμένεα.
+
+ 13. Il. 17, 29. ὥς ϑῆν καῖ ἔγω σόν λύσω μένος ἔι κέ μεν ἄντα
+                              οτήῃς· 
+
+ 14. Cf. Pseudodoxia IV.v and note.
+
+ 15. Il. 1, 70.
+
+ 16. So Emperius, whose reading is that of the Paris MS. E. (See Paton in loco.) King: 'In his fight with the Centaurs, regarded as sophists. Here is the common play upon the various senses of λόγος, impossible to be translated.'
+
+ 17. To count by fives, anyway. King: ' πεμπάζειν, literally "to five fold" or "to quintuple". In early Greek numeration, the numbers up to 5 were denoted by as many vertical strokes; 5 by π; to which again were subjoined the proper amount [sic] of verticals up to 10, expressed by Δ.'
+
+ 18. This or the contrary is of course true of all (whole) numbers: adding an even number to any even number gives even, to an odd gives odd; adding an odd number to an even gives an odd, to an odd gives an even.
+
+ 19. That is, any odd number added to any even number gives an odd number.
+
+ 20. A reference to the complaint with which the first attempts of Aeschylus and others to give literary form to the popular hymns in honour of Dionysus were greeted.
+
+ 21. Another of Prickard's quirks; he notes "not many" to "Apollo". King: "on account of the reduction to one state", and he notes "As if derived from α privative, and πολλοι, and signifying "Destroyer of plurality" [or "Absence of plurality"] — the most preposterous of all the absurd derivations recorded by our Author".
+
+ 22. Fr. 392.
+
+ 23. Or as we should say, "creation" and "conflagration", but Prickard is making a distinction between a one-time affair and a recurring one. The creation takes three times as long as the conflagration. Prickard: "Terms used by Heraclitus (Fr. 24), adapted by the Stoics for the periodic conflagration and renewal of the universe."
+
+ 24. Timæus, 31A [Plato Timaeus 31a] and 55E foll. [Plato Timaeus 55e]
+
+ 25. Aristotle De Cælo, 1, 8-9, 276 a 18.
+
+ 26. "Quintessence". King notes "πεμπτῆ οὐσία, which, from the property here mentioned, Julian calls τὸ εἰλικτῶν σῶμα, and says is symbolized by Atys."
+
+ 27. Homer Iliad 15.190.
+
+ 28. See. Iph. Aul. Euripides 865 and Herc. Fur. 1221.
+
+ 29. The Pythagoreans.
+
+ 30. Plato Cratylus 409a
+
+ 31. Plato Sophist 254 - 256.
+
+ 32. Plato Philebus 23c and following; Plato Philebus 66c.
+
+ 33. King translates "the first casting of the three lots takes place — you throw neither three nor two — is it not so?" and notes "This passage is hopelessly corrupt. Perhaps the meaning is that the dice so used wanted the deuce and tierce pips."
+
+ 34. Plutarch later did become a priest at Delphi.
+
+ 35. From Simonides, a favourite phrase with Plutarch. = "long tradition"
+
+ 36. King: "Equivalent in sense to the Hebrew 'Jehovah', and the ὁ ζῶν ϑεος of the Athenians."
+
+ 37. Fr. 41.
+
+ 38. Fr. 25.
+
+ 39. Prickard: "See on this remarkable passage E. Norden, Agnostos Theos, p. 231 f., and the views of H. Diels, communicated to him. I have followed Norden in reading εἶ, ἤ (he suggests with hesitation προσεπιθειάζειν) (and so Paton and Diels). Diels thinks that οἱ παλαιοί may cover later philosophers such as Xenophanes."
+
+ 40. On Apollo, see note 21 above. Ἴητος, "Archer", as though derived from the archaic ἵος = εἵς.
+
+ 41. Homer Iliad 4.141
+
+ 42. Homer Iliad 15.362
+
+ 43. Pindar.
+
+ 44. Homer Iliad 9.158
+
+ 45. Fr. 149.
+
+ 46. Euripides Suppliants 975.
+
+ 47. Fr. 50.
+
+ 48. Fr. 728, probably from the Thamyras.
+
+ This page is created and maintained at the University of Chicago by James Eason.
+
+ #+end_quote
+
+****** Goodwin @ Tufts
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0244
+
+******* Passage related to 5 as marriage of male and female
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0244%3Asection%3D8
+
+Section 8.
 
 #+begin_quote
+I answered therefore that Eustrophus has excellently solved the difficulty by number. For (said I) since all number is distributed into even and odd, unity is in efficacy common to them both,—for that being added to an even number, it makes it odd, and to an odd, it makes it even, two constituting the beginning of the even, and three of the odd. Now the number of five, composed of these two, is deservedly honored, as being the first compound made of the first simple numbers, and is called the marriage, for the resemblance of the odd with the male, and the even with the female. For in the divisions of the numbers into equal parts, the even, being wholly separated, leaves a certain capacious beginning and space in itself; but in the odd, suffering the same thing, there always remains a middle, of generative distribution, by which it is more fruitful than the other, and being mixed is always master, never mastered. For by the mixture of both, even and odd together, there is never produced an even number but always an odd. But which is more, either of them added to and compounded with itself shows the difference; for no even joined with another even ever produced an odd, or went forth of its proper nature, being through weakness unable to generate another and imperfect. But odd numbers mixed with odd do, through their being every way fruitful, produce many even ones. Time does not now permit us to set down the other powers and differences of numbers. Therefore have the Pythagoreans, through a certain resemblance, said that five is the marriage of the first male and the first female number. This [p. 486] also is it for which it is called Nature, by the multiplication of itself determining again into itself. For as Nature, taking a grain of wheat for seed and diffusing it, produces many forms and species between, by which she brings her work to an end, but at last she shows again a grain of wheat, restoring the beginning in the end of all; so, while the rest of the numbers, when they are multiplied into others, terminate by the increase only those of five and six, multiplied by themselves, bring back and preserve themselves. For six times six makes thirty-six, and five times five makes twenty-five. And again, six does this once, and only after one manner, to wit, when it is squared. But this indeed befalls five both by multiplication and by composition with itself, to which being added, it alternatively makes itself and ten; and this as far as all number can extend, this number imitating the beginning or first Cause which governs the universe. For as that first Cause, preserving the world by itself, does reciprocally perfect itself by the world, as Heraclitus says of fire,
 
-ON THE 'E'* AT DELPHI
-Browne's Miscellany Tract On Oracles
+    Fire turns to all things, and all things to fire;
 
-(In the Pronaos of the temple at Delphi the visitor was confronted by certain inscriptions (γράμματα): 'Know thyself' — 'Nothing too much' — 'Go bail and woe is at hand' — all exhortations to wisdom or prudence (Plato, Charmides, 163-4). To these is to be added, on the sole authority of Plutarch's Dialogue,** the letter E, pronounced EI.)
-
-THE SPEAKERS
-
-AMMONIUS, the Platonist philosopher, Plutarch's teacher.
-LAMPRIAS, Plutarch's brother.
-PLUTARCH.
-THEON, a literary friend.
-EUSTROPHUS, an Athenian.
-NICANDER, a priest of the temple.
-
-I. A day or two ago, dear Serapion, I met with some rather good lines, addressed, Dicaearchus thinks, to Archelaus by Euripides:3
-
-    No gifts, my wealthy friend, from humble me;
-    You'll think me fool, or think I did but beg. 
-
-He who out of his narrow store offers trifles to men of great possessions, confers no favour; no one believes that he gives something for nothing, and he gets credit for a jealous and ungenerous temper. Now surely as money presents fall far below those of literature and learning, so there is beauty in giving these, and beauty in claiming a return in kind. At any rate, I am sending to you, and so to my friends down there, some of our Pythian Dialogues, as a sort of first-fruits; and in doing so, confess that I expect others from you, and more and better ones, since you enjoy a great city4 and abundant leisure, with many books and discussions of every sort. Well, then, our kind Apollo, in the oracles which he gives his consultants, seems to solve the problems of life and to find a remedy, while problems of the intellect he actually suggests and propounds to the born love of wisdom in the soul, thus implanting an appetite which leads to truth. Among other instances, this is made clear as to the consecration of the letter 'E'. We may well guess that it was not by chance, or by lot, that, along among the letters, it received pre-eminence in the God's house, and took rank as a sacred offering and a show object. No, the officials of the God in early times, when they came to speculate, either saw in it a special and extraordinary virtue, or found it a symbol for something else of serious importance, and so adopted it. I had often myself avoided the question and quietly declined it when raised in the school. However, I was lately surprised by my sons in earnest discussion with certain strangers, who were just starting from Delphi; it was not decent to put them off with excuses, they were so anxious to receive some account. We sat down near the temple, and I began to raise questions with myself, and to put others to them; and the place, and what they said, reminded me of a discussion which we heard a long time ago from Ammonius and others, at the time of Nero's visit, when the same problem had been stated in the same way.
-
-II. That the God is no less philosopher than he is prophet appeared to all to come out directly from the exposition which Ammonius gives us of each of his names. He is 'Pythian' (The Inquirer) to those who are beginning to learn and to inquire; 'Delian' (The Clear One) and 'Phanaean' to those who are already getting something clear and a glimmering of the truth; 'Ismenian' (The Knowing) to those who possess the knowledge; 'Leschenorian' (God of Discourse) when they are in active enjoyment of dialectical and philosophic intercourse. 'Now since,' he continued, 'Philosophy embraces inquiry, wonder, and doubt, it seems natural that most of the things relating to the God should have been hidden away in riddles, and should require some account of their purpose, and an explanation of the cause. For instance, in the case of the undying fire, why the only woods used here are pine for burning and laurel for fumigation;5 again, why two Fates are here installed, whereas their number is everywhere else taken as three; why no woman is allowed to approach the place of the oracles; questions about the tripod, and the rest. These problems when suggested to persons not altogether wanting in reason and soul, lure them on, and challenge them to inquire, to listen, and to discuss. Look again at those inscriptions, KNOW THYSELF and NOTHING TOO MUCH; how many philosophic inquiries have they provoked! What a multitude of arguments has sprung up out of each, as from a seed! Not one of them I think is more fruitful in this way than the subject of our present inquiry.'
-
-III. When Ammonius had said this, my brother Lamprias spoke: 'After all, the account which we have heard of the matter is simple enough and quite short. They say that the famous Wise Men, also called by some "Sophists", were properly only five, Chilon, Thales, Solon, Bias, and Pittacus. But Cleobulus, tyrant of Lindos, and, later on, Periander of Corinth, men with no wisdom or virtue in them, but forcing public opinion by influence, friends, and favours, thrust themselves into the list of the wise, and disseminated through Greece maxims and sayings resembling the utterances of the five. Then the five were vexed, but did not choose to expose the imposture, or to have an open quarrel on the matter of title, and to fight it out with such powerful persons. They met here by themselves; and after discussing the matter, dedicated the letter which is fifth in the alphabet, and also as a number signifies five, thus making their own protest before the God, that they were five, discarding and rejecting the seventh and the sixth, as having no part or lot with themselves.6 That this account is not beside the mark may be recognized by any one who has heard the officials of the temple naming the golden "E" as that of Livia the wife of Cæsar, the brazen one as that of the Athenians, whereas the original and oldest letter, which is of wood, is to this day called that "Of the Wise Men", as having been offered of all in common, not of any one of them.'
-
-IV. Ammonius gave a quiet smile; he had a suspicion that Lamprias had been giving us a view of his own, making up history and legend at discretion. Some one else said that it was like the nonsense which they had heard from the Chaldæan stranger a day or so before; that there were seven letters which were vowels, seven stars that have an independent motion and are unattached to the heavens; moreover that 'E' is the second vowel from the beginning, and the sun the second planet, after the moon, and that all Greeks, or nearly all, identify Apollo with the sun.
-
-'But all that', he said, 'is pernicious nonsense. Lamprias, however, has, probably without knowing it, made a move7 which stirs up all who have to do with the temple against his view. What he told us was unknown to any of the Delphians; they used to give the regular guides' account, that neither the appearance nor the sound of the letter has any significance, but only the name.'
-
-V. 'No, the Delphic Officials', said Nicander the priest, speaking for them, 'believe that it is a vehicle, a form assumed by the petition addressed to the God; it has a leading place in the questions of those who consult him, and inquire,8 If they shall conquer; If they shall marry; If it is advisable to sail; If to farm; If to travel. The God in his wisdom would bow out the dialecticians9 when they think that nothing practical comes of the "If" part with its clause attached; he admits as practical, in his sense of the word, all questions so attached. Then, since it is our personal concern to question him as prophet, but a general concern to pray to him as God, they hold that the letter embraces the virtue of prayer no less than that of inquiry; "O, If I might!" says every one who prays, as Archiolochus,10
-
-    If it might be mine, prevailing, Neobule's hand to touch! 
-
-When If-so-be11 is used, the latter part is dragged in (compare Sophron's "Bereaved of children, I trow"12, or Homer's "As I will break thy might, I trow"13). But If gives the sense of prayer sufficiently.'
-
-VI. When Nicander had finished, our friend Theon, whom I am sure you know, asked Ammonius whether Dialectic might speak freely, after the insulting remarks to which she had been treated. Ammonius told him to speak out on her behalf. 'That the God is a master of Dialectic,' Theon said, 'is shown clearly by most of his oracles; for you will grant that the solution of puzzles belongs to the same person as their invention. Again, as Plato used to say, when a response was given that the altar at Delos should be doubled,14 a matter requiring the most advanced geometry, the God was not merely enjoining this, but was also putting his strong command upon the Greeks to practice geometry. Just so, when the God puts out ambiguous oracles, he is exalting and establishing Dialectic, as essential to the right understanding of himself. You will grant again, that in Dialectic this conjunctive particle has great force, because it formulates the most logical of all sentences. This is certainly the "conjunctive", seeing that the other animals know the existence of things, but man alone has been gifted by nature with the power of observing and discerning their sequence. That "it is day" and "it is light" we may take it that wolves and dogs and birds perceive. But "if it is day it is light", is intelligible only to man; he alone can apprehend antecedent and consequent, the enunciation of each and their connexion, their mutual relation and difference, and it is in these that all demonstration has its first and governing principle. Since then Philosophy is concerned with truth, and the light of truth is demonstration, and the principle of demonstration is the conjunctive proposition, the faculty which includes and produces this was rightly consecrated by the wise men to that God who is above all things a lover of truth. Also, the God is a prophet, and prophetic art deals with that future which is to come out of things present or things past. Nothing comes into being without a cause, nothing is known beforehand without a reason. Things which come into being follow things which have been, things which are to be follow things which now are coming into being, all bound in one continuous chain of evolution. Therefore he who knows how to link causes together into one, and combine them into a natural process, can also declare beforehand things15
-
-    Which are, which shall be, and which were of old. 
-
-Homer did well in putting the present first, the future next, and the past last. Inference starts with the present, and works by the force of the conjunction: "If this is, that was its antecedent", "If this is, that will be". As we have said, the technical and logical requirement is knowledge of consequence; sense supplies the minor premiss. Hence, though it may perhaps seem a petty thing to say, I will not shrink from it; the real tripod of truth is the logical process which assumes the relation of consequent to antecedent, then introduces the fact, and so establishes the conclusion. If the Pythian God really finds pleasure in music, and in the voices of swans, and the tones of the lyre, what wonder is it that as a friend to Dialectic, he should welcome and love that part of speech which he sees philosophers use more, and more often, than any other. So Hercules, when he had not yet loosed Prometheus, nor yet conversed with the sophists Chiron and Atlas, but was young and just a Boeotian, first abolished Dialectic, made a mock at the "If the first then the second",16 and bethought him to remove the tripod by force, and to try conclusions with the God for his art. At any rate, as time went on, he also appears to have become a great prophet and a great dialectician.'
-
-VII. When Theon had done, I think it was Eustrophus of Athens who addressed us: 'Do you see with what a will Theon backs Dialectic? He has only to put on the lion's skin! Now then for you who put down under number all things in one mass, all natures and principles divine as well as human, and take it to be leader and lord in all that is beautiful and honourable! It is n time for you to keep quiet; offer to the god a first-fruits of your dear Mathematics, if you think that "E" rises above the other letters, not in its own right by power or shape, or by its meaning as a word, but as the honoured symbol of an absolutely great and sovereign number, the "Pempad", from which the Wise Men took their verb "to count".17 Eustrophus was not jesting when he said this to us; he said it because I was at the time passionately devoted to Mathematics, though soon to find the value of the maxim, 'NOTHING TOO MUCH', having joined the Academy.
-
-VIII. So I said that Eustrophus' solution of the problem by number was excellent. 'For since,' I continued, 'when all number is divided into even and odd, unity alone is in its effect common to both, and therefore, if added to an odd number makes it even, and vice versa;18 and since even numbers start with two, odd numbers with three, and five is produced by combination of these, it has rightly received honour as the product of first principles, and it has further been called "Marriage", because even resembles the female, odd the male. For when we divide the several numbers into equal segments, the even parts asunder perfectly, and leaves inside a sort of recipient principle or space; if the odd is treated the same way, a middle part is always left over, which is generative. Hence the odd is the more generative, and when brought into combination invariably prevails; in no combination does it give an even result, but in all cases an odd.19 Moreover, when each is applied to itself and added, the difference is shown. Even with even never gives odd, or passes out of its proper nature; it wants the strength to produce anything different. Odd numbers with odd yield even numbers in plenty because of their unfailing fertility. The other powers of numbers and their distinctions cannot be now pursued in detail. However, the Pythagoreans called five "Marriage", as produced by the union of the first male number and the first female. From another point of view it has been called "Nature", because when multiplied into itself it ends at last in itself. For as Nature takes a grain of wheat, and in the intermediate stages of growth gives forms and shapes in abundance, through which she brings her work to perfection, and, after them all, shows us again a grain of wheat, thus restoring the beginning in the end of the whole process, so it is with numbers. When other numbers are multiplied into themselves they end in different numbers after being squared; only those formed of five or six recover and preserve themselves every time. Thus six times six gives thirty-six, five times five twenty-five. And again, a number formed of six does this only once, in the single case of being squared. Five has the same property in multiplication, and also a special property of its own when added to itself; it produces alternately itself or ten, and that to infinity. For this number mimics the principle which orders all things. As Heraclitus tells us that Nature successively produces the universe out of herself and herself out of the universe, bartering "fire for things and things for fire, as goods for gold and gold for goods", even so it is with the Pempad. In union with itself, it does not by its nature produce anything imperfect or foreign. All its changes are defined; it either produces itself or the Decad, either the homogeneous or the perfect.
-
-IX. 'Then if any one ask "What is all this to Apollo?"20 Much, we will answer, not to Apollo only but also to Dionysus, who has no less to do with Delphi than has Apollo. Now we hear theologians saying or singing, in poems or in plain prose, that the God subsists indestructible and eternal, and that, by force of some appointed plan and method, he passes through changes of his person; at one time he sets fire to Nature and so makes all like unto all, at another passes through all phases of difference — shapes, sufferings, powers — at the present time, for instance, he becomes "Cosmos", and that is his most familiar name. The wiser people disguise from the vulgar the change into fire, and call him "Apollo" from his isolation,21 "Phoebus" from his undefiled purity. As for his passage and distribution into waves and water, and earth, and stars, and nascent plants and animals, they hint at the actual change undergone as a rending and dismemberment, but name the God himself Dionysus or Zagreus or Nyctelius or Isodaites. Deaths too and vanishings do they construct, passages out of life and new births, all riddles and tales to match the changes mentioned. So they sing to Dionysus dithyrambic strains, charged with sufferings and a change wherein are wanderings and dismemberment. For Aeschylus says:22
-
-    In mingled cries the dithyramb should ring,
-    With Dionysus revelling, its King. 
-
-'But Apollo has the Pæan, a set and sober music. Apollo is ever ageless and young; Dionysus has many forms and many shapes as represented in paintings and sculpture, which attribute to Apollo smoothness and order and a gravity with no admixture, to Dionysus a blend of sport and sauciness with seriousness and frenzy:
-
-    God that sett'st maiden's blood
-    Dancing in frenzied mood,
-    Blooming with pageantry!
-    Evoe! we cry 
-
-'So do they summon him, rightly catching the character of either change. But since the periods of change are not equal, that called "satiety" being longer, that of "stint" shorter, they here preserve a proportion, and use the Pæan with their sacrifice for the rest of the year, but at the beginning of winter revive the dithyramb, and stop the Pæan, and invoke this God instead of the other, supposing that this ratio of three to one is that of the "Arrangement" to the "Conflagration".23
-
-X. 'But perhaps this has been drawn out at too great length for the present opportunity. This much is clear, that they do associate the pempad with the God, as it now produces its own self like fire, and again produces the Decad out of itself like the universe. Now take music, which the God favours so highly: are we not to suppose that this number has its share here?
-
-'Most of the science of harmonies, to put it in a word, is concerned with consonances. That these are five and no more is proved by reason, as against the man who is all for strings and holes, and wants to explore these points irrationally by the senses: they all have their origin in numerical ratios. The ratio of the fourth is four to three, of the fifth three to two, of the octave two to one, of the octave and fifth three to one, of the double octave four to one. The additional consonance which writers of harmony introduce under the name of octave and fourth, does not merit admission, being extra-metrical; to admit it would be to indulge the irrational side of our sense of hearing, and to violate reason, or law. Passing by then five arrangements of tetrachords, and the first five "tones", or "tropes", or "harmonies", whichever name is right, by variations of which, made higher or lower, the remaining scales, high and low, are produced, is it not true that, though intervals are many, indeed infinite, the principles of melody are five only, quarter tone, half tone, tone, tone and a half, double tone? In sounds no other interval of high and low, be it smaller or greater, can be used for melody.
-
-XI. 'Passing over many similar points, I will', I said, 'adduce Plato,24 who, in discussing the question of a single universe, says that if there are others besides ours, and it is not alone, then the whole number of them is five and no more; not but that, if ours is the only universe in being, as Aristotle25 also thinks, even this one is in a fashion composite and formed out of five; one of earth, one of water, a third of fire, and a fourth of air, while the fifth is called heaven or light or air, or by others "fifth essence"26 to which alone of all bodies circular motion is natural, not due to force or other accidental cause. Therefore it is that Plato, observing the five perfect figures of Nature — Pyramid, Cube, Octahedron, Eicosahedron, and Dodecahedron — assigned them to the elements, each to each.
-
-XII. 'There are some who appropriate to the same elements our own senses, also five in number. Touch, as they see, is resistent and earthy. Taste takes in properties by moisture in the things tasted. Air when struck becomes audible voice or sound. There remain two: smell, the object of our olfactory sense, is an exhalation engendered by heat, and so resembles a fire; sight is akin to air and light, which give it a luminous passage, so there is a commixture of both which is sympathetic. Besides these, the animal has no other sense, and the universe no other substance, which is simple and not blended. A marvellous apportionment of the five to the five!'
-
-Here, I think, I paused, and after an interval I went on: 'What has happened to us, Eustrophus? We have almost forgotten Homer,27 as if he had not been the first to divide the universe into five parts, assigning the three in the middle to the extremes, Olympus and earth, one the limit of what is below, the other of what is above. "We must cry back", as Euripides says.28 Now those who exalt the number four29 as the basis of the genesis of every body, make out a fairly good case. For every solid body possesses length, breadth, and depth; but length presupposes a point as an unit; the line is called length without breadth, and is length; the movement of a line in breadth produces a plane surface, and that is three; add depth, and we get to a solid with four factors. Any one can see that the number four carries Nature up to this point, that is, to the formation of a complete body, which may be touched, weighed, or struck; there it has left her, wanting in what is greatest. For that which has no soul is, in plain terms, orphaned and incomplete and fit for nothing, unless it be employed by soul. But the movement or disposition which sets soul therein — a change introducing a fifth factor — restores to Nature her completeness, its rational basis is as much more commanding than that of the Tetrad as the animal is above the inanimate. Further, the symmetry and potency of the whole five prevails, so as not to allow the animate to form classes without limit, but gives five types for all living things. There are Gods, we know, and dæmons, and heroes, and after these, fourth in all, the race of men: fifth, and last, the irrational order of brutes. Again, if you make a natural division of the soul itself, the first and least distinct principle is that of growth; second is that of sense, then comes appetite, then the spirited part; when it has reached the power of reasoning and perfected its nature, it stays at rest in the fifth stage as its upper limit.
-
-XIV. 'Now as this number five has powers so many and so great, its origin is also noble: not the process already described, out of the numbers two and three, but that given by the combination of the first principle of number with the first square. The first principle is unity, the first square is four; from these as from idea and limited substance, comes five. Or, if it be really correct, as some hold, to reckon unity as a square, being a power of itself and working out to itself, then the Pempad is formed out of the first two squares, and so has not missed noble birth and that the highest.
-
-XV. 'My most important point', I went on, 'may, I fear, bear hardly on Plato, just as he said that Anaxagoras "was hardly used by the name of Selene", when he had wished to appropriate the theory of her illumination, really a very old one. Are not these Plato's words, in the Cratylus?'30 'They certainly are', said Eustrophus, 'but I fail to see the resemblance.' 'Very well then; you know, I suppose, that in the Sophist he proves that the supreme principles are five:31 being, identity, difference, and after these, as fourth and fifth, movement and position. But in the Philebus he divides on a different plan.32 He distinguishes the unlimited and the limited, from whose combination comes the origin of all being. The cause of combination he takes to be a fourth. The fifth, whereby things so mingled are again parted and distinguished, he has left us to guess. I conjecture that those on the one list are figures of those on the other; to being corresponds that which becomes, to motion the unlimited; to position the limited, to identity the combining principle, to difference that which distinguishes. But if the two sets are different, yet, on one view as on the other, there would be five classes, and five modes of difference. Some early inquirer, it will surely be said, saw into this before Plato, and consecrated two "E's" to the God, as a manifestation and symbol of the number of all things. But further, having perceived that the good also takes shape under five heads, firstly moderation, secondly symmetry, thirdly mind, fourthly the sciences and arts and true opinions which relate to soul, fifthly every pleasure which is pure and unmingled with what causes pain, he there leaves off, merely suggesting the Orphic verse,
-
-    In the sixth order let the strain be stayed! 
-
-XVI. 'Having said so much', I went on, to you all, I will sing one short stave to Nicander and "his cunning men".
-
-'On the sixth day of the new moon, when the Pythia is introduced into Prytaneum by one person, the first of your three castings of lot is a single one, namely the five: the three against the two.'33 'It is so,' said Nicander, 'but the reason may not be disclosed to others.' 'Then', I answered with a smile, 'until such time as we become priests, and the God allows us to know the truth, this much and no more shall be added to what we have to say about the Pempad.'34 Such, so far as I remember, was the end of the arithmetical or mathematical reasons for extolling the letter 'E'.
-
-XVII. Ammonius, as one who himself gave Mathematics no mean place in Philosophy, was pleased at the course the conversation was taking, and said: 'It is not worth our while to answer our young friends with too absolute accuracy on these points; I will only observe that any one of the numbers will provide not a few points for those who choose to sing its praises. Why speak about the others? Apollo's holy "Seven" will take up all one day before we have exhausted its powers. Are we then to show the Seven Wise Men at odds with common usage, and "the time which runs",35 and to suppose that they ousted the "Seven" from its pre-eminence before the God, and consecrated the "Five" as perhaps more appropriate?
-
-'My own view is that the letter signifies neither number, nor order, nor conjunction, nor any other omitted part of speech; it is a complete and self-operating mode of addressing the God; the word once spoken brings the speaker into apprehension of his power. The God, as it were, addresses each of us, as he enters, with his "KNOW THYSELF", which is at least as good as "Hail". We answer the God back with "EI" (Thou Art),36 rendering to him the designation which is true and has no lie in it, and alone belongs to him, and to no other, that of BEING.
-
-XVIII. 'For we have, really, no part in real being; all mortal nature is in a middle state between becoming and perishing, and presents but an appearance, a faint unstable image, of itself. If you strain the intellect, and wish to grasp this, it is as with water; compress it too much and force it violently into one space as it tries to flow through, and you destroy the enveloping substance; even so when the reason tries to follow out too closely the clear truth about each particular thing in a world of phase and change, it is foiled, and rests either on the becoming of that thing or on its perishing; it cannot apprehend anything which abides or really is. "It is impossible to go into the same river twice", said Heraclitus;37 no more can you grasp mortal being twice, so as to hold it. So sharp and so swift its change; it scatters and brings together again, nay not again, no nor afterwards; even while it is being formed it fails, it approaches, and it its gone. Hence becoming never ends in being, for the process never leaves off, or is stayed. From seed it produces, in its constant changes, an embryo, then an infant, then a child; in due order a boy, a young man; then a man, an elderly man, an old man; it undoes the former becomings and the age which has been, to make those which come after. yet we fear (how absurdly!) a single death, we who have died so many deaths, and yet are dying. For it is not only that, as Heraclitus38 would say, "death of fire is birth of air", and "death of air is birth of water"; the thing is much clearer in our own selves. The man in his strength is destroyed when the old man comes into being, the young man was destroyed for the man in his strength to be, so the boy for the young man, the babe for the boy. He of yesterday has died unto him of to-day; he of to-day is dying unto him of to-morrow. No one abides, no one is; we that come into being are many, while matter is driven around, and then glides away, about some one appearance and a common mould. Else how is it, if we remain the same, that the things in which we find pleasure now are different from those of a former time; that we love, hate, admire, and censure different things; that our words are different and our feelings; that our look, our bodily form, our intellect are not the same now as then? If a man does not change, these various conditions are unnatural; if he does change, he is not the same man. But if he is not the same man, he is not at all; his so-called being is simply change and new birth of man out of man. In our ignorance of what being is, sense falsely tells us that what appears is.
-
-XIX. 'What then really is? That which is eternal, was never brought into being, is never destroyed, to which no time ever brings change. Time is a thing which moves and takes the fashion of moving matter, which ever flows or is a sort of leaky vessel which holds destruction and becoming. Of time we use the words "afterwards", "before", "shall be", and "has been", each on its face an avowal of not being. For, in this question of being, to say of a thing which has not yet come into being, or which has already ceased from being, that "it is", is silly and absurd. When we strain to the uttermost our apprehension of time, and say "it is at hand", "it is here", or "now", a rational development of the argument brings it all to nothing. "Now" is squeezed out into the future or into the past, as though we should try to see a point, which of necessity passes away to right or left. But if the case be the same with Nature, which is measured, as with time which measures, nothing in it abides or really is. All things are coming into being, or being destroyed, even while we measure them by time. Hence it is not permissible, even in speaking of that which is, to say that "it was", or "it shall be"; these all are inclinations, transitions, passages, for of permanent being there is none in Nature.
-
-XX. 'But the God IS, we are bound to assert, he is, with reference to no time but to that age wherein is no movement, or time, or duration; to which nothing is prior or subsequent; no future, no past, no elder, no younger, which by one long "now" has made the "always" perfect. Only with reference tot his that which really is, is; it has not come into being, it is not yet to be, it did not begin, it will not cease. Thus then we ought to hail him in worship, and thus to address him as "Thou Art", aye, or in the very words of some of the old people, "Ei Hen", "Thou art one thing".39 For the Divine is not many things, in the sense in which each one of us is made up of ten thousand different and successive states, a scrap-heap of units, a mob of individuals. No, that which is must be one, as that is which is one is. Variety, any difference in being, passes to one side to produce that which is not. Therefore the first of the names of the God, and the second, and the third. "Apollo" (Not-many) denies plurality and excludes multitude. Ἴητος means one and one only;40 Phoebus, we know, is a word by which the ancients expressed that which is clean and pure, even as to this day the Thessalians, when their priests pass their solemn days in strict seclusion outside the temple, apply to them a verb formed from Phoebus. Now The One is transparent and pure, pollution comes by commixture of this with that, just as Homer,41 you remember, says of ivory dyed red that it is stained, and dyers say of mingled pigments that they are destroyed, and call the process "destruction". Therefore it is the property of that which is indestructible and pure to be one and without admixture.
-
-XXI. 'There are those who think that Apollo and the sun are the same; we hail them and love them for the fair name they give, and it is fitting to do so; for they associate their idea of the God with that which they honour and desire more than all other things which they know. But now that we see them dreaming of the God in the fairest of nightly visions, let us rise and encourage them to mount yet higher, to contemplate him in a dream of the day, and to see his own being. Let them pay honour also to the image of him and worship the principle of increase which is about it; so far as what is of sense can lead to what is of mind, a moving body to that which abides, it allows presentments and appearances of his kind and blessed self to shine through after a fashion. But as to transitions and changes in himself, that he now discharges fire, and so is drawn up, as they put it, or again presses down and strains himself into earth and sea, winds and animals, and all the strange passages into animals and also plants, piety forbids us so much as to hear them. Otherwise the God will be a greater trifler than the boy in Homer,42 for ever playing with the universe the game which the boy plays with a pile of sand, which is heaped together and sucked away under his hand; moulding the universe when there is none, and again destroying it when it has come into being. The opposite principle which we find in the universe, whatever its origin, is that which binds beings together and prevails over the corporeal weakness tending to destruction. To my thinking the word "EI" is confronted with this false view, and testifies to the God that THOU ART, meaning that no shift or change has place in him, but that such things belong to some other God, or rather to some Spirit set over Nature in its perishing and becoming, whether to effect either process or to undergo it. This appears from the names, in themselves opposite and contradictory. He is called Apollo, another is called Pluto; he is Delius (apparent), the other Aidoneus (invisible); he is Phoebus (bright), the other Skotios (full of darkness); by his side are the Muses, and Memory, with the other are Oblivion and Silence; he is Theorius and Phanæus, the other is "King of dim Night and ineffectual Sleep."43 The other is
-
-    Of all the Gods to men the direst foe.44 
-
-Whereas of him Pindar45 has pleasantly said:
-
-    Well tried and mildest found, to men who live and die. 
-
-so Euripides46 was right:
-
-    Draughts to the dead out-poured,
-    Songs which our bright-haired lord
-    Apollo hath abhorred. 
-
-And still earlier Stesichorus:47
-
-    Jest and song Apollo owns,
-    Let Hades keep his woes and groans. 
-
-Sophocles again,48 in his actual assignment of instruments to each, is quite clear, thus:
-
-    Nor harp nor lyre to wailing strains is dear, 
-
-for it was quite late, indeed only the other day, that the flute ventured to let itself speak "on themes of joy"; in early times it trailed along in mourning, nor was its service therein much esteemed or very cheerful; then there came a general confusion. It was specially by mingling things which were of Gods with those which were of dæmons that the distinction of the instruments was lost. Anyhow, the phrase "KNOW THYSELF" seems to stand in a sort of antithesis to the letter "E", and yet, again, to accord with it. The letter is an appeal, a cry raised in awe and worship to the God, as being throughout all eternity; the phrase is a reminder to mortal man of his own nature and of his weakness.'
-
-NOTES
-
-1. The Greek ΤΟΥ ΕΙ. This online edition is the translation of A.O. Prickard (Oxford: The Clarendon Press, 1918) with a few minor changes and some additional notes taken from the translation of C.W. King (London: George Bell and Sons, 1889). Local links of the form plutarchE.html#394a, #394b, etc., will take you (approximately) to the standard divisions of the work (which covers 384D to 394C).
-
-2. There are ancient coins showing an "E" — not the "EI" of Plutarch — floating near the temple; King mentions amulets, below, note 6; his edition includes the woodcut of a Roman-era amulet reproduced below.
-
-3. Fr. 960.
-
-4. Serapion lived at Athens, as can be gathered from the essay "On the Pythian Responses".
-
-5. This is Prickard's quirky translation; usually "incense".
-
-6. King notes "This explanation, as all the rest, is founded on nothing but fancy, as a single consideration proves. The symbol, which is preserved to us by amulets, was indeed similar in shape to the lunar ϵ but then that character was unknown before Imperial times. In all probability it was an Indian cast mark; and imported like the Swastika or Fylfot, and many other Indian symbols, in prehistoric times."
-
-E amulet
-
-7. Prickard notes "i.e., at draughts, with a play on words". ἐκ πίνακος καῖ πυλαίας = "pernicious nonsense", another joke.
-
-8. That is, εἴ, "if" or "whether", the standard opening to questions asked of the oracle.
-
-9. That is, would send them about their business.
-
-10. Fr. 71.
-
-11. εἴ. "Dragged in", as an expletive or strengthener of the "if" (cf. the English "If then" and "If indeed", as forms rather than in meaning).
-
-12. Ἄμα τέκνων ϑῆν δυσμένεα.
-
-13. Il. 17, 29. ὥς ϑῆν καῖ ἔγω σόν λύσω μένος ἔι κέ μεν ἄντα
-                             οτήῃς· 
-
-14. Cf. Pseudodoxia IV.v and note.
-
-15. Il. 1, 70.
-
-16. So Emperius, whose reading is that of the Paris MS. E. (See Paton in loco.) King: 'In his fight with the Centaurs, regarded as sophists. Here is the common play upon the various senses of λόγος, impossible to be translated.'
-
-17. To count by fives, anyway. King: ' πεμπάζειν, literally "to five fold" or "to quintuple". In early Greek numeration, the numbers up to 5 were denoted by as many vertical strokes; 5 by π; to which again were subjoined the proper amount [sic] of verticals up to 10, expressed by Δ.'
-
-18. This or the contrary is of course true of all (whole) numbers: adding an even number to any even number gives even, to an odd gives odd; adding an odd number to an even gives an odd, to an odd gives an even.
-
-19. That is, any odd number added to any even number gives an odd number.
-
-20. A reference to the complaint with which the first attempts of Aeschylus and others to give literary form to the popular hymns in honour of Dionysus were greeted.
-
-21. Another of Prickard's quirks; he notes "not many" to "Apollo". King: "on account of the reduction to one state", and he notes "As if derived from α privative, and πολλοι, and signifying "Destroyer of plurality" [or "Absence of plurality"] — the most preposterous of all the absurd derivations recorded by our Author".
-
-22. Fr. 392.
-
-23. Or as we should say, "creation" and "conflagration", but Prickard is making a distinction between a one-time affair and a recurring one. The creation takes three times as long as the conflagration. Prickard: "Terms used by Heraclitus (Fr. 24), adapted by the Stoics for the periodic conflagration and renewal of the universe."
-
-24. Timæus, 31A [Plato Timaeus 31a] and 55E foll. [Plato Timaeus 55e]
-
-25. Aristotle De Cælo, 1, 8-9, 276 a 18.
-
-26. "Quintessence". King notes "πεμπτῆ οὐσία, which, from the property here mentioned, Julian calls τὸ εἰλικτῶν σῶμα, and says is symbolized by Atys."
-
-27. Homer Iliad 15.190.
-
-28. See. Iph. Aul. Euripides 865 and Herc. Fur. 1221.
-
-29. The Pythagoreans.
-
-30. Plato Cratylus 409a
-
-31. Plato Sophist 254 - 256.
-
-32. Plato Philebus 23c and following; Plato Philebus 66c.
-
-33. King translates "the first casting of the three lots takes place — you throw neither three nor two — is it not so?" and notes "This passage is hopelessly corrupt. Perhaps the meaning is that the dice so used wanted the deuce and tierce pips."
-
-34. Plutarch later did become a priest at Delphi.
-
-35. From Simonides, a favourite phrase with Plutarch. = "long tradition"
-
-36. King: "Equivalent in sense to the Hebrew 'Jehovah', and the ὁ ζῶν ϑεος of the Athenians."
-
-37. Fr. 41.
-
-38. Fr. 25.
-
-39. Prickard: "See on this remarkable passage E. Norden, Agnostos Theos, p. 231 f., and the views of H. Diels, communicated to him. I have followed Norden in reading εἶ, ἤ (he suggests with hesitation προσεπιθειάζειν) (and so Paton and Diels). Diels thinks that οἱ παλαιοί may cover later philosophers such as Xenophanes."
-
-40. On Apollo, see note 21 above. Ἴητος, "Archer", as though derived from the archaic ἵος = εἵς.
-
-41. Homer Iliad 4.141
-
-42. Homer Iliad 15.362
-
-43. Pindar.
-
-44. Homer Iliad 9.158
-
-45. Fr. 149.
-
-46. Euripides Suppliants 975.
-
-47. Fr. 50.
-
-48. Fr. 728, probably from the Thamyras.
-
-This page is created and maintained at the University of Chicago by James Eason.
-
+and as money is changed for gold, and gold for money; so the congress of five with itself is framed by Nature to produce nothing imperfect or strange, but has limited changes; for it either generates itself or ten, that is, either what is proper to itself, or what is perfect.
 #+end_quote
+***** an edition in google books
+
+Τίτλος	On the E at Delphi
+Συγγραφέας	Plutarch
+Μεταφράστηκε από	Charles William King
+Εκδότης	Independently Published, 2017
+ISBN	1521708983, 9781521708989
+Μέγεθος	29 σελίδες
 
 * 3 Instruments in History
 ** Theorbe
