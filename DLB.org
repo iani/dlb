@@ -41,3 +41,6 @@ Heinrich Khunrath (1595): Amphitheatrum sapientiae aeternae.
 Le Laboratoire de l'alchimiste.
 
 L'Œuvre au noir wikipedia french.
+* Notation / Theory (Σημειογραφία / Θεωρία)
+** Σημειογραφία: Καταγραφή ή Προδιαγραφή;
+** Προδιαγραφή: Αλγόριθμος κατασκευής;
