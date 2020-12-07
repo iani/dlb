@@ -15,8 +15,6 @@ https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphit
   :DATE:     <2020-12-07 Mon 14:34>
   :END:
 
-
-
 ** What's on with this "Gesamtkunswerk?" thing
    :PROPERTIES:
    :DATE:     <2020-12-07 Mon 08:23>
@@ -49,6 +47,11 @@ A very loud and equally cheap word that promptly raised an aesthetic/ideological
 
  Message from Tamasaburo Bando V - THE 2011 KYOTO PRIZE
  https://www.youtube.com/watch?v=gonFvhsh0Qc
+
+* Synesthaesia <-> Embodiment
+  :PROPERTIES:
+  :DATE:     <2020-12-07 Mon 23:58>
+  :END:
 
 * Embodied Cognition / Embodied Performance
   :PROPERTIES:
@@ -519,7 +522,9 @@ ISBN	1521708983, 9781521708989
 *** Chaconne, 
 
 *** Missa in H BWV 232
-
+    :PROPERTIES:
+    :DATE:     <2020-12-07 Mon 23:46>
+    :END:
 **** Opening Kyrie
 
 **** Agnus Dei
@@ -544,10 +549,15 @@ ISBN	1521708983, 9781521708989
 ** Aksak Semai - 
 
 ** Jiuta: Snow, Yamamba
+** Chaconne, Passacaglia, Sarabande
+   :PROPERTIES:
+   :DATE:     <2020-12-07 Mon 23:46>
+   :END:
+
+Final mvt. Matthaeus Passion?
+
 ** Gigue
 *** The gigues of J.S. Bach's Kbd. Partitas I, V and VI
-** Chaconne, Passacaglia, Sarabande
-
 * Games
   :PROPERTIES:
   :DATE:     <2020-12-07 Mon 14:31>
