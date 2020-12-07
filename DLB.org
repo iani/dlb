@@ -494,6 +494,13 @@ ISBN	1521708983, 9781521708989
 ** Chopin citing WTK in Etudes Op. 10 and Op. 25
 
 * Key tetrachords in Bach
+** goldberg aria bass vs discant (c/o Denk)
+   :PROPERTIES:
+   :DATE:     <2020-12-07 Mon 23:41>
+   :END:
+** Inventio 1 - WTK I-1 fugue
+** Mass in H BWV 232 first 8 bars, gratias, amen
+** Chromatic (hijaz-type) tetrachord: Cantata 4 or 106, Chaconne 
 
 * The Lacrimae tetrachord
 
@@ -517,6 +524,8 @@ ISBN	1521708983, 9781521708989
 
 **** Agnus Dei
 
+* Stasis: Repeated notes / tremoli / trills
+
 * Dances
   :PROPERTIES:
   :DATE:     <2020-12-07 Mon 14:31>
@@ -537,6 +546,7 @@ ISBN	1521708983, 9781521708989
 ** Jiuta: Snow, Yamamba
 ** Gigue
 *** The gigues of J.S. Bach's Kbd. Partitas I, V and VI
+** Chaconne, Passacaglia, Sarabande
 
 * Games
   :PROPERTIES:
