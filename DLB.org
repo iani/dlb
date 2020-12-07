@@ -523,8 +523,21 @@ ISBN	1521708983, 9781521708989
   :END:
 ** Valse
 ** Ζωναράδικος / Tarantella / Acharuli
+(But see also some Gigues!)
+*** Bach Gigue of Kbd. Partita I
+*** Beethoven Piano Sonata 1,  Mvt IV
+*** Schubert Symphony 3 (and 5, 6 ...?)
+*** Scriabine Piano Sonata 1, 2, Symphony 1 ...
+*** Many other pieces?????????
+
 ** Τσάμικος / Polonaise
+
+** Aksak Semai - 
+
 ** Jiuta: Snow, Yamamba
+** Gigue
+*** The gigues of J.S. Bach's Kbd. Partitas I, V and VI
+
 * Games
   :PROPERTIES:
   :DATE:     <2020-12-07 Mon 14:31>
