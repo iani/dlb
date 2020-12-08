@@ -17,10 +17,68 @@ https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphit
 
 Patanjali
 Fibonacci
-The Cows of ????
+The Cows of Narayana
 Kathak
 Barata Nathyam
 Konnakol
+
+* Examples of E
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 18:26>
+  :END:
+
+** Pythagorean Scale
+
+**  In Flemish polyphony 1400-1610
+
+** Bach: Ending of Goldberg Var No. 15.
+
+** Schubert: Piano Sonata in A Minor. End of Winterreise. (And other works?)
+
+** Chopin: Prelude Op. 28 No. 14, in Eb Minor
+
+** Liszt? Wagner (Opening of The Ring?)
+
+** Scriabineg: Piano Sonata No. 5, Symphony No. 1
+
+** Stravinsky? Bartok?
+
+** Richard Strauss: Also Sprach Zarathustra - beginning
+
+** Indian Music: Sa-Pa-Ṡa, Start of lessons in Indian Music
+
+** Various examples of hemiola's in Bach and elsewhere (French Courante dance etc).
+
+* Timescale Layering
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 19:01>
+  :END:
+
+Okhegem
+Bach: Cantata with Litui, Orgelbüchlein, Messe BWV 232 Confiteor, Mathäuspassion "Kommt, ihr Töchter...", various Fugas per augmentationem et diminutionen, Orgelmesse, ...
+
+* Genre Layering
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 19:01>
+  :END:
+
+Bach Weihnachtsoratorium Recitativo/Chorale/Aria
+Bach Chaconne: Chaconne (variations), Violin Solo, Chorale
+
+* Soundscape Scores + Folk and Cult Element quotations
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 19:01>
+  :END:
+
+Monteverdi Vespers Magnificat, Ave Maris stella, Sancta Maria Ora pro nobis
+
+Bach - Magnificat / Litany cantata in tono peregrino
+
+Ives parade mashup
+
+Chopin: Prelude in a, Op 28 No 2, Ballade 1 g minor, Polonaise f#minor, Fantasie-Polonaise.
+
+* 
 
 * Ri1 and Hicaz and νενανώ
   :PROPERTIES:
@@ -118,6 +176,18 @@ Hemiola
    :DATE:     <2020-12-08 Tue 09:21>
    :END:
 
+https://www.youtube.com/watch?v=OyyfLtYQcwI
+Extreme Math Nerd Music (An Intro to Konnakol)
+
+https://www.youtube.com/watch?v=qdASeGlQW1g
+Konnakkol - Lesson 1 - Tha Dhi Thom Nam
+
+** Yati
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 15:42>
+   :END:
+
+See also above [[*Konnakol][Konnakol]] 
 ** Gamaka
    :PROPERTIES:
    :DATE:     <2020-12-08 Tue 10:36>
@@ -197,9 +267,49 @@ How to sing fast phrases
    :DATE:     <2020-12-08 Tue 10:53>
    :END:
 
-https://en.wikipedia.org/wiki/Panchatantra
+*** general info
+ https://en.wikipedia.org/wiki/Panchatantra
 
-Translations: 
+https://www.newworldencyclopedia.org/entry/Panchatantra
+
+*** History of Cross-Cultural Transmission
+
+https://www.newworldencyclopedia.org/entry/Panchatantra
+
+#+begin_quote
+The Panchatantra approximated its current literary form within the fourth—sixth centuries C.E. According to Hindu tradition, the Panchatantra was written around 200 B.C.E. by Pandit Vishnu Sarma, a sage; however, no Sanskrit versions of the text before 1000 C.E. have survived.[16] One of the most influential Sanskrit contributions to world literature, it was exported (probably both in oral and literary formats) north to Tibet and China and east to South East Asia by Buddhist Monks on pilgrimage.[17]
+
+According to the Shahnameh (The Book of the Kings, Persia's late tenth century national epic by Ferdowsi)[18] the Panchatantra also migrated westwards, during the Sassanid reign of Nushirvan around 570 C.E. when his famous physician Borzuy translated it from Sanskrit into the middle Persian language of Pahlavi, transliterated for Europeans as Kalile va Demne (a reference to the names of two central characters in the book).[19]
+
+Karataka ('Horribly Howling') and Damanaka ('Victor') are the Sanskrit names of two jackals in the first section of the Panchatantra. They are retainers to a lion king and their lively adventures as well as the stories they and other characters tell one another make up roughly 45 percent of the book's length. By the time the Sanskrit version had migrated several hundred years through Pahlavi into Arabic, the two jackals' names had changed into Kalila and Dimna, and—probably because of a combination of first-mover advantage, Dimna's charming villainy and that dominant 45 percent bulk—their single part/section/chapter had become the generic, classical name for the whole book. It is possible, too, that the Sanskrit word 'Panchatantra' as a Hindu concept could find no easy equivalent in Zoroastrian Pahlavi.
+
+From Borzuy's Pahlavi translation titled, Kalile va Demne, the book was translated into Syriac and Arabic—the latter by Ibn al-Muqaffa around 750 C.E. [20] under the Arabic title, Kalīla wa Dimma.[21]
+
+Scholars aver that the second section of Ibn al-Muqaffa's translation, illustrating the Sanskrit principle of Mitra Laabha (Gaining Friends), became the unifying basis for the Brethren of Purity—the anonymous ninth century C.E. Arab encyclopedists whose prodigious literary effort, Encyclopedia of the Brethren of Sincerity, codified Indian, Persian and Greek knowledge.[22]
+
+Philip K. Hitti in his History of the Arabs, proposes that:
+
+    "The appellation is presumably taken from the story of the ringdove in Kalilah wa-Dimnah in which it is related that a group of animals by acting as faithful friends (ikhwan al-safa) to one another escaped the snares of the hunter. The story concerns a ring-dove and its companions who have become entangled in the net of a hunter seeking birds. Together, they left themselves and the ensnaring net to a nearby rat, who is gracious enough to gnaw the birds free of the net; impressed by the rat's altruistic deed, a crow becomes the rat's friend. Soon a tortoise and gazelle also join the company of animals. After some time, the gazelle is trapped by another net; with the aid of the others and the good rat, the gazelle is soon freed, but the tortoise fails to leave swiftly enough and is himself captured by the hunter. In the final turn of events, the gazelle repays the tortoise by serving as a decoy and distracting the hunter while the rat and the others free the tortoise. After this, the animals are designated as the Ikwhan al-Safa.[23]
+
+This story is mentioned as an exemplum when the Brethren speak of mutual aid in one rasa'il (treatise), a crucial part of their system of ethics that has been summarized thus:
+
+    "And their virtues, equally, are not the virtues of Islam, not so much righteousness and the due quittance of obligations, as mildness and gentleness towards all men, forgiveness, long-suffering, and compassion, the yielding up of self for others' sake. In this Brotherhood, self is forgotten; all act by the help of each, all rely upon each for succour and advice, and if a Brother sees it will be good for another that he should sacrifice his life for him, he willingly gives it. No place is found in the Brotherhood for the vices of the outside world; envy, hatred, pride, avarice, hypocrisy, and deceit, do not fit into their scheme,—they only hinder the worship of truth."[24]
+
+After the Muslim invasion of Persia (Iran) Ibn al-Muqaffa's 750 C.E. Arabic version (by now two languages removed from its pre-Islamic Sanskrit original) emerges as the pivotal surviving text that enriches world literature.[25]
+
+From Arabic it was transmitted in 1080 C.E. to Greece, and in 1252 into Spain (old Castillian, Calyla e Dymna) and thence to the rest of Europe. However, it was the ca. 1250 Hebrew translation attributed to Rabbi Joel that became the source (via a subsequent Latin version done by one John of Capua around 1270 C.E., Directorium Humanae Vitae, or "Directory of Human Life") of most European versions. Furthermore, in 1121, a complete 'modern' Persian translation from Ibn al-Muqaffa's version flows from the pen of Abu'l Ma'ali Nasr Allah Munshi.
+Content
+
+Each distinct part of the Panchatantra contains "at least one story, and usually more, which are 'emboxed' in the main story, called the 'frame-story'. Sometimes there is a double emboxment; another story is inserted in an 'emboxed' story. Moreover, the [whole] work begins with a brief introduction, which as in a frame all five … [parts] are regarded as 'emboxed'." Vishnu Sarma's idea was that humans can assimilate more about their own habitually unflattering behavior if it is disguised in terms of entertainingly configured stories about supposedly less illustrious beasts than themselves.[26]
+
+Professor Edgerton challenges the assumption that animal fables function mainly as adjuncts to religious dogma, acting as indoctrination devices to condition the moral behavior of small children and obedient adults. He suggests that in the Panchatantra, "Vishnu Sarma undertakes to instruct three dull and ignorant princes in the principles of polity, by means of stories …. [This is] a textbook of artha, 'worldly wisdom', or niti, polity, which the Hindus regard as one of the three objects of human desire, the other being dharma, 'religion or morally proper conduct' and kama 'love' …. The so-called 'morals' of the stories have no bearing on morality; they are unmoral, and often immoral. They glorify shrewdness, practical wisdom, in the affairs of life, and especially of politics, of government."
+
+The text's political realism explains why the original Sanskrit villain jackal, the decidedly jealous, sneaky and evil vizier-like Damanaka ('Victor') is his frame-story's winner, and not his noble and good brother Karataka who is presumably left 'Horribly Howling' at the vile injustice of Part One's final murderous events. In fact, in its steady migration westward the persistent theme of evil-triumphant in Kalila and Dimna, Part One frequently outraged Jewish, Christian and Muslim religious leaders—so much so, indeed, that ibn al-Muqaffa carefully inserts (no doubt hoping to pacify the powerful religious zealots of his own turbulent times) an entire extra chapter at the end of Part One of his Arabic masterpiece, putting Dimna in jail, on trial and eventually to death.
+
+Needless to say there is no vestige of such dogmatic moralizing in the collations that remain to us of the pre-Islamic original—the Panchatantra. 
+#+end_quote
+
+*** Translations: 
 
 *** Arabic: Kalila wa-Dimna
 
