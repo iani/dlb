@@ -39,6 +39,9 @@ Hemiola
 
 ** unrepeating sequences (and tilings)
 
+Building never-repeating bit sequences
+
+
 ** bird dance
 
 ** emphasis through imbalance
