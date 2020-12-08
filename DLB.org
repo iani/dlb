@@ -46,6 +46,43 @@ Building never-repeating bit sequences
 
 ** emphasis through imbalance
 
+** infinite fibonacci beat pattern
+
+* Usul
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:18>
+  :END:
+
+* Makam
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:19>
+  :END:
+
+* Dastgah
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:19>
+  :END:
+
+* Raga
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:19>
+  :END:
+
+* Radif
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:21>
+  :END:
+
+* Konnakol
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:21>
+  :END:
+
+* Bol
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:21>
+  :END:
+
 * Tetraktys, Diagonal Argument, Harmonielehre, The Infinite
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 08:03>
