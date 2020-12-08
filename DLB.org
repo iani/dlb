@@ -32,6 +32,21 @@ Hemiola
 
 ** movement <-> stasis
 
+* Aksak meters
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 08:02>
+  :END:
+
+** unrepeating sequences (and tilings)
+
+** bird dance
+
+** emphasis through imbalance
+
+* Tetraktys, Diagonal Argument, Harmonielehre, The Infinite
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 08:03>
+  :END:
 
 * Gesamtkunstwerk and Synesthesia
   :PROPERTIES:
