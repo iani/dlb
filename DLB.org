@@ -88,6 +88,13 @@ Building never-repeating bit sequences
   :DATE:     <2020-12-08 Tue 08:03>
   :END:
 
+* Ptolemaios' Tetrachords
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 09:27>
+  :END:
+
+(From ptolemaios und porphyrios 
+
 * Gesamtkunstwerk and Synesthesia
   :PROPERTIES:
   :DATE:     <2020-12-07 Mon 14:34>
