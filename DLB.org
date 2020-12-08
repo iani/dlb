@@ -15,12 +15,12 @@ https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphit
   :DATE:     <2020-12-08 Tue 14:51>
   :END:
 
-Patanjali
-Fibonacci
-The Cows of Narayana
-Kathak
-Barata Nathyam
-Konnakol
+- Panini
+- Fibonacci (his original ghost-author)
+- The Cows of Narayana
+- Kathak
+- Barata Nathyam
+- Konnakol
 
 * Examples of E
   :PROPERTIES:
