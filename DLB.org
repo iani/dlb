@@ -10,6 +10,23 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
+* Algorithm as Medium in Indian Music (+Culture)
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 14:51>
+  :END:
+
+Patanjali
+Fibonacci
+The Cows of ????
+Kathak
+Barata Nathyam
+Konnakol
+
+* Ri1 and Hicaz and νενανώ
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 15:12>
+  :END:
+
 * The transmutation of opposites
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 07:57>
@@ -32,56 +49,192 @@ Hemiola
 
 ** movement <-> stasis
 
-* Aksak meters
+** Order - Disorder
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:58>
+   :END:
+
+** Pattern - Random
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:58>
+   :END:
+
+* Music theory concepts to explore
   :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 08:02>
+  :DATE:     <2020-12-08 Tue 10:30>
+  :END:
+** Aksak meters
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 08:02>
+   :END:
+
+*** unrepeating sequences (and tilings)
+
+ Building never-repeating bit sequences
+
+
+*** bird dance
+
+*** emphasis through imbalance
+
+*** infinite fibonacci beat pattern
+
+** Usul
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:18>
+   :END:
+
+** Makam
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:19>
+   :END:
+
+** Dastgah
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:19>
+   :END:
+
+** Raga
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:19>
+   :END:
+
+** Tala
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 10:24>
+   :END:
+
+ https://www.youtube.com/watch?v=R7d4T5L6qKI
+
+ Exploring Ragas & Rhythms, part THREE ~ Wheel of Tala
+
+** Radif
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:21>
+   :END:
+
+** Konnakol
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:21>
+   :END:
+
+** Gamaka
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 10:36>
+   :END:
+
+https://www.youtube.com/watch?v=AIPraIlSmIk
+How to sing Gamakas
+
+** Χειρονομίες
+
+** Shruti
+
+https://www.youtube.com/watch?v=YfF8ZEVOYks
+
+World Harmonium Summit 2018 - Lecture Demonstration on 22 Shruti Harmonium by Dr Vidyadhar Oke
+
+https://www.youtube.com/watch?v=ipYLnhC5YDo
+
+** Bol
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 09:21>
+   :END:
+
+** Swara
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 11:05>
+   :END:
+
+https://www.youtube.com/watch?v=ZnObqYfb-0M
+Introduction to Carnatic Music
+
+https://www.youtube.com/watch?v=EL4OEaYAdcw
+12 Swara Sthanams in Music
+
+https://www.youtube.com/watch?v=YW2B_eHyhpY
+How to sing fast phrases
+
+** Gati
+
+** Jathi
+
+** Aksharas
+
+* Music Genres
+
+** Carnatic Music
+
+** Hindustani Music
+
+** Jiuta
+
+** Nagauta
+
+** Kyoumai
+
+** Kiyomoto
+
+** Shinnai
+
+** Soukyoku
+
+** Heike Biwa
+
+** Satsuma Biwa
+
+** Gagaku
+
+** 
+
+* Mythology
+  :PROPERTIES:
+  :DATE:     <2020-12-08 Tue 10:53>
   :END:
 
-** unrepeating sequences (and tilings)
+** Panchatantra
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 10:53>
+   :END:
 
-Building never-repeating bit sequences
+https://en.wikipedia.org/wiki/Panchatantra
 
+Translations: 
 
-** bird dance
+*** Arabic: Kalila wa-Dimna
 
-** emphasis through imbalance
+https://en.wikipedia.org/wiki/Kal%C4%ABla_wa-Dimna
+*** Greek by Simeon Seth: Στεφανίτης και Ιχνηλάτης
+    :PROPERTIES:
+    :DATE:     <2020-12-08 Tue 10:58>
+    :END:
 
-** infinite fibonacci beat pattern
+https://en.wikipedia.org/wiki/Simeon_Seth
 
-* Usul
+* Octave subdivisions and just tuning spaces
   :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:18>
+  :DATE:     <2020-12-08 Tue 10:30>
   :END:
 
-* Makam
-  :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:19>
-  :END:
+** 12 subdivision
 
-* Dastgah
-  :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:19>
-  :END:
+Modern western music theory
 
-* Raga
-  :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:19>
-  :END:
+** 24 subdivision
 
-* Radif
-  :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:21>
-  :END:
+Modern arabic music theory
 
-* Konnakol
-  :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:21>
-  :END:
+** 53 subdivision
 
-* Bol
-  :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 09:21>
-  :END:
+https://en.wikipedia.org/wiki/53_equal_temperament
+
+** 72 subdivision
+
+Karas
+
+** 171 subdivision
+
+Vogel
 
 * Tetraktys, Diagonal Argument, Harmonielehre, The Infinite
   :PROPERTIES:
@@ -93,7 +246,18 @@ Building never-repeating bit sequences
   :DATE:     <2020-12-08 Tue 09:27>
   :END:
 
-(From ptolemaios und porphyrios 
+(From ptolemaios und porphyrios über die Musik):
+
+** Diatonon malakon, toniaion, syntonon (p. 52)
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 10:00>
+   :END:
+
+| # | malakon  | 8/7  | 10/9 | 21/20 | 1.3333333 |
+| # | toniaion | 9/8  | 8/7  | 28/27 | 1.3333333 |
+| # | syntonon | 10/9 | 9/8  | 16/15 | 1.3333333 |
+#+TBLFM: $6=$-3 * $-2 * $-1
+
 
 * Gesamtkunstwerk and Synesthesia
   :PROPERTIES:
