@@ -257,7 +257,9 @@ Hemiola
 * Crossfade in scores
 
 Schubert: String Quartet No 14 in G. 1st Movement. Transition to recapitulation
-Chopin: Scherezo in h moll, [and others, which I forget at the moment ( 9 Dec 2020 14:10)]
+Chopin: Scherezo in h moll, Etude in h moll Op 25 No. 10. Polonaise in fis moll 
+
+(others?)
 
 * Music theory concepts to explore
   :PROPERTIES:
