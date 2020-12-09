@@ -75,7 +75,12 @@ Düyek Usulü
 Gauss
 Σαββόπουλος
 
+** 28
+
+Devri Kebir
+
 * Παρρησία
+
 
 Besides JSB e-minor prelude and 3 Brandenburg 1st Mvt, see also Partita 2, courante or gavotte.
 
@@ -387,6 +392,14 @@ How to sing fast phrases
 ** Gagaku
 
 ** 
+
+* Micropolyphony: Ligeti and Actus Tragicus Sinfonia
+
+* Silence and Pause - in Bach and elsewhere
+
+Actus Tragicus,
+St. Matthew Passion
+St. John Passion
 
 * Mythology
   :PROPERTIES:
