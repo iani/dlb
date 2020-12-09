@@ -10,6 +10,91 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
+* Numbers
+
+** 1
+
+Monas
+Ίσον (αναφορά σε ορισμό και σχόλια από βυζαντινά θεωρητικά).
+Ταυτόφωνία
+
+Μπορεί και να μην είναι αριθμός.
+
+Beat. Measures but is not measured! cf. Ίσον above.
+
+** 2
+
+Οκτάβα. 
+Το πρώτο Θηλυκό.
+Σειρήνες; βλ. Kittler
+
+Square root? Historical comments from Antiquity, in Babylon and in Ancient Greece.
+Ίππασος
+
+Nim Sofyan
+
+** 3
+
+Credo Filioque?
+
+Bach Partita 6 - Gigue.
+
+Semai Usulü.
+
+Alpha et Omega.  3d Brandenburg
+
+** 4
+
+Sofyan Usulü.
+
+** 5
+
+Fifth.
+Pythagorean Scale
+Sa-Pa-Ṡa / Odyssey 2001
+
+Aksak Semai
+
+De E Apud Delphos
+
+** 6
+
+Yürük Semai
+
+** 7
+
+Vogel, Tartini... see also: 5.
+
+** 8
+
+Düyek Usulü
+
+
+** 17
+
+Gauss
+Σαββόπουλος
+
+* Παρρησία
+
+Besides JSB e-minor prelude and 3 Brandenburg 1st Mvt, see also Partita 2, courante or gavotte.
+
+* The program of the Brandenburgs
+
+** Nero and the romans
+
+** Poets and Glory
+
+** Alpha and Omega - The 9 Muses, The Heavens, The Planets
+
+** The earth, fauna and flora, the woods (Silva), Echo and Narcissus
+
+** The sun sets.  The fall of icarus
+
+** Memento mori.  Et in Arcadia Ego
+
+cf. Nagini
+
 * Lists and Tables
   :PROPERTIES:
   :DATE:     <2020-12-09 Wed 07:31>
@@ -32,7 +117,6 @@ https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphit
 ** Ήχοι
 
 ** J.S. Bach Cantatas/Works: Sarabande/Passacaglia/Chaconne
-
 
 * Algorithm as Medium in Indian Music (+Culture)
   :PROPERTIES:
@@ -122,25 +206,36 @@ https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphit
 
 - Chopin: Prelude in a, Op 28 No 2, Ballade 1 g minor, Polonaise f#minor, Fantasie-Polonaise.
 
-* Ri1 and Hicaz and νενανώ
+* Νενανώ, Ri1 and Hicaz
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 15:12>
   :END:
 
 + Anonymus Bellermani
 
+in Bach? (BWV 1 or 4?, Violin Partita II/Chaconne theme). 
+
+Karas
+
 * The transmutation of opposites
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 07:57>
   :END:
 
-** fast <-> slow
+** fast <-> slow (+movement <-> stasis)
+
+Mozart: Piano Concerto Eb - last movement, Piano Concerto C (No 13 or 17?, last movement)
+
+Beethoven: Piano Sonata No. 32, String Quartet (?)
 
 ** hard <-> soft
 (dur und moll!)
 
+Schubert: Winterreise: Fremd bin ich Eingezogen, Drei Sonnen, Serenade
+
 ** male and female (2 and 3)
 
+See also [[*Examples of E][Examples of E]]
 Hemiola
 
 ** high and low
@@ -148,15 +243,7 @@ Hemiola
 高山流水
 
 ** loud <-> soft (quiet) (f <-> p)
-
-** movement <-> stasis
-
-** Order - Disorder
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 09:58>
-   :END:
-
-** Pattern - Random
+** Order - Disorder (+Pattern <-> Random)
    :PROPERTIES:
    :DATE:     <2020-12-08 Tue 09:58>
    :END:
