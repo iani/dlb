@@ -10,17 +10,61 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
+* Lists and Tables
+  :PROPERTIES:
+  :DATE:     <2020-12-09 Wed 07:31>
+  :END:
+
+** Ptolemaios: Intervals
+
+** Ptolemaios: Tetrachords
+
+** Ptolemaios: Astrological correspondences
+
+** Ancient greek notation signs
+
+** Archytas: Scales + Genres
+
+** Aristoxenos: Scales + Genres
+
+** Makamlar
+
+** Ήχοι
+
+** J.S. Bach Cantatas/Works: Sarabande/Passacaglia/Chaconne
+
+
 * Algorithm as Medium in Indian Music (+Culture)
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 14:51>
   :END:
 
-- Panini
-- Fibonacci (his original ghost-author)
-- The Cows of Narayana
-- Kathak
-- Barata Nathyam
-- Konnakol
+** Panini
+   :PROPERTIES:
+   :DATE:     <2020-12-09 Wed 07:30>
+   :END:
+
+ How many rules?
+
+** Fibonacci (his original ghost-author)
+   :PROPERTIES:
+   :DATE:     <2020-12-09 Wed 07:30>
+   :END:
+
+ Which page of his book?
+
+** The Cows of Narayana
+
+ Johnston.
+
+ Which Narayana (the first).
+ But also: Other uses of Narayana 
+
+** Kathak
+
+** Barata Nathyam
+
+** Konnakol
 
 * Examples of E
   :PROPERTIES:
