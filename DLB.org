@@ -254,6 +254,10 @@ Hemiola
    :PROPERTIES:
    :DATE:     <2020-12-08 Tue 09:58>
    :END:
+* Crossfade in scores
+
+Schubert: String Quartet No 14 in G. 1st Movement. Transition to recapitulation
+Chopin: Scherezo in h moll, [and others, which I forget at the moment ( 9 Dec 2020 14:10)]
 
 * Music theory concepts to explore
   :PROPERTIES:
