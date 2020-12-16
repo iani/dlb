@@ -84,7 +84,9 @@ Devri Kebir
 
 Besides JSB e-minor prelude and 3 Brandenburg 1st Mvt, see also Partita 2, courante or gavotte.
 
-Mozart Piano Concerto No 8 K 246 - 1st mvt
+Mozart Piano Concerto No 8 K 246 - 1st mvt?
+
+Mozart Piano Concerto No 12 - 3d mvt answer to 1st period.
 
 * The program of the Brandenburgs
 
@@ -224,7 +226,7 @@ in Bach? (BWV 1 or 4?, Violin Partita II/Chaconne theme).
 
 Karas
 
-* The transmutation of opposites
+* Contrasts / The transmutation of opposites
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 07:57>
   :END:
@@ -234,6 +236,8 @@ Karas
 Mozart: Piano Concerto C (No 13 or 17?, last movement)
 
 Beethoven: Piano Sonata No. 32, String Quartet (?), Piano Concerto No 2, last mvt.
+
+Georgian Dance (cf. Ζωναράδικος)
 
 ** hard <-> soft
 (dur und moll!)
@@ -256,8 +260,15 @@ Hemiola
    :END:
 * Crossfade in scores
 
-Schubert: String Quartet No 14 in G. 1st Movement. Transition to recapitulation
-Chopin: Scherezo in h moll, Etude in h moll Op 25 No. 10. Polonaise in fis moll 
+- Schubert: String Quartet No 14 in G. 1st Movement. Transition to recapitulation
+
+- Chopin: 
+  - Scherzo in h moll,
+  - Etude in h moll Op 25 No. 10.
+  - Polonaise in fis moll
+  - Fantasie-Polonaise?
+
+????? Mozart: Piano Concerto No 9 K. 271 ("Jenamy"): Piano first answers to orchestra, then interrupts it with trill - but gradually takes over orchestra's role. ?????
 
 (others?)
 
