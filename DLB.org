@@ -79,14 +79,26 @@ Gauss
 
 Devri Kebir
 
-* Παρρησία (Parrhesia)
+* Palindrome and Mirror
+  :PROPERTIES:
+  :DATE:     <2020-12-18 Fri 09:10>
+  :END:
 
+** Palindrome
+*** Haydn Symphony - Menuet, Machault "Ma fin est mon commencement", Bach Contrapunctus in Contrario Motu, Berg Lulu
+** Mirror: Bach Goldberg Variations 12 + 15, Fuga from Kunst der Fuge, Fugues with theme inversions in WTK, Inventio a 2 No. 1.
+* Rhetoric and Figures 
+  :PROPERTIES:
+  :DATE:     <2020-12-18 Fri 09:10>
+  :END:
 
-Besides JSB e-minor prelude and 3 Brandenburg 1st Mvt, see also Partita 2, courante or gavotte.
+** Παρρησία (Parrhesia)
 
-Mozart Piano Concerto No 8 K 246 - 1st mvt?
+ Besides JSB e-minor prelude and 3 Brandenburg 1st Mvt, see also Partita 2, courante or gavotte.
 
-Mozart Piano Concerto No 12 - 3d mvt answer to 1st period.
+ Mozart Piano Concerto No 8 K 246 - 1st mvt?
+
+ Mozart Piano Concerto No 12 - 3d mvt answer to 1st period.
 
 * The program of the Brandenburgs
 
@@ -276,6 +288,103 @@ Hemiola
   :PROPERTIES:
   :DATE:     <2020-12-08 Tue 10:30>
   :END:
+
+** From Indian Music Theory...
+   :PROPERTIES:
+   :DATE:     <2020-12-19 Sat 10:13>
+   :END:
+
+*** Pitch and melody
+**** Swara
+
+https://www.youtube.com/watch?v=EL4OEaYAdcw
+
+https://en.wikipedia.org/wiki/Svara
+
+12 Swara Sthanams in Music
+
+**** Shruti
+
+
+  https://www.youtube.com/watch?v=YfF8ZEVOYks
+
+  World Harmonium Summit 2018 - Lecture Demonstration on 22 Shruti Harmonium by Dr Vidyadhar Oke
+
+  https://www.youtube.com/watch?v=ipYLnhC5YDo
+
+**** Grama
+
+https://en.wikipedia.org/wiki/Shruti_(music)#Grama_system
+
+**** Mela
+
+https://en.wikipedia.org/wiki/Shruti_(music)#Mela_system
+
+**** Raga
+
+Exploring Ragas & Rhythms, part THREE ~ Wheel of Tala
+
+**** Gati
+
+**** Tisram
+
+**** Gamaka
+https://www.youtube.com/watch?v=AIPraIlSmIk
+How to sing Gamakas
+
+**** Brigha
+
+**** Kan Swar
+**** Bol
+     :PROPERTIES:
+     :DATE:     <2020-12-08 Tue 09:21>
+     :END:
+
+**** Swara
+     :PROPERTIES:
+     :DATE:     <2020-12-08 Tue 11:05>
+     :END:
+
+  https://www.youtube.com/watch?v=ZnObqYfb-0M
+  Introduction to Carnatic Music
+
+  https://www.youtube.com/watch?v=EL4OEaYAdcw
+  12 Swara Sthanams in Music
+
+  https://www.youtube.com/watch?v=YW2B_eHyhpY
+  How to sing fast phrases
+
+**** Mora
+
+**** Kriti
+
+**** Gati
+
+**** Jathi
+
+**** Aksharas
+
+
+****** 
+*** Rhythm
+
+**** Tala
+ https://www.youtube.com/watch?v=R7d4T5L6qKI
+**** Konnakol
+
+https://www.youtube.com/watch?v=OyyfLtYQcwI
+Extreme Math Nerd Music (An Intro to Konnakol)
+
+https://www.youtube.com/watch?v=qdASeGlQW1g
+Konnakkol - Lesson 1 - Tha Dhi Thom Nam
+
+**** Yati (-> Jathi?)
+     :PROPERTIES:
+     :DATE:     <2020-12-19 Sat 10:23>
+     :END:
+
+See also above [[*Konnakol][Konnakol]] 
+
 ** Aksak meters
    :PROPERTIES:
    :DATE:     <2020-12-08 Tue 08:02>
@@ -307,84 +416,15 @@ Hemiola
    :DATE:     <2020-12-08 Tue 09:19>
    :END:
 
-** Raga
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 09:19>
-   :END:
 
-** Tala
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 10:24>
-   :END:
 
- https://www.youtube.com/watch?v=R7d4T5L6qKI
-
- Exploring Ragas & Rhythms, part THREE ~ Wheel of Tala
 
 ** Radif
    :PROPERTIES:
    :DATE:     <2020-12-08 Tue 09:21>
    :END:
-
-** Konnakol
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 09:21>
-   :END:
-
-https://www.youtube.com/watch?v=OyyfLtYQcwI
-Extreme Math Nerd Music (An Intro to Konnakol)
-
-https://www.youtube.com/watch?v=qdASeGlQW1g
-Konnakkol - Lesson 1 - Tha Dhi Thom Nam
-
-** Yati
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 15:42>
-   :END:
-
-See also above [[*Konnakol][Konnakol]] 
-** Gamaka
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 10:36>
-   :END:
-
-https://www.youtube.com/watch?v=AIPraIlSmIk
-How to sing Gamakas
-
-** Χειρονομίες
-
-** Shruti
-
-https://www.youtube.com/watch?v=YfF8ZEVOYks
-
-World Harmonium Summit 2018 - Lecture Demonstration on 22 Shruti Harmonium by Dr Vidyadhar Oke
-
-https://www.youtube.com/watch?v=ipYLnhC5YDo
-
-** Bol
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 09:21>
-   :END:
-
-** Swara
-   :PROPERTIES:
-   :DATE:     <2020-12-08 Tue 11:05>
-   :END:
-
-https://www.youtube.com/watch?v=ZnObqYfb-0M
-Introduction to Carnatic Music
-
-https://www.youtube.com/watch?v=EL4OEaYAdcw
-12 Swara Sthanams in Music
-
-https://www.youtube.com/watch?v=YW2B_eHyhpY
-How to sing fast phrases
-
-** Gati
-
-** Jathi
-
-** Aksharas
+*
+* Χειρονομίες
 
 * Music Genres
 
