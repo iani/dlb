@@ -364,12 +364,12 @@ How to sing Gamakas
 
 **** Aksharas
 
-
-****** 
 *** Rhythm
 
 **** Tala
  https://www.youtube.com/watch?v=R7d4T5L6qKI
+
+**** Alap
 **** Konnakol
 
 https://www.youtube.com/watch?v=OyyfLtYQcwI
@@ -384,6 +384,14 @@ Konnakkol - Lesson 1 - Tha Dhi Thom Nam
      :END:
 
 See also above [[*Konnakol][Konnakol]] 
+
+*** Genres
+
+**** Thumri
+
+**** Khayal
+
+**** Drhupad
 
 ** Aksak meters
    :PROPERTIES:
