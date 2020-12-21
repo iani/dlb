@@ -301,109 +301,119 @@ Hemiola
   :DATE:     <2020-12-08 Tue 10:30>
   :END:
 
-** From Indian Music Theory...
+** Mir Träumte ...
    :PROPERTIES:
    :DATE:     <2020-12-19 Sat 10:13>
    :END:
 
-*** Pitch and melody
-**** Swara
-
-https://www.youtube.com/watch?v=EL4OEaYAdcw
-
-https://en.wikipedia.org/wiki/Svara
-
-12 Swara Sthanams in Music
-
-**** Shruti
 
 
-  https://www.youtube.com/watch?v=YfF8ZEVOYks
+*** Indian Musical Instruments
+    :PROPERTIES:
+    :DATE:     <2020-12-21 Mon 09:55>
+    :END:
+*** Indian Music Theory...
+    :PROPERTIES:
+    :DATE:     <2020-12-21 Mon 09:56>
+    :END:
+**** Pitch and melody
+***** Swara
 
-  World Harmonium Summit 2018 - Lecture Demonstration on 22 Shruti Harmonium by Dr Vidyadhar Oke
+ https://www.youtube.com/watch?v=EL4OEaYAdcw
 
-  https://www.youtube.com/watch?v=ipYLnhC5YDo
+ https://en.wikipedia.org/wiki/Svara
 
-**** Grama
+ 12 Swara Sthanams in Music
 
-https://en.wikipedia.org/wiki/Shruti_(music)#Grama_system
+***** Shruti
 
-**** Mela
 
-https://en.wikipedia.org/wiki/Shruti_(music)#Mela_system
+   https://www.youtube.com/watch?v=YfF8ZEVOYks
 
-**** Raga
+   World Harmonium Summit 2018 - Lecture Demonstration on 22 Shruti Harmonium by Dr Vidyadhar Oke
 
-Exploring Ragas & Rhythms, part THREE ~ Wheel of Tala
+   https://www.youtube.com/watch?v=ipYLnhC5YDo
 
-**** Gati
+***** Grama
 
-**** Tisram
+ https://en.wikipedia.org/wiki/Shruti_(music)#Grama_system
 
-**** Gamaka
-https://www.youtube.com/watch?v=AIPraIlSmIk
-How to sing Gamakas
+***** Mela
 
-**** Brigha
+ https://en.wikipedia.org/wiki/Shruti_(music)#Mela_system
 
-**** Kan Swar
-**** Bol
-     :PROPERTIES:
-     :DATE:     <2020-12-08 Tue 09:21>
-     :END:
+***** Raga
 
-**** Swara
-     :PROPERTIES:
-     :DATE:     <2020-12-08 Tue 11:05>
-     :END:
+ Exploring Ragas & Rhythms, part THREE ~ Wheel of Tala
 
-  https://www.youtube.com/watch?v=ZnObqYfb-0M
-  Introduction to Carnatic Music
+***** Gati
 
-  https://www.youtube.com/watch?v=EL4OEaYAdcw
-  12 Swara Sthanams in Music
+***** Tisram
 
-  https://www.youtube.com/watch?v=YW2B_eHyhpY
-  How to sing fast phrases
+***** Gamaka
+ https://www.youtube.com/watch?v=AIPraIlSmIk
+ How to sing Gamakas
 
-**** Mora
+***** Brigha
 
-**** Kriti
+***** Kan Swar
+***** Bol
+      :PROPERTIES:
+      :DATE:     <2020-12-08 Tue 09:21>
+      :END:
 
-**** Gati
+***** Swara
+      :PROPERTIES:
+      :DATE:     <2020-12-08 Tue 11:05>
+      :END:
 
-**** Jathi
+   https://www.youtube.com/watch?v=ZnObqYfb-0M
+   Introduction to Carnatic Music
 
-**** Aksharas
+   https://www.youtube.com/watch?v=EL4OEaYAdcw
+   12 Swara Sthanams in Music
 
-*** Rhythm
+   https://www.youtube.com/watch?v=YW2B_eHyhpY
+   How to sing fast phrases
 
-**** Tala
- https://www.youtube.com/watch?v=R7d4T5L6qKI
+***** Mora
 
-**** Alap
-**** Konnakol
+***** Kriti
 
-https://www.youtube.com/watch?v=OyyfLtYQcwI
-Extreme Math Nerd Music (An Intro to Konnakol)
+***** Gati
 
-https://www.youtube.com/watch?v=qdASeGlQW1g
-Konnakkol - Lesson 1 - Tha Dhi Thom Nam
+***** Jathi
 
-**** Yati (-> Jathi?)
-     :PROPERTIES:
-     :DATE:     <2020-12-19 Sat 10:23>
-     :END:
+***** Aksharas
 
-See also above [[*Konnakol][Konnakol]] 
+**** Rhythm
 
-*** Genres
+***** Tala
+  https://www.youtube.com/watch?v=R7d4T5L6qKI
 
-**** Thumri
+***** Alap
+***** Konnakol
 
-**** Khayal
+ https://www.youtube.com/watch?v=OyyfLtYQcwI
+ Extreme Math Nerd Music (An Intro to Konnakol)
 
-**** Drhupad
+ https://www.youtube.com/watch?v=qdASeGlQW1g
+ Konnakkol - Lesson 1 - Tha Dhi Thom Nam
+
+***** Yati (-> Jathi?)
+      :PROPERTIES:
+      :DATE:     <2020-12-19 Sat 10:23>
+      :END:
+
+ See also above [[*Konnakol][Konnakol]] 
+
+**** Genres
+
+***** Thumri
+
+***** Khayal
+
+***** Drhupad
 
 ** Aksak meters
    :PROPERTIES:
