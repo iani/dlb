@@ -10,6 +10,23 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
+* Cracks 
+  :PROPERTIES:
+  :DATE:     <2020-12-26 Sat 10:25>
+  :END:
+
+K595.1/33
+Rosen: 277.
+
+Denk on Var. 25.
+
+* Fadein / false start
+
+K595.1/1
+K550.1/1
+
+chopin scherzo h, Op 25 no 11 ...  (-> Crossfade)
+
 * Numbers
 
 ** 1
