@@ -10,6 +10,62 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
+* For Satoru / Embodiment / Collective Culture
+  :PROPERTIES:
+  :DATE:     <2021-01-07 Thu 00:54>
+  :END:
+
+** Some keywords / ideas badly in need of sorting
+   :PROPERTIES:
+   :DATE:     <2021-01-07 Thu 01:06>
+   :END:
+
+*** Questions not asked and questions asked instead
+
+**** Not asked
+What is consciousness? What is being? What is Art?  How can we distinguish True from False (see also philosophical programm of classical philosophy: Plato/Aristotle) and possibly also Plutarch Moralia VIII?
+
+**** Starting point Music->Art->Culture
+
+Music as form of Art
+Art as manifestation of Culture
+
+How is culture created? 
+
+Rough draft - these need to be revisited:
+
+- knowledge: creation of / transmission of / cultivation of
+- evaluating things (evaluating knowledge - cultural facts)
+- 
+
+**** Asked: (Starting points...)
+
+- How is knowledge created/reached (how do we get to know things)?
+- How is knowledge shared / cultivated / transmitted
+
+**** Models (for the above) (discussed - counterproposals)
+
+***** Kittlerian model (Western Media-Theoretical Narrative): 
+
+Writing + Machines
+
+***** Counterproposal / other open questions-keywords to investigate
+
+- Model - virtual - narrative
+- Game (types of game - including navigation, construction, rearrangement, /comparing? - takekurabe? ... ???/
+- Construction
+- Rearrangement (putting in order / order)
+- Navigation
+- Shadow [Reflection] - Projection - Imitation - Identification - Incarnation
+- Reflection / Heterotopia / Genius Loci (see Locus Solus / Locus Sonus)
+- Biological aspects of imitation, repetition, patterning/pattern-forming, niche puzzles (acoustic niche hypothesis) ... 
+
+** Bruno Latour: ATN, Modes of Existence
+
+ http://modesofexistence.org/#the-phases/timeline
+
+
+
 * Cracks 
   :PROPERTIES:
   :DATE:     <2020-12-26 Sat 10:25>
@@ -228,6 +284,13 @@ cf. Nagini
 
 ** Schubert: Piano Sonata in A Minor. End of Winterreise. (And other works?)
 
+*** Schubert, Symphony No. 3, Menuet (!) 
+    :PROPERTIES:
+    :DATE:     <2021-01-07 Thu 00:42>
+    :END:
+
+ hemiola though motivic pattern, phrasing (legato/staccato) and dynamics (accents).
+
 ** Chopin: Prelude Op. 28 No. 14, in Eb Minor
 
 ** Liszt? Wagner? (Opening of The Ring?)
@@ -241,6 +304,12 @@ cf. Nagini
 ** Indian Music: Sa-Pa-Ṡa, Start of lessons in Indian Music
 
 ** Various examples of hemiola's in Bach and elsewhere (French Courante dance etc).
+
+*** Menuet of Keyboard Partita No 5 in G
+
+*** Tempo di Borea of Solo Violin Sonata No 1 in g
+
+*** Many examples in Goldberg variations
 
 * Timescale Layering
   :PROPERTIES:
@@ -1187,6 +1256,8 @@ Final mvt. Matthaeus Passion?
   :DATE:     <2020-12-07 Mon 14:31>
   :END:
 ** Takekurabe
+** navigation / derive: 
 ** Card games
 ** Board Strategy games
 ** Board 
+* Bib
