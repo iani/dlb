@@ -64,8 +64,6 @@ Writing + Machines
 
  http://modesofexistence.org/#the-phases/timeline
 
-
-
 * Cracks 
   :PROPERTIES:
   :DATE:     <2020-12-26 Sat 10:25>
@@ -327,18 +325,27 @@ cf. Nagini
 - Bach Weihnachtsoratorium Recitativo/Chorale/Aria
 - Bach Chaconne: Chaconne (variations), Violin Solo, Chorale
 
-* Soundscape Scores + Folk and Cult Element quotations
+* Soundscape
   :PROPERTIES:
-  :DATE:     <2020-12-08 Tue 19:01>
+  :DATE:     <2021-01-07 Thu 01:44>
   :END:
 
-- Monteverdi Vespers Magnificat, Ave Maris stella, Sancta Maria Ora pro nobis
+** Soundscape Scores + Folk and Cult Element quotations
+   :PROPERTIES:
+   :DATE:     <2020-12-08 Tue 19:01>
+   :END:
 
-- Bach - Magnificat / Litany cantata in tono peregrino
+ - Monteverdi Vespers Magnificat, Ave Maris stella, Sancta Maria Ora pro nobis
 
-- Ives parade mashup
+ - Bach - Magnificat / Litany cantata in tono peregrino
 
-- Chopin: Prelude in a, Op 28 No 2, Ballade 1 g minor, Polonaise f#minor, Fantasie-Polonaise.
+ - Ives parade mashup
+
+ - Chopin: Prelude in a, Op 28 No 2, Ballade 1 g minor, Polonaise f#minor, Fantasie-Polonaise.
+
+** Soundscape initiatives/sites/links
+
+
 
 * Νενανώ, Ri1 and Hicaz
   :PROPERTIES:
@@ -417,6 +424,390 @@ Hemiola
     :PROPERTIES:
     :DATE:     <2020-12-21 Mon 09:56>
     :END:
+**** Mathematics of Carnatic Music
+     :PROPERTIES:
+     :DATE:     <2021-01-08 Fri 15:42>
+     :END:
+
+https://sites.google.com/site/mathematicsmiscellany/mathematics-of-carnatic-music
+
+Mathematics Miscellany
+	
+
+    Home
+    Antiquity of decimal system of numeration-1
+    Antiquity of decimal system of numeration-2
+    Appendix 1 (List of Janaka/Janya ragas with their swaras)
+    Appendix 2 (Certain similarities between different melakartha ragas)
+    Mathematics in Chamakam
+    mathematics in sanskrit poetry
+    Mathematics in Tirukkural
+    Mathematics of carnatic music
+    Rama's bodily features in numbers
+    time measurement in ancient India
+    Very special numbers
+    Very special numbers 2
+    Very special numbers 3
+    Very special numbers 4
+    Sitemap
+
+	
+Mathematics of carnatic music
+Mathematics Miscellany
+MATHEMATICS IN CARNATIC MUSIC
+
+ 
+
+      Music is an extremely subjective experience.  Some of the sound waves that reach the human ear are perceived to be pleasant while others are unpleasant and merely termed as noise.  Thus, music is the art of combining sounds with a view to beauty of expression of emotion.  Musically good melodies are thus harmonious in character.
+
+    Mathematics is the basis of sound wave propagation, and a pleasant sound consists of harmony arising out of musical scales in terms of numerical ratios, particularly those of small integers.   Mathematics is music for the mind while music is mathematics for the soul. 
+
+    A suitable permutation and combination of some basic notes gives rise to melodious music which enthrals and transports one to a new enjoyable experience.  While theoretically infinite possibilities can be thought of, only 279 had been in vogue. In Carnatic music, seven notes or swaras as they are called, form the foundation of the various permutations and combinations. Theoretically, one can mathematically think of 7! = 5040 possibilities.  But only 72 of them, called Janaka ragas, have been analyzed and found to have practical usage from the melody point of view.  A raga thus has a set of rules that specify what notes of the octave must be used under the given rule and how  to move from one note to the other. A Melkartha raga must necessarily have Sa and Pa and one of the Mas, one each of the Ris and Ga's, and one each of the Dhas and Nis, and further Ri must precede Ga and Dha must precde Ni, and thus we have 2 x 6 x 6 =72 possibilities of the Melakartha ragas.
+
+    It was Venkata Makhi who first thought of classifying these 72 ragams or combinations of swaras, and later Govindacharya adopted a slightly different combination.  The basic swaras in Carnatic music and those that correspond to the basic notes in Western music are as follows:
+
+                         Western system:   C    D   E   F   G   A   B
+
+                         Carnatic music:    Sa  Ri  Ga Ma Pa Dha Ni
+
+In the equal tempered system of Western music, the successive notes have a ratio of twelfth root of 2 as shown below:
+
+                            Note                  Ratio
+
+                              C                       1
+
+                  Minor second C    1.059463
+
+                  Major second C    1.122462
+
+                  Minor third           1.189207
+
+                  Major third           1.259921
+
+                  Perfect fourth       1.334840
+
+                Augmented fourth  1.414214
+
+                  Perfect fifth          1.498307
+
+                  Minor sixth           1.587401
+
+                  Major sixth           1.681793
+
+                  Minor seventh      1.781797
+
+                  Major seventh      1.887749
+
+In the Carnatic music system also, just as in the Western music system, some of the swaras have small variants, and according to some scholars, 22 such notes are possible with the ratios as given below to the fundamental Sa.
+
+                   Swara              Ratio           Frequency I Hz
+
+                      Sa                    1                     240
+
+                      Ri1                32/31                 248
+
+                      Ri2                16/15                 256
+
+                      Ri3              10/9                     266.6
+
+                      Ri4               9/8                      270
+
+                      Ga1              32/27                   284.4
+
+                      Ga2              6/5                       288
+
+                      Ga3              5/4                       300
+
+                      Ga4             81/64                    303.7
+
+                      Ma1              4/3                      320
+
+                      Ma2             27/20                   324
+
+                      Ma3             45/32                   337.5
+
+                      Ma4             64/45                   341.3
+
+                      Pa                 3/2                     360
+
+                      Dha1             128/81                379
+
+                      Dha2               8/5                   384
+
+                      Dha3               5/3                   400
+
+                      Dha4              27/16                405
+
+                      Ni1               16/9                   426.6
+
+                      Ni2                9/5                    432
+
+                      Ni3               115/8                 450
+
+                      Ni4                31/16                465
+
+But according to some scholars, Ma has only 2 variants while Ri, Ga, Dha and Ni have only 3 variants each while Sa and Pa are fixed, and Venkata Makhi has followed this system in his classification of the ragas in vogue.  Although many ragas might have been in existence earlier, it was first Venkata Makhi who made a classification of the ragas by allotting them a number in what is called the Melakartha system, by adding prefix to the existing ones wherever necessary, following the katapayaaadi system of numbering; he considered a raga to be a Melakartha raga only if all the 7 swaras were present in the regular order in the ascending as well as descending mode.  Govindacharya, however, allowed some freedom in this respect, and permitted deviation of the order as well as absence of any particular swara in either mode provided all the 7 swaras were present.
+
+      Melakartha ragas have a swara pattern, with arohanam and avarohanam, the latter being the mirror image of the former, and both together make a musical palindrome!
+     The 72 Melakartha ragas, according to Venkata Makhi, consisting of all the 7 swaras in the ascending as well as descending mode in proper order, are called Janaka ragas or parent ragas, and other ragas which arose out of them with absence of one or more of the 7 swaras were called Janya ragas (offspring ragas).  The Janya ragas are derived from the 72 fundamental set by the permutation and combination of various ascending and descending notes, and matematically about 3000 such janya ragas are possible. The 72 Melakartha raga system was responsible for the transformation  of the raga system of carnatic music.  Many new ragas came into existence and were popularised by great musical savants like Saint Thyagaraja, Muthuswami Dikshitar etc. and many different kinds of musical compossitions were developed with different structural arrangements. The musical forms included Varnam, Kriti, Padam, Javali, Tillana, Swarangal, Swarajati etc.
+     The genius of the musician consists in how he can move to intermediate frequencies between those specified by the seven basic notes, and create microtones melodious and pleasing to the ear, called gamakas.  (When one talks of the intermediate frequencies one is reminded of the Raman Effect discovered by the renowned Indian Nobel Laureate in Physics, Sir C.V.Raman.  While studying the spectra of fluids, he found that there were frequencies intermediate between those predicted according to Bohr's postulates, and he was able toexplain them as being due to intermediate energy levels arising out of further degrees of freedom of the fluid molecules giving rise to vibrational, rotational etc. spectra).
+    
+
+     (The list of the Melakartha ragas and the number of the Melakartha to which the raga belongs is decided according to the katapayaadi system of numeration as prevalent in ancient India, which is as follows:
+
+     The following verse found in Śaṅkaravarman's Sadratnamāla explains the mechanism of the system.
+
+ नज्ञावचश्च शून्यानि संख्या: कटपयादय:|
+ मिश्रे तूपान्त्यहल् संख्या न च चिन्त्यो हलस्वर:||
+
+nanyāvacaśca śūnyāni saṃkhyāḥ kaṭapayādayaḥ
+miśre tūpāntyahal saṃkhyā na ca cintyo halasvaraḥ
+
+Translation: na (न), nya (ञ) and a (अ)-s i.e. vowels represent zero. The (nine) integers are represented by consonant group beginning with ka, ṭa, pa, ya. In a conjunct consonant, the last of the consonants alone will count. A consonant without vowel is to be ignored.
+
+Explanation
+
+The assignment of letters to the numerals is as per the following arrangement.
+
+1
+	
+
+2
+	
+
+3
+	
+
+4
+	
+
+5
+	
+
+6
+	
+
+7
+	
+
+8
+	
+
+9
+	
+
+0
+
+ka क
+	
+
+kha ख
+	
+
+ga ग
+	
+
+gha घ
+	
+
+nga ङ
+	
+
+ca च
+	
+
+cha छ
+	
+
+ja ज
+	
+
+jha झ
+	
+
+nya ञ
+
+ṭa ट
+	
+
+ṭha ठ
+	
+
+ḍa ड
+	
+
+ḍha ढ
+	
+
+ṇa ण
+	
+
+ta त
+	
+
+tha थ
+	
+
+da द
+	
+
+dha ध
+	
+
+na न
+
+pa प
+	
+
+pha फ
+	
+
+ba ब
+	
+
+bha भ
+	
+
+ma म
+	
+
+-
+	
+
+-
+	
+
+-
+	
+
+-
+	
+
+-
+
+ya य
+	
+
+ra र
+	
+
+la ल
+	
+
+va व
+	
+
+śha श
+	
+
+sha ष
+	
+
+sa स
+	
+
+ha ह
+	
+
+-
+	
+
+-
+
+Consonants have numerals assigned as per the above table. For example, ba (ब) is always three 3 whereas 5 can be represented by either nga (ङ) or ṇa (ण) or ma (म) or śha (श).
+
+All stand-alone vowels like a (अ) and ṛ (ऋ) are assigned to zero 0.
+
+In case of a conjunct, consonants attached to a non-vowel will not be valueless. For example, kya (क्या) is formed by k (क्) + ya (य) + a (अ). The only consonant standing with a vowel is ya (य). So the corresponding numeral for kya (क्या) will be 1.
+
+There is no way of representing Decimal separator in the system.
+
+Indians used the Hindu-Arabic numeral system for numbering, traditionally written in increasing place values from left to right. This is as per the rule aṅkānām vāmato gati (अङ्कानाम् वामतो गति) which means numbers go from left to right.
+
+     The moment the name of a raga is given, the above system is used to find the Melakartha of that raga.  Sometimes to fix the correct number, the name of the raga is slightly changed, as for instance, Sankarabharanam is called Dheerasankarabhaaranam, and Kalyani is called Mechakalyani and so on.
+
+    Let us consider some examples.  Take Mayamalava Gowla. Here, Ma stands for 5 and ya stands for 1. So, the number we get is 51, and as per the reversing rule, the number of the Melkartha is 15.
+
+    Then, consider Simhendra Madhyamam. Sa stands for 7, and Ma for 5.  The number is 75 and on reversing it is 57, which is the Melakartha of this raga. (The second consonant ha has number 8, and on reversal would give 87 as melakartha raga which is nonexistent. Hence, ma is taken in simha as the second consonant).
+
+    Now, consider Vachaspati. Va stands for 4, and cha for 6, and the number is 46 which on reversing gives 64 as its Melakartha. Sa and Pa are taken as fixed for all the Melakartha ragas.
+
+     The question arises which variant of Ri, Ga, Ma, Dha, Ni figures in what parent raga.  
+
+     For ragas whose Melakartha number is 36 or less, M1 is chosen and for ragas whose Melakartha number is 37 or more, M2 is chosen.
+
+    Regarding the choice of the variant of Ri, Ga, Dha and Ni, this is decided with a little bit of mathematics.  This method, which was perhaps prevalent earlier was refined to generate the entire raga by Ajay Sathyanath in April 1999 and published under the title “Mathematical Fundas in Indian Classical Music” and this gives an elegant method to determine the variants needed. (cf. http://ajaysat.tripod.com/carnatic.html )
+
+Step 1: First, find the number of the Melakartha raga using the Katapayaadi system.  Suppose it is K.
+
+Step 2:  Consider [[K/6]], called the ceiling function of K/6, that is, the integer which is equal to greater than K/6.  e.g. Suppose K is 31.  Then 31/6=5.1…, and [[K/6]] is 6.  If K is 30, then [[K/6]] = 5. If [[K/6]] > 6, then take mod 6 of that number arrived at.
+
+Step 3: Now, consider K modulo 6.  Since this number will lie between 0 and 5 only, we make this lie between 1 and 6 by setting 0 as 6.  If K is 31, then 31 = 1 mod 6.  So, we consider only 1 for the procedure to be followed as outlined below.
+
+Step 4: Consider a 3 x 4 upper triangular matrix, as shown below:
+
+                               1          2          3
+
+                              ….        4          5
+
+                              ….     …..         7, and we identify these elements as:
+
+1        = (1,1)
+
+2        = (1.2)
+
+3        = (1,3)
+
+4        = (2.2)
+
+5        = (2.3)
+
+6        = (3,.3)
+
+The matrix can now be written for convenience as :
+
+                    (1,1)     (1,2)     (1,3)
+
+                     ….       (2,2)     (2,3)
+
+                     ….        ……    (3,3)
+
+ 
+
+In the example considered in step 2, we have the number 6 corresponding to (3,3), we have Ra3 and Ga 3.
+
+Step 5: In step 3, we had 1 as residue after dividing 31 by 6.  So, 1 corresponds to (1,1) as indicated above. So, the swaras chosen are Dha1 and Ni3.
+
+31 < 36, and hence we have Ma1.
+
+So, the raga characteristic of Melakartha raga 31 (Yagapriya) is:
+
+           Sa  Ra3 Ga3 Ma1 Dha1 Ni1 and S  in arohana and
+
+           Sa Ni1 Dha1 Ma1, Ga3, Ra3 and S in avarohana.
+
+Ex.:Now, let us consider another example: consider Shubhapanthuvarali: Sha stands for 5 and bha stands for 4, so, the number is 54, which on reversal gives 45. 45 > 36, and hence we have Ma2.
+
+To sum up, if [[K/6]] is as defined above, then in this case [[45/6]] =8 = 2 mod 6. 2 corresponds to (1,2), and hence we have Ri1 and Ga2.
+
+  45 = 3 mod 6.   3 corresponds to (1,3) in the matrix, and so, we have Dha1 and Ni3.
+
+To sum up:
+
+(i)                Find the Melakartha number of the raga with the katapayaadi system. Suppose it is K.
+
+(ii)              If K = 36 or <36, then we have Ma1. If K >37, we have Ma2.
+
+(iii)            Consider [[K/6]] = a. If a is > 6, take mod 6 of a, suppose it is a*, then find the element in the matrix corresponding to a* which lies between 1 and 6 only. That will decide Ri and Ga.
+
+(iv)            Now, consider K = b mod 6.  Find the element corresponding to b in the matrix, and that will decide Dha and Ni.
+
+ A list of the Melakartha (Janaka) ragas as well as the janya ragas under them and also those not associated with them or whose scales are not yet added is given in appendix 1.
+Comments
+You do not have permission to add comments.
+
+Sign in|Recent Site Activity|Report Abuse|Print Page|Powered By Google Sites
+
 **** Pitch and melody
 ***** Swara
 
@@ -446,6 +837,117 @@ Hemiola
 ***** Raga
 
  Exploring Ragas & Rhythms, part THREE ~ Wheel of Tala
+
+****** How many ragas are there in carnatic music?
+       :PROPERTIES:
+       :DATE:     <2021-01-07 Thu 03:04>
+       :END:
+
+https://www.quora.com/How-many-ragas-are-there-in-carnatic-music
+
+Hemadarshini Viswanathan
+, Senior Grade Carnatic Vocal Music (2016)
+Answered April 28, 2017
+
+In principle, there can be an infinite number of ragas. This is true for any branch of music.
+
+NOTE: My explanation may be quite long, but its worth if you want to know the roots of its working!
+
+First, we choose a pitch (frequency) where we would like to sing. This is different for different people and instrumentalists. (Generally denoted by G D E .. and so on) In Carnatic, it is generally denoted by numbers like 5, 6 and a half (Also called “katte” in Tamil).
+
+Now, there is a fixed range from your base pitch (called Adhara Shruthi) till a certain pitch after which the notes seem repeated(sound similar) For example, shadja (S) and thara sthayi shadja (S denoted by dot above) sound similar. In an ocatve, there are always 12 notes. This is true for all kinds of music including Carnatic, Hindustani, Western and even folk.
+
+For a basic raaga (called Janak raaga - from which ‘n’ number of other ragas can be constructed) there should always be seven distinct notes (S R G M P D N)
+
+Being a science student, I can roughly compare these raagas to the periodic table and they are fixed in number.
+
+A Janaka raaga has rules:
+
+    Always has S R G M P D N
+    Template is strictly ascending and then descending
+    No two notes of same pitch repeated
+
+Many people ask how can there be different kinds of templates with the same S R G M P D N
+
+The answer is there are 12 notes. In different branches of music, these are denoted differently. So you can have 2 different madhyama (M) (true in Carnatic) and so on. Our task is to construct different raagas with different 7 notes.
+
+In Carnatic music, to increase the variety, these 12 notes are converted to 16. In Hindustani, the 12 notes are kept as they are. (How ? - very simple - you put 2 different swaras in the same pitch. Like a R and a G in the same pitch.)
+
+Therefore, while constructing, we take care that a R and a G sitting in the same place are not put together in one raaga.
+
+This is how the swaras look.
+
+We have S and P which never change and are therefore present in all 72 raagas.
+
+We have 3 R, 3 G , 2 M , 3 D and 3 Ns.
+
+First 36 have M1 and next 36 have M2.
+
+All we have to do is pick combinations of R G D and N
+
+There are 6 ways in which you pick R and G, according to the rules. So, there are 6 chakras. Each chakra has all swaras fixed except D and N.
+
+There are 6 ways in which you pick D and N. Which means you have 6 raagas each for each chakra.
+
+There is a popular saying:
+
+Ri Ga Bhedena Chakraha; Da Ni Bhedena Raagaha
+
+(Change R G to get Chakra, change D N to get Raaga)
+
+Therefore,2 blocks each of 32.
+
+Each block having 6 chakras.
+
+Each chakra having 6 raagas.
+
+Therefore, 2 x 6 x 6 = 72.
+
+Didn’t I say there are infinite number of raagas? Here are just 72.
+
+Now, we can “derive” as many raagas from each of these! (Called janya raaga) People who know object programming can roughly compare them to class and subclasses inherited from the main classes.
+
+Let’s take raaga number 29 - Shankarabharana.
+
+You remove M and D from it, you get Hamsadwani - S R G P N
+
+You remove G and and N from it, you get Shudhdha Saveri - S R M P D
+
+Now, you remove G and N only from ascending template. You get Aarabhi
+
+S R M P D —— N D P M G R S
+
+Not only this, the above mentioned raagas are “purely” derived only from their Janaka raagas. Sometimes, a derived raaga can “borrow” swaras from other raagas (Computer people - like a foreign key in a database) callled a foreign swara.
+
+Ex: Kaapi, Saaranga, Bilahari and so on..
+
+So you understand that there can be variety of raagas, depending on the number of notes, raaga derived from, foreign notes and so on.
+
+Basically, you can take as many swaras from the original 12 and make a raaga.
+
+None of the main 72 ragas have 2 notes of the same swaras (like 2 G’s) (not allowed)
+
+But you are free to construct janya raagas like that.
+
+Ex : Hameer Kalyani has both M’s , derived from Kalyani and has foreign swara M1
+
+Not done yet!
+
+You can change the position of the swaras to get new raagas.
+
+Ex: Vasantha , a very popular raaga derived from Suryakanta(17)
+
+S M G M D N
+
+S N D M G R
+
+You see, in the ascending scale, there is a zig-zag of swaras.
+
+Now, you know why there are infinite number of raagas.
+
+You can also discover (or construct) a raaga by analysing a lot more (relationship, shruthi’s and so on) of the notes you have chosen and compose in it.
+
+The very popular raaga Hamsasdhwani which is sung at the beginning of most concerts today was discovered by Ramaswamy Dikshitar, father of the celebrated composer Muthuswamy Dikshitar.
 
 ***** Gati
 
@@ -515,6 +1017,763 @@ Hemiola
 ***** Khayal
 
 ***** Drhupad
+
+*** Mathematics in Sanskrit poetry
+
+https://sites.google.com/site/mathematicsmiscellany/mathematics-in-sanskrit-poetry
+
+
+Mathematics Miscellany
+	
+
+    Home
+    Antiquity of decimal system of numeration-1
+    Antiquity of decimal system of numeration-2
+    Appendix 1 (List of Janaka/Janya ragas with their swaras)
+    Appendix 2 (Certain similarities between different melakartha ragas)
+    Mathematics in Chamakam
+    mathematics in sanskrit poetry
+    Mathematics in Tirukkural
+    Mathematics of carnatic music
+    Rama's bodily features in numbers
+    time measurement in ancient India
+    Very special numbers
+    Very special numbers 2
+    Very special numbers 3
+    Very special numbers 4
+    Sitemap
+
+Mathematics in Sanskrit poetry
+
+       It is interesting to observe that in Sanskrit poetry, the concept of binomial coeficients, Fibonacci numbers and binary numeration has been in use right from the days of Pingala who was the first to write a treatise on Chandas-shastra relating to metres in Sanskrit poetry.
+
+    In Sanskrit poetry, we have stanzas with four quarters. Each quarter may have the same number of syllables or the same number of time units, a short one being assigned 1 time unit and a long one 2 time units.  There are metres in which the odd quarters have the same number of syllables or time units, while the even quarters have a different number of equal units.
+
+         A Sanskrit stanza or padya consists of four padas or four quarters, which are regulated by
+
+                      (i) The number of syllables in each quarter, or
+
+                      (ii) The number of syllabic time units or matras, a short
+
+                         sound being assigned one unit of time and the long one                                                                      .               two units of time.
+
+   Each stanza or padya can thus be of two broad types, vritta or the one in which metre is regulated by the number and composition of syllables, and the other jati, where the metre is regulated by the number of syllabic instants or time units in each quarter.
+
+   If all the padas are similar, the padya is called samavritta,; if alternate quarters are similar, it is called ardhasamavritta, and if all the quarters are dissimilar it is called vishamavritta.
+
+   A syllable can be short or long; short vowels followed by anuswara or a visarga or a conjunct consonant are considered to be long. Any exceptions to this are generally granted as poetic licence to be exercised, depending upon the exigencies of the case.
+
+    8 sets of triplets of long or short sounds or a mixture of both have been classified by Pingala and called ganas. He has chosen syllable triplets consisting of all short or all long or a mixture of these two sounds.   The interesting thing is that he has used the concept of binary numbers in place of the decimal numbers from 0 to 7. One does not know whether the present symbol for zero was known to him or not.  Assuming that he had used * for 0 and 1 for long sounds, his classification of ganas was as follows, (S standing for short and L for long sound units)  
+
+Decimal       Name of    Binary Pingala's   Syllable
+
+Number         Gana         form    form       Triplet
+
+0                      Na        000      ***      SSS
+
+1                      Sa         001      **1      SSL     
+
+2                      Ja          010      *1*      SLS 
+
+3                      Ya         011      *11      SLL
+
+4                      Bha       100      1**       LSS
+
+5                      Ra         101      1*1       LSL
+
+6                      Ta          110     11*       LLS
+
+7                      Ma         111     111       LLL  
+
+ An easy way to remember this is to use the mnemonic
+
+Sa Na JaYaBhaRaTa Mey (which in Sanskrit would mean: He is  not my Jayabharata.        
+
+        Pingala had considered how many patterns can be formed from a given number of syllables, for instance, how many patterns consist of 3 syllables, how many consist of 4 syllables and so on?  They can be of different types, all short or all long or a mixture of long and short sounds.  (Let S denote short sound and L denote long sound).  In other words, combinatorics or the principle of permutations/combinations and the binomial coefficients had a large role to play in this regard. We examine a few cases with a fixed number of syllables, long or short or a mixture of both.
+
+     
+
+      Pattern with 1 syllable (Long or short): L, S        No. of patterns = 2  =   21   
+
+      Pattern with 2 syllables: (Long, short or mixture) LL, SS, LS, SL   No. of patterns = 4 = 22
+
+      Pattern with 3 syllables: (Long, short or mixture)
+
+          All short      SSS                                      No.of patterns = 1
+
+          One short and two long:
+
+            SLL, LLS, LSL, LLS,                           No. of patterns = 4
+
+          One long and two short:
+
+            LSS, SLS, SSL                                      No. of patterns = 3
+
+                       Total number of patterns: 23 = 8.
+
+ 
+
+      Pattern with 4 syllables (Long, short or mixture)
+
+          4 short syllables:     SSSS                       No. of patterns = 1 =  4C0
+
+          3 short & 1 long:     SSSL, SSLS,
+
+                                          SLSS, LSSS            No. of patterns = 4 =  4C1
+
+          2 short & 2 long:   SSLL, LLSS.
+
+                                        SLSL, LSSL,
+
+                                        LSLS, SLLS              No. of patterns = 6 =  4C2
+
+          1short & 3 long: SLLL, LSLL,
+
+                                     LLSL, LLLS                No. of patterns = 4 =  4C3
+
+  
+
+                                   4 long:  LLLL                             No. of patterns = 1 =  4C4
+
+ 
+
+          Pattern with 5 syllables (Long, short or mixture):
+
+          5 short syllables:   SSSSS:                      No. of patterns = 1 = 5C0
+
+          4 short and 1 long: SSSSL, LSSSS, SLSSS,
+
+                                         SSLSS, SSSLS         No. of patterns = 5 =  5C1
+
+              3 short and 2 long: SSSLL, LLSSS,
+
+                                        LSLSS, LSSLS,
+
+                                        LSSSL,
+
+                                        SLSLS, SSLLS,
+
+                                        SSLSL,
+
+                                        SLLSS, SLSSL         No. of patterns =  10 = 5C2
+
+                                                  2 short and 3 long: LLLSS, LSLLS,
+
+                                   LLSLS, LSLSL,                 
+
+                                                                 LLSSL, LSSLL
+
+                                            LLLSL,
+
+                                           SLLSL, SSLLL,
+
+                                           SLSLL,                                         
+
+                                            LSLSL,
+
+                                            LLSLS      No. of patterns = 10 =  5C3
+
+ 
+
+                   1 short and 4 long: LLLLS, LSLLL,
+
+                                            LLSLL, LLLSL
+
+                                            SLLLL       No. of patterns = 5 =  5C4
+
+                  5 long:                      LLLLL      No. of patterns = 1 =  5C5
+
+                                                    Total umber of patterns = 26 = 32.
+
+         As seen in the analysis, if each quarter contains 6 syllables, (long, short or a mixture of both), theoretically the number of possible metres is 26 = 64.     
+
+     If each quarter is to contain 26 syllables (long, short or a mixture of both), the theoretic combination of syllables is 226 = 67,108,864.  If we consider cases where alternate quarters are similar or all are dissimilar, the number of possible metres becomes very large.  However, poets have used only a very limited number of metres. (Please see Appendix A and B for metres with constant number of syllables in each quarter, and metres with constant time units in each quarter, which poets have actually used).
+
+ 
+
+      It is interesting to see that when the number of syllables is n (long, short or a mixture of both) the number of patterns follows the pattern of binomial coefficients in the expansion of (a + b)n, and the total number of patterns possible is 2n and when n = 4 it becomes = 16, and when n is 5, it becomes 32.  Further, for s short and l long syllables, or l short and s long syllables, the number of patterns available in this case of a total of s + l syllables is  the binomial coefficient s+l Cs =  s+lCl,. It looks strange that binomial coefficients should find some reference in Sanskrit poetry right from the early days.
+
+       Now, we see the pattern for time units 1 to 6, taking 1 unit for short and 2 for long.
+
+       Pattern with 1 short syllable: S                                               1    
+
+       Pattern with 2 short syllables: SS, L                                       2
+
+       Pattern with 3 short syllables: SSS. SL. LS                            3
+
+       Pattern with 4 short syllables: SSSS, SSL. SLS, LSS, LL      5
+
+       Pattern with 5 short syllables: SSSSS, SSSL, SSLS, SLSS.   8
+
+       Pattern with 6 short syllables: SSSSSS, SSSSL, LSSSS,
+
+                                                          SLSSS, SSLSS, SSSLS,
+
+                                                          LLSS, SSLL, LSSL,               13
+
+                                                          LLL,
+
+                                                          SLSL, LSLS, SLLS
+
+ 
+
+    When the number of time units is n, the number of patterns follows the Acharya Hemachandra-Gopala pattern of numbers, now known as the Fibonacci numbers, such that Fib(1) = 1, and (Fib(2) =2, and Fib(n) = Fib(n-1) + Fib (n-2), for all n > 2.  We thus see for n = 3, Fib(3) = 1 + 2 = 3; Fib (4) = 3+ 2 = 5; Fib(5) = 5 +3 = 8;  Fib (6) = 5 + 8 = 13.
+
+    Acharya Hemadeva had noticed this and called this set of numbers as Hemadeva-Gopala numbers which are the forerunners for the Fibonacci numbers which came nearly 70 years later. Perhaps, Fibonacci drew his inspiration from this aspect of metres in Sanskrit poetry.  
+
+    
+
+    Pingala’s Chandas-shastra as well as Lilavati and Vrittaratnakara give directions for computing the number of possible varieties and finding their places or that of any single one in a regular enumeration of them.
+
+    For instance, the number of padas and syllables in a few of the metres is as follows:
+
+          Gayatri(tripada):     3 padas and 8 syllables in each
+
+          Anushtup: 4 padas and 8 syllables in each
+
+          Viraja:       4 padas and 10 syllables in each
+
+          Trishtup:   4 padas and 11 syllables in each
+
+          Jagati:        4 padas and 12 syllables in each.
+
+    A well-known quantitative scheme in the traditional literature classifies the common metres according to the syllable count of a stanza, as multiples of 4, as follows:  
+
+        Dwipadaviraja        20 syllables
+
+        Gayatri:                  24 syllables
+
+        Ushnik:                   28 syllables
+
+        Anushtup:               32 syllables
+
+        Brihati:                    36 syllables
+
+        Pankti:                     40 syllables
+
+        Trishtup:                  44 syllables
+
+        Jagati:                       48 syllables.
+
+There are many comprehensive schemes in the traditional literature, each distinct type of stanza carrying its own name.
+
+ 
+
+                               (Please see Appendix A and B which follow)
+
+ 
+
+                                                                                APPENDIX A
+
+ 
+
+METRES WITH CONSTANT NUMBER OF SYLLABLES IN EACH QUARTER
+
+ 
+
+                                                                                                                                       
+
+4 syllables: Kanya: L LLL (Gu Ma)
+
+ 
+
+5 syllables: Pankti LSS LL   (Bha Gu Gu)
+
+ 
+
+6 syllables: Gayatri:--
+
+    (1) Tanumadhyama: LLS SLL (Tha, Ya)
+
+    (2) Vidyullekha (Vani, Sashivadana): LSS LLL   (Bha Ma)
+
+    (3) Somarati: SLL SLL  (Ya Ya)
+
+   
+
+7 Syllables: Ushnik:--
+
+     (1) Kumaralalita: SLS SSL L  ( Jha, Sa,Gu)
+
+     (2) Madalekha: LLL SSL L    (Ma Sa Gu)
+
+     (3) Madhumati: SSS SSS L     (Na, Na, Gu)
+
+ 
+
+8 syllables: (1) Anushtup: (Most popular metre: The fifth syllable in each quarter is short and the 6th syllable in each quarter is long, while in the 1st and 3rd quarters, the 7th syllable is long and in the 2nd and 4th quarters the 7th  syllable is short):--
+
+    (2) Gajagati: SSS LSS S L  (Na, Bha, La, Gu)
+
+    (3) Pramanika: SLS LSL S L  (Ja, Ra, La, Gu)
+
+                (4) Manavaka: LSS SSS S L   (Bha, Tha, La, Gu)
+
+                (5) Vidyunmala: LLL LLL L L  (Ma, Ma, Gu, Gu)
+
+                (6) Samanika: LSL SLS L S   (Ra, Ja, Gu, La)
+
+ 
+
+9 syllables: Brihati:--
+
+    (1) Bhujagasishubhruta: SSS SSS LLL (Na, Na, Ma)
+
+    (2) Bhujangasangata: SSL SLS LSL   (Sa, Ja,  Ra)
+
+    (3) Manimadhya: LSS LLL SSL     (Bha, Ma, Sa)
+
+ 
+
+10 syllables: Pankti:--
+
+     (1) Tvaritagati: SSS SLS SLS L  (Na, Ja, Na, Gu)
+
+     (2) Matta: LLL LSS SSL L  (Ma, Bha, Sa, Gu)
+
+     (3) Rukmavati (Champakamala): LSS LLL SSL L (Bha, Ma, Sa, Gu)
+
+ 
+
+11 syllables: Trishtup:--
+
+    (1) Indravajra: LLS LLS SLS L L  (Tha, Tha, ja, Gu, Gu)
+
+    (2) Upendravajra: SLS LLS SLS L L  (Ja, Tha, Ja, Gu, Gu)
+
+    (3) Upajati: (This is a mixture of (1) and (2) above, and there are 14 varieties. Even when other metres are mixed in one stanza, it is still called upajati): (The first and third quarters are as in Indravajra while the 2nd and fourth quarters are as in Upendravajra).
+
+ (4) Dodhaka: LSS LSS LSS L L  (Bha, Bha, Bha, Gu, Gu)
+
+ (5) Bhramaravilasitam: LLL LLL SSS S L  (Ma, Bha, Na, La, Gu)
+
+ (6) Rathoddhata: LSL SSS LSL S L (Ra, Na, Ra, La, Gu)
+
+ (7) Vatormi: LLL LLL LLS LL  (Ma, Ma, Tha, Gu, Gu)
+
+ (8) Shalini: LLL LLS LLS LL  (Ma, Tha, Tha, Gu, Gu)
+
+ (9) Swagata: LSL SSS LSS LL  (Ra, Na, Bha, Gu, gu)
+
+ 
+
+12 syllables: Jagati:--
+
+   (1) Indravamsa: LLS LLS SLS LSL (Tha, Tha, Ja, Ra)
+
+   (2) Chandravartma: LSL SSS LSS SSL (Ra, Na, Bha, Sa)
+
+   (3) Jaladharamala: LLL LSS SSL LLL (Ma, Bha, Sa, Ma)
+
+   (4) Jaloddhatagati: SLS SSL SLS SSL (Ja, Sa, Ja, Sa) 
+
+   (5) Tamarasa: SSS SLS SLS SLL (Na, Ja, Ja, Ya)
+
+   (6) Totaka: SSL SSL SSL SSL (Sa, Sa, Sa, Sa)  
+
+   (7) Drutavilambita: SSS LSS SLS LSL  (Na, Bha, Ya, Ya)
+
+           According to Pingala: SSS LSS LSS LSL (Na, Bha, Bha,Ra)
+
+           According to Kalidasa: LSS LSS LSS LSL (Bha, Bha, Bha, Ra)
+
+                             According to Apte: SSS LSS SLS LSL (Na, Bha, Ja, Ra)
+
+   (8) Prabha: SSS SSS LSL LSL (Sa, Sa, Ja, Ja)
+
+   (9) Pramitakshara: SSL SLS SSS SSS  (Sa, Ja, Sa, Sa)
+
+  (10) Bhujangaprayata: SLL SLL SLL SLL  (Ya, ya, Ya Ya)
+
+  (11) Manimala: LLS SLL LLS SLL (Ta, ya, Tha,Ya)
+
+  (12) Malati: SSS SLS SLS LSL  (Na, Ja, Ja, Ra)
+
+  (13) Vamsasthavila: SLS LLS SLS LSL (Ja, Tha, Ja, Ra)
+
+  (14) Vaishwadevi: LLL LLL SLL SLL  (Ma, Ma, Ya, Ya)
+
+  (15) Sragini: LSL LSL LSL LSL (Ra, Ra, Ra, Ra)
+
+ 
+
+13 syllables: Atijagati:
+
+   (1) Kalahamsa: SSL SLS SSL SSL L  (Sa, Ja, Sa, Sa, Gu)
+
+   (2) Kshama: SSS SSS LLS LLS L  (Na, Na, Tha, Tha, Gu)
+
+   (3) Manjubhahsini (Sunandini, Prabodhita): SSL SLS SSL SLS L
+
+         (Sa, Ja, Sa, Ja,Gu)
+
+               (4) Mattamayuri:L LLL LLS SLL SSL L (Ma, Tha, Ya, Sa, Gu)
+
+   (5) Ruchira: SLS LSS SSL SLS L (Ja, Bha, Sa, Ja Gu)
+
+ 
+
+14 syllables: Shakvari:--
+
+   (1) Aparajita: SSS SSS LSL SSL S L (Na, Na, Ra, Sa, La Gu)
+
+   (2) Asambhadha: LLL LLS SSS SSL LL (Ma, Tha, Na, Sa, Gu, Gu)
+
+   (3) Pathya: SSL SLS SSL SLL S L  (Sa, Ja, Sa, Ya, La, Gu)
+
+   (4) Pramada: SSS SLS LLL SLS S L (Na, Ja, Ma, Ja, La Gu)
+
+   (5) Praharanakalika: SSS SSS LSS SSS S L  (Na, Na, Bha, Na, La, Gu)
+
+   (6) Madhyakshama: LLL LSS SSS SLL L L (Ma, Bha, Na, Ya, Gu, Gu)
+
+   (7) Vasantatilaka: (Uddhaarshani, Simhonnata): LLS LSS SLS SLS L L
+
+           (Tha, Bha, Bha, Ja, Ja, Gu, Gu)
+
+   (8) Vaasanti: LLL LLS SSS LLL LL  (Ma,Tha, Na, Ma, Gu, Gu)
+
+ 
+
+15 syllables: Atishakvari:
+
+    (1) Toonaka: LSL SLS LSL SLS LSL (Ra, Ja, Ra, Ja, Ra, Gu)
+
+    (2) Malini: SSS SSSLLL SLL SLL (Ja, Ra, Ja, Ra, Ja,Gu)
+
+    (3) Leelakhela: LLL LLL LLL LLL LLL (Na, Ja, Bha, Ja, Ra, Gu)
+
+    (4) Shashikala: SSS SSS SSS SSS SSL (Na, Na, Na, Na, Sa)
+
+ 
+
+16 syllables: Ahi:
+
+   (1) Chitra: LSL SLS LSL SLS LSL L (Ra, Ja, Ra, Ja, Ra, Gu)
+
+   (2) Panchachamara: SLS LSL SLS LSL LSL L (Ja, Ra, Ja, Ra, Ja, Gu)
+
+   (3) Vanini: SSS  SLS LSS SLS LSL L  (Na, Ja, Bha, Ja, Ra, Gu)
+
+ 
+
+17 syllables: Ashti:--
+
+   (1) Chitralekha: SSL SSL SLS LSS SLS LL  (Sa, Sa, Ja,  Bha, Ja, Gu, Gu) 
+
+   (2) Nardataka (Kokikala): SSS SLS LSS SLS SLS S L (Na, Jha, Bha,    Ja, Ja, La, Gu)
+
+   (3) Prithvi: SLS SSL SLS SSL SLL S L  (Ja, Sa, Ja, Sa, Ya, La, gu)
+
+   (4) Mandakranta: LLL LSS SSS LLS LLS LL  (Ma, Bha, Na, Tha,Tha Gu, Gu)
+
+  
+
+ 18 syllables: Dhruti:--
+
+    (1) Kusumalatovellita: LLL LLS SSS SLL SLL SLL (Ma, Tha, Na, Ya, Ya, Ya)
+
+    (2) Chitrakala: LLS LSS SSS SLL SLL SLL (Tha, Bha, Na, Ya, Ya Ya)
+
+    (3) Nandana: SSS SLS LSS SLS LSL LSL  (Na, Na, Bha, Ja, Ra Ra)
+
+    (4) Naaracha (Mahamalika,Mahamalini)): SSS SSS LSL LSL LSL  LSL (Na, Na, Ra, Ra, Ra, Ra)
+
+    (5) Shardoolavilasita: LLL LLS SLS SSL LLS SSL (Ma, Tha, Ja, Sa, Tha, Sa)
+
+ 
+
+19 syllables: Atidhruti:--
+
+    (1) Meghavispoorjita: SLL LLL SSS SSL LSL LSL L (Ya, Ma, Na, Sa, Ra,  Ra, Gu)
+
+    (2) Shardoolavikreedita: LLL SSLSLS SSL LLS SSS L (Ma, Sa, Ja, Sa, Tha, Tha, Gu)
+
+    (3) Mumadhura: LLL LSL LSS SSS LLL SSS S (Ma, Ra, Ma, Na, Ma,  Na,Gu)
+
+                        (4) Surasa: LLL LSL LLL SSS SLL SSS L (Ma, Ra, Ma, Na, Ya, Na, Gu)
+
+               
+
+             20 syllables: Kruti:--
+
+          (1) Geetika: SSL SLS SSL LSS LSL SSL S L  (Sa, Jha, Sa, Bha, Ra,  Sa, La Gu)
+
+      (2) Suvadana: LLL LSL LSS SSS SLL LLL S L (Ma, Ra,  Bha, Na, Ya, La, Gu)
+
+  
+
+               21 syllables: Prakruti:--
+
+(1) Panchakavali: SSS LSL LSS SLS SLS SLS LSL  (Naa, Ja, Bha, Ja, Ja, Ja, Ra)
+
+                           (2) Sragdhara:LLL LSL LSS SSS SLL SLL SLL (Ma, Ra, Bha, Na, Ya,
+
+                       Ya, Ya)
+
+              22 syllables: Akruti:--
+
+                 (1) Hamsi: LLL LLL LLS SSS SSS SSS LLS L (Ma, Ma, Tha, Na, Na,  
+
+                     Na, Na, Tha, Gu)
+
+              23 syllables: Vikruti:--
+
+                 (1) Adritanaya: SSS SLS LSS SLS LSS SLS LSS S L (Na, Ja, Bha, Ja,
+
+                    Bha, Ja, Bha, La, Gu)
+
+              24 syllables: Sanskruti:--
+
+                 (1) Tanvi: LSS LLS SSS SSL LSS LSS SSS SLL (Bha, Tha, Na, Sa,
+
+                       (Bha, Bha, Na, Ya)
+
+ 
+
+              25 syllables: Atikruti:--
+
+                 (1) Kraunchapada: :LSS LLL SSL LSS SSS SSS SSS L  (Bha, Tha,
+
+                         Na, Sa, Bha, Bha, Na, Ya)
+
+ 
+
+              26 syllables: Utkruti:--
+
+                 (1) Bhujangavijrumbhita: LLL LLL LLS SSS SSS SSS LSL SSL S L
+
+                          (Ma, Ma, Tha, Na, Na, Na, Ra, Sa, La, Gu)
+
+  27 syllables or more ( up to a maximum of  999): Dandaka:
+
+   In each quarter SSS SSS (Na, Na) must occur and the remaining may be either LSL or SLL (Ra or Ya) or all may be SSL (Ya)  .
+
+   Some of the famous Dandakas are Chandavrushtiprayata, Prachitaka Mattamatangaleelakara, Simhavikranta, Kusumasthabaka, Anangasekhara, and Sangrama.
+
+ 
+
+      Now, we consider the syllable patterns in metres whose quarters are half equal, that is, the 1st and 3rd quarters have equal syllables, while the 2nd and 4th have a different number of equal syllables.
+
+ 
+
+1.Aparavaktra (Vaitaleeya): 1 & 3: SSS SSS  LSL  S L  (11)
+
+                                                          (Na, Na, Ra, La, Gu)
+
+                                              2 & 4: SSS SLS SLS SLS   (12)
+
+                                                           (Na, Ja, Ja, Ra)
+
+2.*Upachitra: 1 & 3: SSL SSL SSL S L (11)** (Sa, Sa, Sa, La, Gu)
+
+                       2 & 4: LSS LSS LSS L L (11)  (Bha, Bha, Bha,Gu, Gu)
+
+3.Pushpitagra (Aupachandasika): 1 & 3: SSS SSS LSL SLL  (12)
+
+                                                                 (Na, Na, Ra, Ya)
+
+                                                       2 & 4: SSS SLS SLS LSL L (13)
+
+                                                                 (Na, Ja, Ja, Ra, Gu)
+
+4.*Viyogini: (Vaitaleeya or Sundarii: 1 & 3: SSL SSL SLS L (10)
+
+                                                                  (Sa, Sa, Ja, Gu)
+
+                                                          2 & 4: SSL LSS LSL S L (11)
+
+                                                                   (Sa, Bha, Ra, La, Gu)
+
+5.Vegavati: 1& 3: SSL SSL SSL L (10)** (Sa, Sa, Sa, Gu)
+
+                    2 & 4: LSS LSS LSS L(10)  (Bha, Bha, Bha, Gu)    
+
+         ** Although the number of syllables is the same in all quarters, the pattern is different in the odd and even number quarters.
+
+ 
+
+6.Harinipluta: 1 & 3: SSL SSL SSL S L (11) (Sa, Sa, Sa, La, Gu)
+
+                        2 & 4: SSS LSS LSS LSL (12) (Sa, Bha, Bha, Ra)
+
+    * These are treated as Jati metres but sometimes they are defined with triplets of syllables called ganas.
+
+ 
+
+        Metres with unequal number of syllables in different quarters
+
+ 
+
+Udgata: 1st: SSL SLS SSL S (10) Sa, Ja, Sa, La)
+
+             2nd: SSS SSL SLS L (10) (Na, Sa, Ja, Gu)
+
+             3rd: LSS SSS SLS S L (11) (Bha, Na, Ja, La, Gu)
+
+             4th: SSL SLS SSL SLS L (13) (Sa, Ja, Sa, Ja,gu)
+
+                      In another variant: 3rd: LSS SSS LSS  L (10) (Bha, Na, Bha, Gu)
+
+ 
+
+  There are metres where the number of syllables may vary in each quarter, and these are generally called Gathas, and this includes stanzas where the number of quarters may also be different from 4, or two or more quarters of a regular metre may be combined to form half-equal or unequal quarters.
+
+ 
+
+Metres regulated by the number of syllabic instants or time units
+
+or matra-chandas
+
+The most common variety is:
+
+1.Arya: 1st and 3rd quarters: 12 matras or time units
+
+               2nd quarter: 18 time units
+
+               4th quarter: 15 time units.
+
+   This metre is said to have nine sub–divisions, the most common among them being the following: 
+
+ 
+
+2.Geeti:  1st and 3rd quarters: 12 time units
+
+               2nd and 4th quarters: 18 time units
+
+3.Upageeti: 1st and 3rd quarters; 12 time units
+
+                     2nd quarter: 15 time units
+
+                     4th quarter: 18 time units
+
+4.Udgeeti: 1st and 3rd quarters: 12 time units
+
+                     2nd and 4th quarters: 20 time units
+
+5.Aryageeti: 1st and 3rd quarters: 12 time units
+
+                      2nd quarter: 15 time units
+
+                      4th quarter: 18 time units
+
+6.Vaitaleeya:1st and 3rd  quarters: 14 time units (6 syllabic instants followed by Ra and La and Gu or SLS and SL
+
+     2nd and 4th quarters: 16 time units (8 syllabic instants followed by Ra, La, Gu or SLS SL
+
+7.Aupachandasika: Here, the pattern is the same as above, except that at the end we have Ra and Ya (SLS and SLL); 1st and 3rd quarters: syllabic instants are not all to be short or long syllables. In each quarter, 2nd, 4th and 6th one should not be formed jointly with the next ones.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                                     APPENDIX B
+
+ 
+
+          Metres with constant number of time instants in each quarter
+
+ 
+
+There are metres in which each quarter consists of 16 syllabic instants or time units, with the 9th one being short and the last being long.
+
+ 
+
+(1)   Veenaakamsika: 9th and 12th instants: S
+
+                           15th and 16th instants: L
+
+       And the rest of the units are optional, short or long.
+
+ 
+
+(2)   Chitra: 5th, 8th, 9th and 10th instants: S
+
+                                          15 and 16th instants: L
+
+ 
+
+(3)   Upachitra: 5th, 8th, 9th and 10th  instants: S
+
+                                                  15th and 16th  instants: L; (The rest indeterminate)
+
+   
+
+(4)   Vishloka: 5th, 8th and 12th  instants : S
+
+                                               15th and 16th  instants:  L (The rest indeterminate)
+
+ If two or more varieties are contained in the same stanza, they are called Padakulaka, and there is no restriction except that each quarter should have 16 time units.
 
 ** Aksak meters
    :PROPERTIES:
