@@ -420,7 +420,7 @@ Hemiola
     :PROPERTIES:
     :DATE:     <2020-12-21 Mon 09:55>
     :END:
-*** Indian Music Theory...
+*** Indian Music Theory & Genres
     :PROPERTIES:
     :DATE:     <2020-12-21 Mon 09:56>
     :END:
@@ -1010,13 +1010,41 @@ The very popular raaga Hamsasdhwani which is sung at the beginning of most conce
 
  See also above [[*Konnakol][Konnakol]] 
 
-**** Genres
+**** Genres, Forms
 
 ***** Thumri
 
 ***** Khayal
 
 ***** Drhupad
+
+***** Manodharma
+
+***** Kriti
+
+***** Alapana
+
+***** Tana
+
+***** Neraval
+      :PROPERTIES:
+      :DATE:     <2021-01-10 Sun 11:54>
+      :END:
+
+***** Pallavi
+      :PROPERTIES:
+      :DATE:     <2021-01-10 Sun 11:54>
+      :END:
+
+***** Varna
+      :PROPERTIES:
+      :DATE:     <2021-01-10 Sun 11:55>
+      :END:
+
+***** Javali
+      :PROPERTIES:
+      :DATE:     <2021-01-10 Sun 11:55>
+      :END:
 
 *** Mathematics in Sanskrit poetry
 
@@ -1100,13 +1128,9 @@ Sa Na JaYaBhaRaTa Mey (which in Sanskrit would mean: He is  not my Jayabharata.
       Pattern with 3 syllables: (Long, short or mixture)
 
           All short      SSS                                      No.of patterns = 1
-
           One short and two long:
-
             SLL, LLS, LSL, LLS,                           No. of patterns = 4
-
           One long and two short:
-
             LSS, SLS, SSL                                      No. of patterns = 3
 
                        Total number of patterns: 23 = 8.
@@ -1114,25 +1138,14 @@ Sa Na JaYaBhaRaTa Mey (which in Sanskrit would mean: He is  not my Jayabharata.
  
 
       Pattern with 4 syllables (Long, short or mixture)
-
           4 short syllables:     SSSS                       No. of patterns = 1 =  4C0
-
           3 short & 1 long:     SSSL, SSLS,
-
                                           SLSS, LSSS            No. of patterns = 4 =  4C1
-
           2 short & 2 long:   SSLL, LLSS.
-
                                         SLSL, LSSL,
-
                                         LSLS, SLLS              No. of patterns = 6 =  4C2
-
           1short & 3 long: SLLL, LSLL,
-
                                      LLSL, LLLS                No. of patterns = 4 =  4C3
-
-  
-
                                    4 long:  LLLL                             No. of patterns = 1 =  4C4
 
  
