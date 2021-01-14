@@ -67,6 +67,27 @@ Writing + Machines
 - Striated vs. smooth spaces (Deleuze-Guattari)
 - Collage https://www.youtube.com/watch?v=DdtCLMPrRUo ("Music Notation can't capture this 'Quantum Rhythm'")
 
+** Various notes + links
+   :PROPERTIES:
+   :DATE:     <2021-01-14 Thu 15:52>
+   :END:
+
+*** algorithms and sequences from David Bruce's video on algorithmic composition
+
+Source: https://www.youtube.com/watch?v=X0-zuS_62wc
+How to compose music with a recipe (Arvo Pärt, Xenakis and others)
+
+**** At 7':45": Recamán's Sequence https://en.wikipedia.org/wiki/Recam%C3%A1n%27s_sequence https://www.youtube.com/watch?v=FGC5TdIiT9U (The Slightly Spooky Recamán Sequence - Numberphile)
+
+**** At 8:22 : Per Nørgård "Infinity Series" https://oeis.org/A004718
+
+**** Euclidean Rhythms 
+     :PROPERTIES:
+     :DATE:     <2021-01-14 Thu 16:18>
+     :END:
+
+https://en.wikipedia.org/wiki/Euclidean_rhythm
+http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf
 
 ** Culture as Embodiment
 
