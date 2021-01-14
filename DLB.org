@@ -55,7 +55,7 @@ Writing + Machines
 - Game (types of game - including navigation, construction, rearrangement, /comparing? - takekurabe? ... ???/
 - Construction
 - Rearrangement (putting in order / order) (--> Patterns and Permutations (Christou). Serialism (Messiaen)) (Tetraktys - relationships)
-- Navigation (Tetraktys, Jizya)
+- Navigation (Tetraktys, Zairja)
 - Weaving, Networks, Threads, Texts
 - Shadow [Reflection] - Projection - Imitation - Identification - Incarnation
 - Reflection / Heterotopia / Genius Loci (see Locus Solus / Locus Sonus)
