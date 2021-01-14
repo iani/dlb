@@ -51,17 +51,20 @@ Writing + Machines
 
 ***** Counterproposal / other open questions-keywords to investigate
 
-- Model - virtual - narrative
+- Model - virtual - narrative (Theater, Epos, Lyric Poetry ...)
 - Game (types of game - including navigation, construction, rearrangement, /comparing? - takekurabe? ... ???/
 - Construction
-- Rearrangement (putting in order / order)
-- Navigation
+- Rearrangement (putting in order / order) (--> Patterns and Permutations (Christou). Serialism (Messiaen)) (Tetraktys - relationships)
+- Navigation (Tetraktys, Jizya)
 - Weaving, Networks, Threads, Texts
 - Shadow [Reflection] - Projection - Imitation - Identification - Incarnation
 - Reflection / Heterotopia / Genius Loci (see Locus Solus / Locus Sonus)
 - Biological aspects of imitation, repetition, patterning/pattern-forming, niche puzzles (acoustic niche hypothesis) ... 
 - Chimaeras / Metamorphoses
 - Dreams
+- Refrains (Deleuze/Guattari). -> Variations (Chaconne, Passacaglia, Blues...)
+- Striated vs. smooth spaces (Deleuze-Guattari)
+- 
 
 ** Culture as Embodiment
 
@@ -961,6 +964,18 @@ Now, you know why there are infinite number of raagas.
 You can also discover (or construct) a raaga by analysing a lot more (relationship, shruthi’s and so on) of the notes you have chosen and compose in it.
 
 The very popular raaga Hamsasdhwani which is sung at the beginning of most concerts today was discovered by Ramaswamy Dikshitar, father of the celebrated composer Muthuswamy Dikshitar.
+
+***** Graha Bedham (Graha Bhedam) (s.a.: murchhana)
+      :PROPERTIES:
+      :DATE:     <2021-01-14 Thu 13:00>
+      :END:
+
+-> Related to the idea of Modulation. Shifting the tonic of a Raga to a different note in its scale, thereby resulting in a new raga (?)
+
+See: 'Graha Bedham' LecDem by Ranjani Gayatri
+https://www.youtube.com/watch?v=-Ucjte6dMGY
+
+https://en.wikipedia.org/wiki/Graha_bhedam
 
 ***** Gati
 
