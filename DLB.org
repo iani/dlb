@@ -139,6 +139,7 @@ Bach g fugue Wtk. I, Brandenburg VI.2, Matthäus Passion beginning of Part II,
 * The King and the Lover
 
 Johannes Passion / Matthäus Passion
+c - e
 
 * Fadein / false start
 
@@ -252,6 +253,8 @@ Devri Kebir
 
 I thought that ...'s "Amadeus" was over the top.
 But then this morning I listened to the 3d mvt. of KV 537.
+
+ 4 Feb 2021 17:52 similarly for K. 467.3. K 451.3, *K 453.3*
 
 * Sospiri
   :PROPERTIES:
