@@ -10,6 +10,8 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
+See also: 徒然草, 雑文集 ((村上 春樹), Sudelbuch (Lichtenberg, Tucholsky)
+
 * For Satoru / Embodiment / Collective Culture
   :PROPERTIES:
   :DATE:     <2021-01-07 Thu 00:54>
@@ -123,6 +125,16 @@ BWV 815a
 Vivaldi 4 seasons (which concerto? which movement?)
 Ligeti Lux Aeterna, Atmospheres, Lontano
 ...?
+
+* Liebe und Tod (und [Wieder-]Geburt)
+  :PROPERTIES:
+  :DATE:     <2021-02-04 Thu 16:25>
+  :END:
+
+Bach solo violin Partitas: g, d, C
+Bach solo violin Sonatas: h, a, E
+
+Bach g fugue Wtk. I, Brandenburg VI.2, Matthäus Passion beginning of Part II, 
 
 * Fadein / false start
 
