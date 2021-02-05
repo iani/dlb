@@ -1,6 +1,6 @@
 * Dedicatio (sic!)
 
-#+begin_verse
+#+begin_example
 Aνατολή
 
 Γιαννιώτικα, σμυρνιώτικα, πολίτικα,
@@ -46,7 +46,8 @@ Kαι μια φυλή ζη μέσα σας και λυώνει
 λυπητερά.
 
  	Κωστής Παλαμάς
-#+end_verse
+#+end_example
+
 
 * The list
 
