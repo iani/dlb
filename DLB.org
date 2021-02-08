@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein#/media/File:Schlosskirche_Weima
 
 https://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir#/media/Fichier:Image-Amphitheatrum_sapientiae_aeternae_-_Alchemist's_Laboratory_with_text.jpg
 
-See also: 徒然草, 雑文集 ((村上 春樹), Sudelbuch (Lichtenberg, Tucholsky)
+See also: 徒然草, 雑文集 (村上 春樹), Sudelbuch (Lichtenberg, Tucholsky)
 
 * For Satoru / Embodiment / Collective Culture
   :PROPERTIES:
@@ -104,6 +104,26 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781118454114
 ** Bruno Latour: ATN, Modes of Existence
 
  http://modesofexistence.org/#the-phases/timeline
+
+* Organologica - Ethnologica (Instruments and ... notation)
+
+** Guqin 
+
+Instrumental symbolism and cosmological references. Descriptive vs. Abbreviated notations.
+
+** Saranghi
+
+1. Horse hair for bow strings, 
+2. Gut strings and parchment soundboard
+3. Metal strings for resonance (cv. Viola d'Amore)
+
+All 3 above associated with turkic tribes as nomadic, using horses and bows (bow), also shepherding (gut strings and parchment soundboard), and specializing in metallurgy, especially iron (resonance strings).
+
+Compare to Kokinm Erhu, Huqin - choice of 胡 character in name (二胡,  胡琴), where: 胡  (Radical: meat 肉 (⺼)) : barbarian, foreign.
+
+** Theorbe: Tablature and arpeggiation.   
+
+From Kirnberger's Toccata Arpeggiata via Bach BWV 815a Praeludium to Chopin Op 10 No 1.  Also, Theorbe legato agréments in Bach suites - mainly slow movements.
 
 * Cracks 
   :PROPERTIES:
