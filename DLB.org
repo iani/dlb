@@ -1195,18 +1195,31 @@ https://en.wikipedia.org/wiki/Graha_bhedam
 
 **** Rhythm
 
-***** Tala
-  https://www.youtube.com/watch?v=R7d4T5L6qKI
+***** Tala - Gati - Konnakol
+
+****** Konnakol for basic Gatis
+
+Lesson 2 - Dividing Beats - #MathScienceMusic​
+https://www.youtube.com/watch?v=synMSVspBkY
+
+| 3 | Tha | Ki | Ta  |    |     |    |     |    |    |
+| 4 | Tha | Ka | Dhi | Mi |     |    |     |    |    |
+| 5 | Tha | Ka | Tha | Ki | Ta  |    |     |    |    |
+| 7 | Tha | Ka | Dhi | Mi | Tha | Ki | Ta  |    |    |
+| 9 | Tha | Ka | Dhi | Mi | Tha | Ka | Tha | Ki | Ta |
+
+****** Wheel of Tala
+   https://www.youtube.com/watch?v=R7d4T5L6qKI
+
+****** Konnakol
+
+  https://www.youtube.com/watch?v=OyyfLtYQcwI
+  Extreme Math Nerd Music (An Intro to Konnakol)
+
+  https://www.youtube.com/watch?v=qdASeGlQW1g
+  Konnakkol - Lesson 1 - Tha Dhi Thom Nam
 
 ***** Alap
-***** Konnakol
-
- https://www.youtube.com/watch?v=OyyfLtYQcwI
- Extreme Math Nerd Music (An Intro to Konnakol)
-
- https://www.youtube.com/watch?v=qdASeGlQW1g
- Konnakkol - Lesson 1 - Tha Dhi Thom Nam
-
 ***** Yati (-> Jathi?)
       :PROPERTIES:
       :DATE:     <2020-12-19 Sat 10:23>
