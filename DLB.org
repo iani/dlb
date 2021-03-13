@@ -211,12 +211,20 @@ The story goes that Thamus said much to Thoth, both for and against each art, wh
   :END:
 ** An early text from Mesopotamia: Gilgamesh
 
+- Reading Gilgamesh from an clay stele (Mesopotamia, 1700-1750 BC) : https://youtu.be/46Xst2do8p4?t=546 (lecture by Steve Tinney, "Great Voyages: Gilgamesh: Journey to the End of the World.")
+
 - Lecture by Andrew George : https://www.youtube.com/watch?v=Rd7MrGy_tEg&t=3596s
 
 - Lecture by Ed Greenstein : https://www.youtube.com/watch?v=8aWkR3QowdI (-> Problem of transmission of history, knowledge.  Textural monuments. See also: Deuteronomy is about the writing of itself.)
 
 See also: G.S. Kirk : A structuralist reading of Gilgamesh.
 https://www.slideserve.com/kassia/a-levi-straussian-analysis-of-the-epic-of-gilgamesh-g-s-kirk
+** Measuring time with biological clocks of mould (decay)
+
+Utnapishtim's way to count the number of days that Gilgamesh was asleep.
+
+- From Steve Tinney's lecture: https://youtu.be/46Xst2do8p4?t=2209
+
 *** Notes on Gilgamesh
     :PROPERTIES:
     :DATE:     <2021-03-13 Sat 12:34>
@@ -287,6 +295,36 @@ https://www.youtube.com/watch?v=hT3RlTfuTdk
 ** Utopias at the beginning of the age of modernity in Europe
 *** Tommaso Campanella: Civitas Solis
 *** Jan Comenius: Labyrinth of the World and Paradise of the Heart
+
+* Be my baby
+  :PROPERTIES:
+  :DATE:     <2021-03-13 Sat 15:27>
+  :END:
+
+** Be my baby in Babylonia
+
+https://www.youtube.com/watch?v=xYSqscmp_f0
+
+- Girl: atta lū mārī 
+- Boy: atti lū mārtī
+
+*** Pulchra es, amica mea
+
+https://www.youtube.com/watch?v=FCvXBjsGFGc
+
+*** Nigra sum
+
+- Victoria : https://www.youtube.com/watch?v=xF8azoOLrto
+- Monteverdi :
+  - Rene Jacobs (with score): https://www.youtube.com/watch?v=lgJCREmU7Mk
+
+*** Laeva eius sub capite meo
+
+- Palestrina : https://www.youtube.com/watch?v=0_jpF4ysph0
+  - Sixteen (with score) : https://www.youtube.com/watch?v=IZj0im7F3DQ
+  - Sixteen (from Song of Songs) : https://www.youtube.com/watch?v=6oiJSH8ukNw
+- Marcel Dupré : Laeva eius sub capite meo https://www.youtube.com/watch?v=Exevm7VCep4
+  - https://en.wikipedia.org/wiki/Marcel_Dupr%C3%A9
 
 * Organologica - Ethnologica (Instruments and ... notation)
 
