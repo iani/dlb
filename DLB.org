@@ -210,6 +210,41 @@ The story goes that Thamus said much to Thoth, both for and against each art, wh
   :DATE:     <2021-03-12 Fri 20:13>
   :END:
 ** An early text from Mesopotamia: Gilgamesh
+
+- Lecture by Andrew George : https://www.youtube.com/watch?v=Rd7MrGy_tEg&t=3596s
+
+- Lecture by Ed Greenstein : https://www.youtube.com/watch?v=8aWkR3QowdI (-> Problem of transmission of history, knowledge.  Textural monuments. See also: Deuteronomy is about the writing of itself.)
+
+See also: G.S. Kirk : A structuralist reading of Gilgamesh.
+https://www.slideserve.com/kassia/a-levi-straussian-analysis-of-the-epic-of-gilgamesh-g-s-kirk
+*** Notes on Gilgamesh
+    :PROPERTIES:
+    :DATE:     <2021-03-13 Sat 12:34>
+    :END:
+
+From: https://www.slideserve.com/fergus/gilgamesh
+
+    Gilgamesh
+
+    When reading any text, but especially an ancient one, you should always memorize five (and a half) things. I am likely to ask you about the five (and a half) things in the short answer section on quizzes and even exams, so keep them in mind as you study the content as well! • Author • Title • Date • Location • Language (5 ½ history of the text)
+
+    Author: Traditional epic; orally transmitted and eventually collected, edited and circulated by Sîn-liqe-unninniof Uruk • You’ll notice that with many ancient texts it’s not possible to be assured of one single author. This is especially true of texts that have a history of oral tradition.
+
+    Title: He who saw the deep, Epic of Gilgamesh • “He who saw the deep” is the 1st line of the “standard” version of the epic, how many ancient works were known (especially poetry). There are many Gilgamesh stories; the one we are reading is rather extended and holds together as one piece; hence it is known today as “The Epic of Gilgamesh”
+
+    Date: • Earliest Sumerian / Akkadian versions, • oral and written: 2150-1900bc; • other written text: 1700bc (frag.); • He who saw the deep: 1300-1000bc • “Versions” of the Gilgamesh myth are recorded from the end of the 3rd millennium bc, but the earliest evidence for the complete (*) written text is the end of the 2nd millennium bc.
+
+    Location: • Mesopotamia • The Gilgamesh epic deals with peoples and places from what was Sumer and Akkad; while the history of these specific peoples and places is important to keep in mind, the general feel we will get from reading this in the context of this course is the general location of “Mesopotamia”
+
+    Language: • Babylonian (an Akkadian literary dialect) • You will notice several renderings throughout your text of the cuneiform script which was carved into clay tablets which preserve the epic as we know it today (such as are preserved from etchings and photographs).
+
+    [textual tradition/edition]: • pp. xvi-xxx in your text; • this edition, p. xv-xvi in your text • Understand we are reading a translation of a late period of the text's tradition, witnessed by 73 mss (clay tablets in this case), but supplemented in its lacunae by earlier witnesses to the text (as early as almost a millenium before the standard edition), and of course with an oral tradition component prior to writing and throughout the tradition.
+
+    [textual tradition/edition]: • pp. xvi-xxx in your text; • this edition, p. xv-xvi in your text • Imagine a king who lived in 2700bc, they kept handing down the legend of his story in oral form, and then various poems continued to be sung & written down & recopied, etc., for hundreds of years. • Then in the 12th c sometime, a more-or-less standard series of tablets recorded the vital portions. A mix of oral and scribal tradition, codified in late bronze / early iron age. • Recopied at height of Assyrian empire (800bc) but supplemented by almost 2000 years of prior written witness. • Also, read pp. 209-221 to understand textual criticism
+
+    Gilgamesh • Major literary concerns: • Epic poetry • Formal structure (parallelism) • Fragmentation and textual tradition • Comparative traditions (Noah and Utnapishtim) • Talking about mythology and history
+
+    Gilgamesh • Themes: • Mortality vs immortality • Civilization vs barbarism • Human development • Friendship • Responsibility of the king
 ** Minoan myth of first city: Labyrinth
 
 (See also Jan Comenius: Labyrinth of the World and Paradise of the Heart)
