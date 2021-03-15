@@ -3118,4 +3118,60 @@ http://www.hoshinji.jp/
 
 Bodhisena போதிஸேன 菩提僊那 704–760
 
+** 15 Mar 2021 13:00 - Wo zwei und drei versammlet sind / Verzage, nicht o Häuflein klein; 幻の能「篁」
+
+*** Verzage, nicht o Häuflein klein - from BWV 42
+
+
+In COVID19 times: Rediscover the strength of small groups - intimate, real interpersonal bonds in small directly related groups of persons as opposed to abstract ideals. 
+
+The complete cantata (J.S. Bach Foundation) (lively) : https://www.youtube.com/watch?v=eocxzFBsuXs
+
+Wo zwei und drei versammlet sind: https://youtu.be/eocxzFBsuXs?t=442
+
+Verzage nicht, o Häuflein klein : https://youtu.be/eocxzFBsuXs?t=1128
+
+With score: (The Netherlands Bach Society): 
+https://www.youtube.com/watch?v=QPTh6YiGjaw
+
+Without score, a lively performance, Stiftsbarock Stuttgart : https://www.youtube.com/watch?v=U4BWRqVmzEg
+
+
+The complete cantata (Herreweghe) (slow): https://www.youtube.com/watch?v=0pE9YBSYS-E
+
+Wo zwei und drei versammlet sind: https://youtu.be/0pE9YBSYS-E?t=436
+
+
+*** 幻の能「篁」
+
+https://www.kyoto-np.co.jp/articles/-/455587
+
+Recording of performance reconstruction + comments on NHK TV.
+
+- 2 Parallel timelines on stage
+- Noh's function as consolation of souls in the other world.
+- 
+ 
+** 15 Mar 2021 14:09 SC dev mtg minutes : quarks directory, rust-sc, Condition ideas
+
+*** Discussion on Condition:
+**** Josh
+
+Josh-Iannis: Discuss the example by James Harkins scheduling multiple unix commands and waiting for all of them to finish asynchronously before proceeding.  It would be great to be able to do this outside a thread (Iannis).  Josh suggests that one may be able to use an object or method like "dispatch" that does that job by counting which jobs/conditions/actions have finished and proceeds when all of them are done. (all of this to be done in sclang.)
+
+Josh asks: What happens if a command has returned an error. ? (note: Iannis: also if it does not return? Should there still be individual timeouts for each of the waiting jobs/conditions?).
+
+Josh suggests: See what is happening in the ios dev group: 
+  https://developer.apple.com/documentation/dispatch/dispatchgroup
+
+Patrick suggests: There is a group on rust dev group looking into sc. Interesting to know! https://this-week-in-rust.org/blog/2021/03/10/this-week-in-rust-381/ (?)
+
+The rust environment named above is called sorceress: https://crates.io/crates/sorceress
+
+Patrick suggests: Look at Scott's quark : Deferred
+
+**** Quarks live here: 
+
+https://github.com/supercollider-quarks/quarks/blob/master/directory.txt
+
 * Bib
