@@ -3558,5 +3558,9 @@ At noon: Discussion about Werther - Massenet is a delicate person. His Werther i
 
 The interpretation in München at the Nationaltheater with Araisa as Werther and Fassbinder as Lotte was electrifying. The public was left breathless at the end, unable to cheer.
 
+** 25 Mar 2021 17:45 MIT Computer Music Journal freely accessible. SuperCollider paper by James McCartney
+
+https://direct.mit.edu/comj/article/26/4/61/93775/Rethinking-the-Computer-Music-Language
+
 
 * Bib
