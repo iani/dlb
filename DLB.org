@@ -2948,15 +2948,6 @@ ISBN	1521708983, 9781521708989
 
 ** Chopin citing WTK in Etudes Op. 10 and Op. 25
 
-* Key tetrachords in Bach
-** goldberg aria bass vs discant (c/o Denk)
-   :PROPERTIES:
-   :DATE:     <2020-12-07 Mon 23:41>
-   :END:
-** Inventio 1 - WTK I-1 fugue
-** Mass in H BWV 232 first 8 bars, gratias, amen
-** Chromatic (hijaz-type) tetrachord: Cantata 4 or 106, Chaconne 
-
 * The Lacrimae tetrachord
 
 ** Dowland "Flow my tears"
@@ -2980,6 +2971,32 @@ ISBN	1521708983, 9781521708989
 **** Opening Kyrie
 
 **** Agnus Dei
+
+* Key tetrachords in Bach
+** goldberg aria bass vs discant (c/o Denk)
+   :PROPERTIES:
+   :DATE:     <2020-12-07 Mon 23:41>
+   :END:
+** Inventio 1 - WTK I-1 fugue
+** Mass in H BWV 232 first 8 bars, gratias, amen
+** Chromatic (hijaz-type) tetrachord: Cantata 4 or 106, Chaconne 
+
+* J.S. Bach Cantatas with Orchestral Sinfonias 1st movement
+  :PROPERTIES:
+  :DATE:     <2021-03-31 Wed 13:47>
+  :END:
+
+From Ottavio Dantone's CD "Sinfonia"
+
+- BWV 
+- BWV 
+- BWV 
+- BWV 
+- BWV 
+- BWV 
+- BWV 
+- BWV 
+- BWV 
 
 * Stasis: Repeated notes / tremoli / trills
 
@@ -3179,6 +3196,15 @@ Nastik / Heteropraxy:
 
 https://en.wikipedia.org/wiki/Unifying_Hinduism
 https://en.wikipedia.org/wiki/Southern_Esoteric_Buddhism
+* Sensors + Cameras + AI for motion tracking
+  :PROPERTIES:
+  :DATE:     <2021-03-31 Wed 23:34>
+  :END:
+
+OAK-D motion tracking camera system with AI. Connection to OpenCV:
+
+https://pysource.com/2021/02/25/install-opencv-ai-kit-oak-on-windows/
+
 * Journal-like loose notes
 ** Haikara  san / Houshinji
 
