@@ -3205,6 +3205,28 @@ OAK-D motion tracking camera system with AI. Connection to OpenCV:
 
 https://pysource.com/2021/02/25/install-opencv-ai-kit-oak-on-windows/
 
+
+https://opencv.org/introducing-oak-spatial-ai-powered-by-opencv/
+
+https://www.youtube.com/watch?v=6sQVmd2hjgU
+
+https://www.youtube.com/watch?v=0MbSbBqyiUg
+
+https://www.youtube.com/watch?v=kplICBD_wVc
+** Pose Estimation with OpenCV AI Kit
+https://www.youtube.com/watch?v=IjXoFKmNFq8
+
+https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/
+
+** Dance x Machine Learning: First Steps
+ Creating new datasets and exploring new algorithms in the context of the dance performance “discrete figures”
+ https://kcimc.medium.com/discrete-figures-7d9e9c275c47
+** Is the hype around the OpenCV AI kit worth it?
+https://towardsdatascience.com/opinion-26190c7fed1b
+
+These Spatial AI-powered kits offer students and researchers alike to perform real-world projects instead of working on just the databases available and reporting a test accuracy on the test accuracy but never seeing it work in the real world. These cameras offer a pathway to test models in production environments without needing any other external hardware.
+
+So, in conclusion, I feel if one is an aspiring computer vision student, it is certainly worth it. A lot of development is going to happen on it and it might just do that for computer vision what Raspberry Pi did for hobbyist hardware.
 * Journal-like loose notes
 ** Haikara  san / Houshinji
 
