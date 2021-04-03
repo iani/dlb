@@ -174,6 +174,31 @@ montage, where parts of the sound are removed or added as objects. Silence thus 
      Stanley Cavell, "Music Discomposed," in Must We Mean What We Say? A Book of Essays (Cambridge, UK: Cambridge University Press, 1969), 182. ⇧
      Christopher Hasty, "The Image of Thought and Ideas of Music," in Sounding the Virtual: Gilles Deleuze and the theory and philosophy of music (Farnham: Ashgate, 2010), 14-17. ⇧
      Brian Kane, "L’Objet Sonore Maintenant: Pierre Schaeffer, sound objects and the phenomenological reduction," Organised Sound, 12(1) (2007). ⇧
+
+* Gayatri Chakravorty Spivak
+  :PROPERTIES:
+  :DATE:     <2021-04-03 Sat 21:20>
+  :END:
+
+https://www.jstor.org/stable/40645229?seq=1
+
+** "Can the Subaltern Be Heard?"
+   :PROPERTIES:
+   :DATE:     <2021-04-03 Sat 21:20>
+   :END:
+  journal article
+ "Can the Subaltern Be Heard?": Political Theory, Translation, Representation, and Gayatri Chakravorty Spivak
+ J. Maggio
+ Alternatives: Global, Local, Political
+ Vol. 32, No. 4 (Oct.-Dec. 2007), pp. 419-443 (25 pages)
+ Published By: Sage Publications, Inc.
+
+#+begin_quote
+Abstract
+
+Gayatri Chakravorty Spivak's essay "Can the Subaltern Speak?" questions the notion of the colonial (and Western) "subject" and provides an example of the limits of the ability of Western discourse, even postcolonial discourse, to interact with disparate cultures. This article suggests that these limits can be (partially) overcome. Where much commentary on Spivak focuses on her reading of Marx through the prism of Derrida, and on her contention that the "native informant" is simultaneously created and destroyed, I contends that Spivak's terms of engagement always imply a liberal-independent subject that is actively speaking. Moreover, given the limits of understanding implied by Spivak's essay, I advocate a reading of culture (s) based on the assumption that all actions offer a communicative role, and that one can understand cultures by translating the various conducts of their culture. On this basis I argue that the title of Spivak's essay might be more accurately stated as "Can the Subaltern Be Heard?"
+#+end_quote
+
 * Socrates on Writing as the Enemy of Memory
   :PROPERTIES:
   :DATE:     <2021-02-15 Mon 18:54>
