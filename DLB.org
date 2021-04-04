@@ -199,6 +199,14 @@ Abstract
 Gayatri Chakravorty Spivak's essay "Can the Subaltern Speak?" questions the notion of the colonial (and Western) "subject" and provides an example of the limits of the ability of Western discourse, even postcolonial discourse, to interact with disparate cultures. This article suggests that these limits can be (partially) overcome. Where much commentary on Spivak focuses on her reading of Marx through the prism of Derrida, and on her contention that the "native informant" is simultaneously created and destroyed, I contends that Spivak's terms of engagement always imply a liberal-independent subject that is actively speaking. Moreover, given the limits of understanding implied by Spivak's essay, I advocate a reading of culture (s) based on the assumption that all actions offer a communicative role, and that one can understand cultures by translating the various conducts of their culture. On this basis I argue that the title of Spivak's essay might be more accurately stated as "Can the Subaltern Be Heard?"
 #+end_quote
 
+* Silvia Federici: The Caliban and the Witch
+  :PROPERTIES:
+  :DATE:     <2021-04-04 Sun 23:49>
+  :END:
+
+Silvia Federici: The Caliban and the Witch.
+Women, The Body, and Primitive Accumulation. N.Y. Autonomedia. 2004.
+
 * Socrates on Writing as the Enemy of Memory
   :PROPERTIES:
   :DATE:     <2021-02-15 Mon 18:54>
