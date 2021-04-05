@@ -2265,6 +2265,12 @@ There are metres in which each quarter consists of 16 syllabic instants or time 
 
  If two or more varieties are contained in the same stanza, they are called Padakulaka, and there is no restriction except that each quarter should have 16 time units.
 
+**** PS: Mathematicians leading up to Hemachandra
+
+(From: https://youtu.be/wSIu11HxkdY?t=718)
+
+Pingala, Verhanka, Gopala
+
 ** Aksak meters
    :PROPERTIES:
    :DATE:     <2020-12-08 Tue 08:02>
