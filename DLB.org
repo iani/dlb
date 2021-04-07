@@ -1410,8 +1410,10 @@ https://www.youtube.com/watch?v=synMSVspBkY
 
   https://www.youtube.com/watch?v=qdASeGlQW1g
   Konnakkol - Lesson 1 - Tha Dhi Thom Nam
+***** Alap, Akshara
+***** Mora
+***** Korvai
 
-***** Alap
 ***** Yati (-> Jathi?)
       :PROPERTIES:
       :DATE:     <2020-12-19 Sat 10:23>
