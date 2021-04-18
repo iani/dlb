@@ -3799,4 +3799,41 @@ https://www.youtube.com/watch?v=oNXZVa0E4i8
 
 https://www.youtube.com/watch?v=NeZt8HlejOo
 
+** 18 Apr 2021 09:50 The Alphabet of Ugarit
+   :PROPERTIES:
+   :DATE:     <2021-04-18 Sun 09:50>
+   :END:
+
+http://www.unesco.org/culture/museum-for-dialogue/item/en/94/alphabet-of-ugarit
+
+#+begin_quote
+National Museum of Damascus, Syria
+
+Alphabet of Ugarit
+
+datation 14th century BC
+
+provenance Ugarit
+
+area Syria
+
+period 2000-1000 BC
+
+size 1.3 cm x 5.1 cm
+
+materials Clay .
+
+themes Commerce. Communication. Daily Life.
+
+This clay tablet was discovered at the site of Ugarit (modern Ras Shamra) located along the Syrian coast, 10 km north of Latakia. Ugarit was the capital city of the Empire bearing the same name.
+
+The Ugarit excavations present important collections of cuneiform tablets. These tablets reveal the usage of cuneiform script to write various different languages including Sumerian, Acadian- Babylonian, Hurrian, Cypriote, Aegean and Hittite. Also discovered were Egyptian Hieroglyphic scripts. This wide diversity of languages indicates the richness and notability of Ugarit among the nations of the old world, particularly in terms of communication, commercial interaction and cultural openness. It is evident that the scribes of Ugarit knew of the various people’s scripts and languages and used them in their commercial correspondences.
+
+Yet, the greatest role of this city is the thinking of its people and the development of the first ever phonetically based script. To transcend the accumulation of various languages and the confusion this caused, the people of Ugarit developed their own writing system. They changed the cuneiform script to represent the sounds of their spoken tongue. While previously writing was only for a special class of rulers or priests, the people of Ugarit put into writing their own everyday language, and made the capacity for writing and the preservation of knowledge more widely available.
+
+They abbreviated hundreds of cuneiform syllables into the 29 letters representing sounds used in the spoken language of the people of Ugarit. Thus the first alphabet was created and the history of writing was transformed.
+
+The alphabet of Ugarit was found transcribed on some small tablets in the royal palace of the city which was discovered in 1948. This tablet is read from left to right and its letters are ordered phonetically in a manner which we later find in the Canaanite, Aramaic and Arabic written letters. Speaking to the French Academy in 17 February 1950, the scientist Charles Virolleaud said: "There is no doubt that we will not know the name of the alphabet creator, but we know that he is Phoenician or in general Syrian, and we can say that the people, who achieved this miracle, deserve our gratitude, and it has the right to have a special dignity in the history of the world."
+#+end_quote
+
 * Bib
