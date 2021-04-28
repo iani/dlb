@@ -3836,4 +3836,276 @@ They abbreviated hundreds of cuneiform syllables into the 29 letters representin
 The alphabet of Ugarit was found transcribed on some small tablets in the royal palace of the city which was discovered in 1948. This tablet is read from left to right and its letters are ordered phonetically in a manner which we later find in the Canaanite, Aramaic and Arabic written letters. Speaking to the French Academy in 17 February 1950, the scientist Charles Virolleaud said: "There is no doubt that we will not know the name of the alphabet creator, but we know that he is Phoenician or in general Syrian, and we can say that the people, who achieved this miracle, deserve our gratitude, and it has the right to have a special dignity in the history of the world."
 #+end_quote
 
+** 28 Apr 2021 05:38 Deep Humanities Initiative, Arabesken, Davidbündlertänze, and HASS
+   :PROPERTIES:
+   :DATE:     <2021-04-28 Wed 05:40>
+   :END:
+
+*** Arabesken, Davidbündlertänze
+ To relieve Carpal Tunnel Syndrome on the left hand but keep muscles trained, MT is switching from Kreisleriana to Arabesken and Davidbündlertänze.  MT remarks that the alternation of Eusebius, Florestan and Eusebius plus Florestan's appearances Davidbündlertänze is fascinating. I agree. This is inspiring.
+
+*** Deep Humanities Initiative @ nettime (c/o Sean Cubitt)
+    :PROPERTIES:
+    :DATE:     <2021-04-28 Wed 05:43>
+    :END:
+
+#+begin_quote
+The thread - on the way to dissolution - has been fascinating and I've not much to add except that the list of topics avoids almost every major achievement of the humanities (and therefore the reasons why governments, pressure groups etc like to attack them).
+
+Feminism arose in the 1970s not from STEM but from HASS (humanities arts and social science). STEM did not propel postcolonial and decolonial studies or critical race studies - if anything they lent their support to the lie of biological racism. I always presumed that STS science and tech studies changed its name from History and Philosophy of Science to broaden its field but also to escape its subservient role in med schools ectetera. But like critical digital studies it owes little to schools of computing (this comment might be out of order but it has in general been at the margins where computing meets HASS that the key work has been done). Critical disability studies didn't emerge from engineering schools tho it should have. HASS have changed the intellectual and ethical landscape of the 21st century at least as profoundly as STEM
+
+On the positive side, the scientists have been far better at communicating the arcana of quantum theory and DNA than in general we have been in communicating what HASS does to the general public (tip of the hat to Nick Mirzoeff for his efforts). Feminists and critical race scholars - Ta Nahisi Coates  - have done huge things here; Rebecca Solnit out of environmental humanities - but no big statements for several decades of what we collectively are doing and why.
+
+That is exactly what a major initiative should be doing. Broad is more important than deep
+
+seán
+
+From: nettime-l-bounces@mail.kein.org <nettime-l-bounces@mail.kein.org> on behalf of nettime-l-request@mail.kein.org <nettime-l-request@mail.kein.org>
+Sent: Sunday, 25 April 2021 8:00 PM
+To: nettime-l@mail.kein.org <nettime-l@mail.kein.org>
+Subject: nettime-l Digest, Vol 163, Issue 14
+ 
+Send nettime-l mailing list submissions to
+        nettime-l@mail.kein.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        https://protect-au.mimecast.com/s/YOqVCWLJMvF59Axm6i6brnw?domain=mx.kein.org
+or, via email, send a message with subject or body 'help' to
+        nettime-l-request@mail.kein.org
+
+You can reach the person managing the list at
+        nettime-l-owner@mail.kein.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of nettime-l digest..."
+
+
+Today's Topics:
+
+   1. Re: deep humanities initiative (Ted Byfield)
+   2. Re: deep humanities initiative
+      (d.garcia@new-tactical-research.co.uk)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Sat, 24 Apr 2021 13:00:32 -0400
+From: "Ted Byfield" <tedbyfield@gmail.com>
+To: Nettime-l <nettime-l@kein.org>
+Subject: Re: <nettime> deep humanities initiative
+Message-ID: <5ABA5930-4D5D-48C5-B323-C6FC37D9844B@gmail.com>
+Content-Type: text/plain; charset="UTF-8"; format=flowed
+
+I have a few thoughts: the first has to do with these one-off comments
+about "deep," the second has to do with the gender aspect of this thread
+in just five messages long. They're related, in a way.
+
+(1) DEEP
+
+Somewhere in my piles of scribbles I have some notes for an essay on the
+poetics of "deep." tl;dr: no, *do* forget web, pockets, and Europe.
+Those associations are fine, but there are better ways to approach this
+kind of thing than a couple of guys dashing off whatever comes to mind.
+
+One of my favorite mini-methods for just-add-water cultural analysis is
+Google's autocomplete ? say, what it coughs up if you type in "deep
+a", "deep b", "deep c", etc. 26 searches is boring, but its rote,
+mechanical quality forces you to look at what other people are thinking.
+In this case it's pretty funny (part of me wants to say *deeply
+ironic*), because you're staring the problem right in its face: what do
+millions, maybe billions of people mean when they think "deep"?
+
+There are several ~layers of meaning, but I'll just get to a few:
+
+One is older, and has a miscellaneous quality because "deep" is literal:
+"deep pockets," "deep ocean," "deep end," etc. They're not so
+interesting, though "deep sleep" is one of them, and it was probably a
+basis for later, more metaphorical notions of deep."
+
+Then there's another layer where the marketing kick in, and you start to
+see more metaphorical phrases like "deep conditioner" or "deep tissue
+massage." This second layer is less miscellaneous because the marketing
+has a focus, the human body. In this sense, "deep" takes on a new,
+latent meaning through an implied contrast ? not just with a
+traditional antonym like "shallow", I think, but with something more
+like "superficial." It's not so explicit in this context, but this turn
+came with gendering ? I think because commercial representations of
+bodies tended to focus on women first, and conveyed a sort of
+double-bind message: your body is a chronic problem / this product will
+fix or maintain it /  turn your body into a promise. Lather, rinse,
+repeat, as they say.
+
+I'll fast-forward past a bunch of other mutations in the micro-poetics
+of depth, rooted in things like the rise of certain styles of
+audio-production (especially in "industrial" music), "deep ecology"
+(first used in 1973 but only widely adopted in English in the '90s), the
+rise of aerial and satellite surveillance (which promoted a vertical
+perspective that made high-resolution a matter of "depth," and not just
+in the optical sense of depth of field ? see William Burrows's seminal
+book on space-based intelligence, _Deep Black: Space Espionage and
+National Security). But those things would all need essays in their own
+right, some of which have been written.
+
+One sign the poetics of depth was catching on was the glut of movies and
+TV in the '90s: Star Trek ? Deep Space Nine, Deep Cover, Deep Impact,
+Deep Blue Sea, Deep Rising, The Deep, etc, etc.
+
+For me, the key shift was the use of "deep" to describe statecraft or
+the appearance of it. The obvious reference is the "deep state," which
+was first used in Turkey in the '90s, and a decade or so later started
+to become a staple of US political vocabulary ? probably an
+interesting history of how that happened, but one that'll likely never
+be written. But part of the reason it worked is that "deep" had been a
+staple in paranoiac rightist ideas about "deep cover," "sleeper cells,"
+and "Manchurian" this and that ? some of which vaguely referred not
+just to anti-Soviet ideas but also to anti-Chinese kookiness about
+"brainwashing," dating from the Korean War. That background might
+explain why the name of a '72 porn movie was adopted as the pseudonym
+for the Watergate informer "Deep Throat" in the same year.
+
+There were other, more progressive uses, like Pauline Oliveros's phrase
+"deep listening," which was both a pun. IIRC see coined it around '90 or
+so after a recording experiment in some subterranean chamber ? but it
+also referred to a more deliberate but also open focus, which is related
+to emerging ideas about "immersive" experiences ? another implicit
+reference to depth, but one that also tacitly invokes intensifying
+modernist ideas about rising distraction (cf. the 2016 self-help book
+Deep Work about avoiding distraction). I think Oliveros probably was
+tapping into the kinds of thinking that characterized ideas like "deep
+ecology," with their emphasis on forms of connection and engagement that
+eluded conventional and technocratic ways of slicing and dicing the
+world.
+
+Also: Deep Thoughts is the name of the computer in Hitchhiker's Guide to
+the Galaxy, which probably accounts for a huge swath of "deep" names in
+tech, even if the bros don't know it (let alone know it was a joke).
+
+So those are the main clusters of cultural noise that were available or
+in the air when tech bro culture started to tag things as "deep": deep
+web (not to be confused with the dark web), Deep Blue (the chess-playing
+computational system), deep neural networks (DNNs), deep linguistic
+processing (DLP), deep dream (AI-based image generation), deepfakes,
+Deepmind (an AI company), Deep Nostalgia (dumb app that animates old
+photo portraits). These things are pretty different, in that they tap
+into different parts of these histories; but they're all pretty the same
+because they're all "deep," right?
+
+Once the bros got involved, it became obligatory to call everything
+"deep." For example, "deep learning" was a stated goal of ML/AI
+researchers ? it doesn't have anything to do with what we'd
+traditionally associate with deep knowledge, it's just the kind of low
+bar with a high name that tech culture loves (like "artificial
+intelligence"). So you can tack "deep" on to pretty much anything, and a
+huge swath of people will take it seriously. If I started talking about
+"deep papier mache," an alarming number of people would assume I meant
+some serious, more fundamental understanding of the it as a history,
+medium, practice, whatever, but it's just a phrase I made up.
+
+(2) GENDER, SORT OF
+
+When I saw Anya's encouraging remark, in contrast to the more negative
+one-liners, I was like ?, especially because it felt like I'm part of
+the kind of pile-on that's made Nettime such a problematic space.
+
+> I love this if they are really working to impose a structure within 
+> the creation of software and the random, unexplored consequences 
+> decisions made by most (mainly white men) people creating it.
+> It?s an extremely unfriendly environment to anyone but young white 
+> men, as Silicon Valley culture believes the lie that the most money 
+> will be made from the idiot zuckerbergs model, when in reality most 
+> successful startups are created by people with experience.
+>
+> The Silicon Valley culture, and by necessity the software et al 
+> created by it, is extreme capitalism with profit prioritized above all 
+> else, and F the humans who haven?t pillaged everyone else and gotten 
+> too rich to be tolerated.
+
+Unfortunately, like I said, the initiative looks like it capitulates to
+that kind of culture rather than challenging.
+
+It might make real sense at SJSU as an internal strategy for promoting
+certain forms of knowledge and study, but when a document like that
+escapes that orbit it becomes ridiculous. It can be both things at once.
+
+Cheers,
+Ted
+
+On 24 Apr 2021, at 3:10, Geert Lovink wrote:
+
+> And do not forget the term 'deep Europe', one of the many inventions 
+> coming from the nettime scene? neither East nor West or 
+> continental? https://protect-au.mimecast.com/s/zsZvCXLKNwFX5xGo4IVhMEX?domain=v2.nl
+> <https://v2.nl/events/deep-europe/view>
+>
+> Geert
+>
+>
+>> On 24 Apr 2021, at 8:36 am, Michael H. Goldhaber 
+>> <michael@goldhaber.org> wrote:
+>>
+>> Is it more closely related to the ?deep state? or to ?deep 
+>> pockets ?? Both?
+
+
+------------------------------
+
+Message: 2
+Date: Sun, 25 Apr 2021 09:23:55 +0100
+From: d.garcia@new-tactical-research.co.uk
+To: Geert Lovink <geert@xs4all.nl>
+Cc: a moderated mailing list for net criticism
+        <nettime-l@mail.kein.org>
+Subject: Re: <nettime> deep humanities initiative
+Message-ID:
+        <17a944fd5f8d0ee7e18def21c6a7a982@new-tactical-research.co.uk>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+
+On 2021-04-24 08:10, Geert Lovink wrote:
+> And do not forget the term 'deep Europe', one of the many inventions
+> coming from the nettime scene? neither East nor West or
+> continental? https://protect-au.mimecast.com/s/zsZvCXLKNwFX5xGo4IVhMEX?domain=v2.nl
+
+We could track contemporary versions of the so called ?depth narrative?
+back to structuralists such as Levi Strause arguing that beneath the
+surface of the social world is a structure or a grammar. As well as
+seeing the antecedence of Marx and Freud who don?t believe that whats
+happening on the surface tell you as much as knowing what is going on
+below in the depths. Geology is the model here for way of knowing about
+how shape of the landscape came to be the way it is by digging below the
+surface.
+
+This depth narrative has never been without its critics later
+structuralists and post-structuralists inverted the story by celebrating
+the surface at the expense of depth. Particularly Barthes who was
+famously uncomfortable with ?meaning?, which he described as heavy,
+sticky declaring that ?I?ve always wanted to be exempt from meaning the
+way one is exempt from military service?. ? As a realist he recognised
+that he couldn't escape it altogether but applies for some kind of
+temporary exemption, a rest from meaning.? From a visual arts standpoint
+I have always seen this tussle as echoing the arrival of Warhol on the
+scene whose slippery serious anti-seriousness effectively disrupted
+Abstract Expressionism?s existentialist claims to psychological depth.
+
+
+
+------------------------------
+
+#  distributed via <nettime>: no commercial use without permission
+#  <nettime>  is a moderated mailing list for net criticism,
+#  collaborative text filtering and cultural politics of the nets
+#  more info: https://protect-au.mimecast.com/s/YOqVCWLJMvF59Axm6i6brnw?domain=mx.kein.org
+
+End of nettime-l Digest, Vol 163, Issue 14
+******************************************
+
+#  distributed via <nettime>: no commercial use without permission
+#  <nettime>  is a moderated mailing list for net criticism,
+#  collaborative text filtering and cultural politics of the nets
+#  more info: http://mx.kein.org/mailman/listinfo/nettime-l
+#  archive: http://www.nettime.org contact: nettime@kein.org
+#  @nettime_bot tweets mail w/ sender unless #ANON is in Subject:
+
+#+end_quote
+
 * Bib
