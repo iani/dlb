@@ -1389,6 +1389,129 @@ https://en.wikipedia.org/wiki/Graha_bhedam
 
 ***** Tala - Gati - Konnakol
 
+****** Eight Akshara kala talams of the South Indian Tala system
+       :PROPERTIES:
+       :DATE:     <2021-05-08 Sat 04:07>
+       :END:
+
+https://kalyanikalamandir.com/blogs/eight-akshara-kala-talams-of-the-south-indian-tala-system/
+
+#+begin_quote
+Kalyani Kala Mandir
+
+The South Indian Talam System has primarily Seven Talams. These are as follows:
+
+    Ada Talam
+    Dhruva Talam
+    Eka Talam
+    Jumpa Talam
+    Matya Talam
+    Rupaka Talam
+    Triputa
+
+All of these talams consist of different parts or angas, which can be a few or all combinations of Laghu, Dhrutam and Anudhrutam.
+The Laghu is expressed with a clap and a few beats. It can vary according to the jati of the talam. Hence, it can consist of 4 beats( chatusra jaati), 3 beats( Tisra Jaati), 7 beats( Misra Jaati), 5 beats( Khanda Jaati) or 9 beats( Sangeerna Jaati). The symbol for Laghu is 1.
+The Dhrutam is expressed by a clap and a wave. It always has 2 beats. Its symbol is 0.
+The Anudhrutam is expressed by a single clap. It always has 1 beat. Its symbol is U
+
+Most of the Talams have the laghu and anudhrutams, the number of repetitions may vary.
+The only talam which has an anudhrutam is the Jumpa talam. Eka Talam is the only talam which has no Dhrutam.
+
+Based on the symbols, the 7 talams can be symbolically represented as the following:
+
+    Ada Talam: 1100
+    Dhruva Talam : 1011
+    Eka Talam: 1
+    Jumpa: 1U0
+    Matya: 101
+    Rupaka Talam:01
+    Triputa talam: 100
+
+Now, if we mathematically analyse these Talams, the ones which shall have only eight Aksharakalas or matras or beats will be the following:
+
+1. Jumpa Talam, in Khanda jaati: Its symbol is 1U0= 5+1+2=8 beats( 1 laghu of 5 beats, 1 anudhrutam and 1 dhrutam)
+
+In Tala lipi, it can be shown as below:
+
+S R G S R l G l M .  ll
+R G M R G l M l P . ll
+G M P G M l P l D . ll
+M P D M P l D l N . ll
+P D N P D l N l S .  ll
+
+2. Matya talam , Tisra Jaati: Its symbol is 101= 3+2+3=8 beats ( 1 Laghu of 3 beats, 1 dhrutam and 1 more laghu of 4 beats)
+
+In talalipi, it can be written as below:
+
+S R G l S R l S R G ll
+R G M l R G l R G M ll
+G M P l G M l G M P ll
+M P D l M P l M P D ll
+P D N l P D l P D N ll
+D N S l D N l D N S ll
+
+3. Triputa Talam, Chatusra Jati: Its symbol is 100=4+2+2= 8 beats( 1 Laghu of 4 beats + 2 Dhrutams)
+
+In Talalipi, it can be written as shown below:
+
+S R S R l S R l G M ll
+R G R G l R G l M P ll
+G M G M l G M l P D ll
+M P M P l M P l D N ll
+P D P D l P D l N S ll
+
+#+end_quote
+
+****** COMPARATIVE ANALYSIS OF THE CARNATIC TALA SYSTEM AND HINDUSTANI TALA SYSTEM
+
+https://kalyanikalamandir.com/comparative-analysis-of-the-carnatic-tala-system-and-hindustani-tala-system/
+
+#+begin_quote
+
+The Hindustani and the Carnatic Tala Systems form the backbone of Indian music and dance. They are well developed, intricate systems using different kinds of beats in various mathematical metric cycles during performances of dance, music or other musical instruments.
+
+Although the comparison between these two systems can be quite elaborate, we have tried to give a simple, basic overview to the differences and similarities between them.
+
+Similarities:
+
+1. Both the Tala Systems are depicted by a number of beats in a set duration to be repeated during each piece performed.
+2. The beats are marked with a system of hand claps, hand waves and the movements of the fingers.
+3. The most important point of the rhythmic emphasis is the ‘sam’, the first beat of the tala, and to which all variations eventually return.
+4. Both the Tala Systems use various symbols depicting the different parts or ‘angas’ of the Tala.
+5. Usually, each word or beat has a rest of equal duration, but there are exceptions in both Tala systems where this rule isn’t followed.
+6. The syllables or bols are used in both and used as one word, which have the same time value within the tala.
+7. Both follow the depiction of Sam with a handclap.
+8. Both follow three speeds.
+9. They both follow a 3 cycle rhythmic end to finish a rhythmic pattern.
+10. Both the systems follow the yati.
+
+Differences:
+
+- The Carnatic System has 7 basic Talams. These are Ada, Dhruva, Eka, Jumpa, Matya ,Rupaka and Triputa. The Hindustani system has approximately 12 widely used tals – mainly the Tintal, Jhoomra, Tilwada, Dhamar, Ektal, Jhaptal, Keherwa, Rupak, Dadra, Chowtal, Chachar and Sitarkhani.
+- The Sam is depicted by the symbol + in Hindustani system, but doesn’t have a particular symbol in the Carnatic system.
+- The Carnatic system has about 16 angas. The most common are the laghu, Dhrutam and anudhrutam shown by the symbols l, 0 and U. Anudhrutam has 1 aksharakala, Dhrutam has 2 aksharakalas and laghu has the possibility of upto 5 kinds of Aksharakalas ranging from 3, 4, 5, 7, 9 depending upon the jaati of the tala. ( aksharakalas meaning the number of taps used). These aksharakalas can further be divided into ‘nadais’ which determine the number of beats contained in each aksharakala. These are again of 5 types- 3, 4, 5, 7, 9- tisram, chatusram, khandam, mishram ,sangeernam.
+- The Hindustani tala’s beats are known as tali and khali- Each tali is numbered beginning with 2 , 3 and so on. The first is written as +. The khali is an emphasized beat shown by the wave of the hand and written by the symbol 0. In Carnatic system, 0 is dhrutam having 2 beats marked by a clap and a wave. Hence, the angas of the two tala systems are different and have different beats and symbols assigned to them.
+- The rests in Hindustani system are marked by * . The rests in Carnatic system are written as .and ,
+- The syllables used in both are quite different. In Hindustani, the syllables used are dha, ga, dhi, ge, dha, ka, ti, na, tun, tin, terikita, te. The syllables used in Carnatic are ta ki ta, ta ka di mi, ta ki ta taka di mi, ta ka ta ki ta and ta ka di mi ta ka ta ki ta. For takita, tajunu may also be used, for taka, jhunu may be used too.
+- The speeds in Hindustani system are called Vilambit, Madhya and Drut. The speeds in Carnatic system are called Vilambam, Madhyamam and Dhritam. These are slow, medium and fast.
+- Hindustani system has some exceptional tals or fractional tals expressed in terms of an integer and a fraction. They usually contain a grouping of 1 and a ½ beats at the end of the cycle. Some examples are ArdhaJaital, UpaDasi and Sawaritals which contain 2 or more groupings of 1 ½ matras , causing an irregular pattern.
+- The Carnatic system also has irregular talams. They have no angalakshanam and are played with irregular taps. . They have no laghu, no jaati, no nadai. Only maatras exist in them. These are known as ChaapuTalams. They are of 4 types- TisraChapu talam-3+3=6 matras, KhandaChaputalam- 5+5=10 matras, Misrachaputalam- 7 +7=14 matras and SangeernaChaapuTalam- 9+9=18 matras.
+
+- The Carnatic system has about 175 talams .The Simhanandatala is the longest Carnatic talam. The Hindustani system has about 350 tals.
+- The concluding part of a 3 cycle rhythmic ending in Hindustani system is called Tihai, whereas in Carnatic system it is called Teermaanam.
+- In Carnatic music, the yati, or decorative mathematical pattern is used as an important technique and is a hallmark of this particular music system. There are 6 major yatis:
+
+        a. GoputchaYati
+        b. SrotovaahaYati
+        c. DamaruYati
+        d. MridangaYati
+        e. SamaYati
+        f. VishamaYati 
+
+- In Hindustani music also, the yati is used although the place of yati in Hindustani music is very limited.
+
+This is the overview is a short layman’s approach to knowing the broad categorization of the Hindustani and Carnatic Tala systems of India. Of course, as we delve deeper into either of them, their understanding and evolution becomes more complicated and in depth.
+#+end_quote
 ****** Konnakol for basic Gatis
 
 Lesson 2 - Dividing Beats - #MathScienceMusic​
