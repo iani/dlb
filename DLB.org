@@ -4724,4 +4724,7 @@ https://youtu.be/0UrMypVN6c0?t=470
 
 Dr. Raju is probably using [[https://revealjs.com/#/2][reveal.js]] (via [[https://irreal.org/blog/?p=7196][org-reveal?]]).
 
+PS: Another presentatin made by Dr. Raju with EMACS: 
+https://youtu.be/A9Og1k-Z5O4?t=320
+
 * Bib
