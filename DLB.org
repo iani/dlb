@@ -1385,7 +1385,53 @@ https://en.wikipedia.org/wiki/Graha_bhedam
 
 ***** Aksharas
 
-**** Rhythm
+**** Rhythm and Meter
+     :PROPERTIES:
+     :DATE:     <2021-05-09 Sun 07:57>
+     :END:
+
+***** Metric notation symbols
+      :PROPERTIES:
+      :DATE:     <2021-05-09 Sun 07:57>
+      :END:
+
+https://chs.harvard.edu/chapter/symbols/
+
+****** The meaning of ⏓
+
+⏓ notates an *anceps*, i.e. can be a short or a long syllable.  https://en.wikipedia.org/wiki/Anceps : 
+
+#+begin_quote
+In languages with quantitative poetic metres, such as Ancient Greek, Latin, Arabic, Sanskrit, and classical Persian, an anceps (plural ancipitia[1] or (syllabae) ancipites[2]) is a position in a metrical pattern which can be filled by either a long or a short syllable.
+
+In general, anceps syllables in words, such as the first syllable of the Greek words Ἄρης Árēs (the Greek god of war) or πικρός pikrós "bitter", which can be treated by poets as either long or short, can be distinguished from anceps elements or positions in a metrical pattern, which are positions where either a long syllable or a short syllable can be used.[3] 
+#+end_quote
+[3] M. L. West, "Three topics in Greek metre", The Classical Quarterly, Vol. 32, No. 2 (1982), pp. 281-297; p. 286.
+
+See examples in: 
+
+- https://chs.harvard.edu/chapter/symbols/
+
+#+begin_quote
+⏓ = short or long syllable
+#+end_quote
+
+and https://en.wikipedia.org/wiki/Hendecasyllable
+
+#+begin_quote
+The pattern of the “Phalaecian” (Latin: hendecasyllabus phalaecius) is as follows (using “–” for a long syllable, “⏑” for a short and “⏓” for an “anceps” or variable syllable): 
+⏓ ⏓ – ⏑ ⏑ – ⏑ – ⏑ – ⏓ 
+(where ⏓ ⏓ is one of – ⏑ or – – or ⏑ –)
+#+end_quote
+
+***** Comparative Studies in Greek and Indic Meter
+      :PROPERTIES:
+      :DATE:     <2021-05-09 Sun 07:52>
+      :END:
+
+https://chs.harvard.edu/chapter/foreword-4/
+
+https://chs.harvard.edu/chapter/8-an-inquiry-into-the-origins-of-indic-trimeter/
 
 ***** Tala - Gati - Konnakol
 
