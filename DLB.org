@@ -4814,10 +4814,13 @@ Dr. Raju is probably using [[https://revealjs.com/#/2][reveal.js]] (via [[https:
 PS: Another presentatin made by Dr. Raju with EMACS: 
 https://youtu.be/A9Og1k-Z5O4?t=320
 ** 12 May 2021 09:13 a-cities and nations around Mesopotamia
-*** Akkadians
-*** Amorites [-> Mar-tu] [Samaritans?]
-*** Aramaeans
-*** Aratta
+*** Akkadians (Northwestern competitors/successors to Sumerians. Earliests Semitic Language)
+*** Amorites [-> Mar-tu] [Samaritans?] (Western tribes)
+*** Aramaeans (also contemporary to hebrew around the time of Jesus)
+*** Aratta (Eastern competitors to early Mesopotamian civilizations.  Own guess: Possibly related to western extensions of Hindus valley civilizations?)
+*** Assyrians (Younger power players in Mesopotamia and near east, also competitors to Hebrew people)
+
+Question: Relations between Amorites/Aramaeans/Assyrians?
 
 See also: 
 https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta#/media/File:Enmerk-2.gif
