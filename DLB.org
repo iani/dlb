@@ -4813,5 +4813,27 @@ Dr. Raju is probably using [[https://revealjs.com/#/2][reveal.js]] (via [[https:
 
 PS: Another presentatin made by Dr. Raju with EMACS: 
 https://youtu.be/A9Og1k-Z5O4?t=320
+** 12 May 2021 09:13 a-cities and nations around Mesopotamia
+*** Akkadians
+*** Amorites [-> Mar-tu] [Samaritans?]
+*** Aramaeans
+*** Aratta
+
+See also: 
+https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta#/media/File:Enmerk-2.gif
+https://en.wikipedia.org/wiki/Enmerkar
+
+https://www.newworldencyclopedia.org/entry/Amorites
+
+#+begin_quote
+Amorite (Sumerian Mar.tu, Akkadian Amurrūm, Egyptian Amar, Hebrew ’emōrî) refers to a Semitic people who first occupied the country west of the Euphrates from the second half of the third millennium B.C.E.. They were originally a nomadic people whose prowess as warriors gradually brought them into a powerful position in Mesopotamia. Their rise to power brought about significant changes in Mesopotamian civilization. From 2000-1600 B.C.E., they came to dominate the region, the most famous Amorite king being the great Hammurabi.
+
+In the later second millennium B.C.E., the Amorites migrated or were pushed westward toward Canaan. There, the Israelites treated them as enemies and left several records of their defeat by Israelite heroes such as Joshua. The Amorites disappear from the historical record as a distinct population group around the sixth century B.C.E.#+end_quote
+
+[...]
+
+After the exile, in the time of Ezra and Nehemiah, Jews who had intermarried with Amorites and other Canaanite women were required to divorce their wives (Ezra 9-10). It is likely that some of the Amorites came to be counted among the Samaritans, the Israelites of mixed lineage who maintained a substantial rival kingdom to the Jews during the next several centuries. The Samaritans built a temple of Yahweh on Mount Gerezim with its own priesthood, following the religious laws of Moses as expressed in the Samaratan Pentateuch. Other Amorites probably blended into the Arabic, Babylonian, and Anatolian civilizations, leaving little trace after the sixth century B.C.E.. 
+
+#+end_quote
 
 * Bib
