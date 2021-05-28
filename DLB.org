@@ -4850,5 +4850,24 @@ After the exile, in the time of Ezra and Nehemiah, Jews who had intermarried wit
 *** Enki
 *** Utnapishti[m]
 *** Pazuzu
+** 28 May 2021 06:15 Hetero/topy/doxy/praxy/glossy - shruti-smrti - people of the book
+   :PROPERTIES:
+   :DATE:     <2021-05-28 Fri 06:20>
+   :END:
+
+https://www.islamawareness.net/Hinduism/ZakirNaik/part4.html
+
+Scripture -> Word -> Meaning -> Deed -> Process?
+
+#+begin_quote
+Admirers of Goethe, both James and Wittgenstein quote Faust, ‘Im Anfang war die Tat, ‘in the beginning was the deed’. James does it in ‘Bergson and his Critique of Intellectualism', one of the PU lectures, published in 1909 (but he cites Goethe on other occasions as well[1]). Wittgenstein does it in OC, among the remarks from the ‘pragmatist week’ (but he also cites Goethe on other occasions as well[2]). Clearly, this is a famous quote and they are not the only ones to have used it, but it is of interest that both were struck by the very same words, and probably for similar reasons[3]: although in different contexts, both indicate action, rather than the word, as the starting point of philosophical activity. Now the point is to understand to what extent the two aspirations share a common vision.
+
+In the pragmatist tradition, it is James, more than Peirce, who emphasizes the theme of action; this is actually one of the acknowledged divergences between the two thinkers. Beyond working on it in connection with the pragmatic maxim, James mainly deals with action in the context of psychology.
+#+end_quote 
+(from: https://ebrary.net/92382/economics/anfang)
+
+"Im Anfang war die Tat": Paul Haupt (1920) The Beginning of the Fourth Gospel. The American Journal of Philology. 41(2), p. 177-180. https://www.jstor.org/stable/289357?seq=1#metadata_info_tab_contents
+
+Im Anfang war das Wort -> (Sinn -> λόγος, νοῦς,) -> Kraft -> Tat.
 
 * Bib
